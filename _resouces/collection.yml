@@ -2,6 +2,7 @@ collections:
   resouces:
     output: true
     order:
+      - Forms and Guides/Guides.md
       - Forms and Guides/Forms.md
       - Forms and Guides/.keep
       - Register of Licensed Service Providers.md
