@@ -2,9 +2,9 @@ collections:
   resouces:
     output: true
     order:
-      - FAQs.md
-      - Legislation.md
       - Register of Licensed Service Providers.md
       - Forms and Guides/.keep
       - Forms and Guides/Forms.md
       - Forms and Guides/Guides.md
+      - Legislation.md
+      - FAQs.md
