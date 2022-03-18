@@ -10,7 +10,7 @@ To be eligible for a licence, applicant is required to be fit and proper.
 #### Fit and Proper Criteria
 As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an individual or a business entity is a fit and proper person to hold or continue to hold a licence, the licensing officer may take into account any matter the licensing officer considers relevant, including any of the following:<br>
 <br>(a) In the case of an individual —
-	<ul>(i) that the individual has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;</ul>
+<ul>(i) that the individual has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;</ul>
 <ul>(ii)	that the individual has had a judgment entered against the individual in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on the part of the individual;</ul>
 <ul>(iii)	that the individual is or was suffering from a mental health condition (for example, psychotic disorder, psychosis, schizophrenia, schizoaffective disorder, delusional disorder, bipolar disorder, psychotic depression, or personality disorder etc)<sup>[1]</sup></ul>
 <ul>(iv)	that the individual is an undischarged bankrupt or has entered into a composition with the creditors of the individual; or</ul>
@@ -50,7 +50,7 @@ Please note that with the exception of the “Declaration form for Business Enti
 <ul>3.	Declaration forms which have been duly filled up and endorsed. These include: </ul>
 <ul><ul>a. One copy of the “<b>Declaration Form for Business Entity</b>” [to hyperlink], which is to be completed by an officer duly authorised by the business entity; and</ul>
 <ul>b.	The “<b>Declaration Form for Individual</b>” [to hyperlink], which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul></ul>
-<ul>4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country.<ul></td></tr>
+<ul>4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country.</ul></td></tr>
 	
 <table class="table-h">
 	<tr>
