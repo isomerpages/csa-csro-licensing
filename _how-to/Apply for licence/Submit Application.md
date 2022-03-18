@@ -26,10 +26,10 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 <ul>(v) that the business entity has had a licence revoked by the licensing officer previously.</ul>
 
 <ul><b>Note:</b></ul>
-<ul>•	Business entity applicant should ensure the following officers are included as <i>officers of the business entity</i> in the licence application:</ul>
-<ul><ul>1. Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and company secretary; and</ul>
-	<ul>2. Any other person who is responsible for the management of the business entity.</ul></ul>
-<ul>•	Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</ul>
+<ul>(1) Business entity applicant should ensure the following officers are included as <i>officers of the business entity</i> in the licence application:</ul>
+<ul><ul>(a) Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and company secretary; and</ul>
+	<ul>(b) Any other person who is responsible for the management of the business entity.</ul></ul>
+<ul>(2) Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</ul>
 
 
 #### Online application
@@ -45,21 +45,21 @@ Applicant is required to submit the following supporting documents for each lice
 <br>
 Please note that with the exception of the “Declaration form for Business Entity”, a copy of each document is required for <u>every</u> <i>officer of the business entity</i>:
 
-<ul>1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</ul>
-<ul>2.	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service).</ul>
-<ul>3.	Declaration forms which have been duly filled up and endorsed. These include: </ul>
-<ul><ul>a. One copy of the “<b>Declaration Form for Business Entity</b>” [to hyperlink], which is to be completed by an officer duly authorised by the business entity; and</ul>
-<ul>b.	The “<b>Declaration Form for Individual</b>” [to hyperlink], which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul></ul>
-<ul>4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country.</ul></td></tr>
+<ul>(1) Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</ul>
+<ul>(2)	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service).</ul>
+<ul>(3)	Declaration forms which have been duly filled up and endorsed. These include: </ul>
+<ul><ul>(a) One copy of the “<b>Declaration Form for Business Entity</b>” [to hyperlink], which is to be completed by an officer duly authorised by the business entity; and</ul>
+<ul>(b)	The “<b>Declaration Form for Individual</b>” [to hyperlink], which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul></ul>
+<ul>(4)	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country.</ul></td></tr>
 	
 <table class="table-h">
 	<tr>
 	<td><b><u>For Individual:</u></b>
 	<br><br>			
-<ul>1.	Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</ul>
-<ul>2.	Curriculum vitae (including qualification or experience (if any) relating to the licensable cybersecurity service).</ul>
-<ul>3.	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed as a personal declaration by the individual. </ul>
-<ul>4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</ul></td></tr></table>
+<ul>(1)	Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</ul>
+<ul>(2)	Curriculum vitae (including qualification or experience (if any) relating to the licensable cybersecurity service).</ul>
+<ul>(3)	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed as a personal declaration by the individual. </ul>
+<ul>(4)	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</ul></td></tr></table>
 
 <ul>Note:</ul>
 <ul>Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</ul>
