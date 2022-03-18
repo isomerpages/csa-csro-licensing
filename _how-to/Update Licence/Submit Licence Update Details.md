@@ -14,23 +14,23 @@ The following table provides guidance on the method though which licensee shall 
 	<th><b>Required supporting documents or information</b></th>
 </tr>
 <tr>
-<td>Appoinment of <i>officers of the business entity</td>
+	<td>Appoinment of <i>officers of the business entity</i></td>
 <td>At least 14 calendar days after the effective date of appointment</td>
-<td>Via <b>GoBusiness Licensing [to hyperlink]</td>
+	<td>Via <b>GoBusiness Licensing [to hyperlink]</b></td>
 <td>1.	Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants)<br>2.	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service)<br>3.	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed by the newly appointed <i>officer</i><br>4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country
 </td>
 </tr>
 <tr>
-<td>Removal of any <i>officers of the business entity</td>
+	<td>Removal of any <i>officers of the business entity</i></td>
 <td>Within 14 calendar days of such change </td>
-<td>Via <b>GoBusiness Licensing [to hyperlink]</td>
+	<td>Via <b>GoBusiness Licensing [to hyperlink]</b></td>
 <td>Licensee can make these changes directly in GoBusiness Licensing
 </td>
 </tr>
 <tr>
 <td>Changes to or inaccuracies in the names, designations, addresses or contact particulars of the licensee and/or its <i>officers of the business entity</td>
 <td>Within 14 calendar days of such change or knowing of such inaccuracy </td>
-<td>Via <b>GoBusiness Licensing [to hyperlink]</td>
+	<td>Via <b>GoBusiness Licensing [to hyperlink]</b></td>
 <td>Licensee can make these changes directly in GoBusiness Licensing<br><br>For changes made to name or passport number of licensee and/or its <i>officers of the business entity</i>, please upload photocopy of both sides of new NRIC/Work Pass, or photocopy of new Passport showing the personal particulars and official descriptions (for overseas applicants)
 </td>
 </tr>
