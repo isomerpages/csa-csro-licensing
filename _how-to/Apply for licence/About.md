@@ -13,7 +13,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybe
 <table class="table-v">
     <tr>
     <td>List of LCS as specified in the Second Schedule of the Cybersecurity Act *[to hyperlink to Statue Online]*</td>
-    <td>1. Managed security operations centre (SOC) monitoring service; and
+    <td>1. Managed security operations centre (SOC) monitoring service; and<br>
 2. Penetration testing service
 </td>
   </tr><tr>
@@ -38,4 +38,4 @@ Note:
 	
 <li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li>
 	
-<li>With effect from the commencement of the licensing framework on [date], all providers who are engaged in the business of providing LCS, have until [date + 6 months] to apply for a licence. Providers who have submitted their licence application to CSRO between [date] and [date + 6 months], may continue to engage in the business until a decision is made on their licence application. Any providers providing the LCS after [date + 6 months], without having lodged an application for a licence, will be deemed to be operating illegally. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS.</li>
+<li>With effect from the commencement of the licensing framework on 4 April 2022, all providers who are engaged in the business of providing LCS, have until [date + 6 months] to apply for a licence. Providers who have submitted their licence application to CSRO between 4 April 2022 and [date + 6 months], may continue to engage in the business until a decision is made on their licence application. Any providers providing the LCS after [date + 6 months], without having lodged an application for a licence, will be deemed to be operating illegally. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS.</li>
