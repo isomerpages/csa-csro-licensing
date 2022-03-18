@@ -18,3 +18,28 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 
 *If the mental health condition is properly managed and certified by a qualified physician or healthcare professional, the presence of a mental health condition will not affect a person’s eligibility to be licensed.
 
+#### Online application
+Application for licence is to be submitted online via GoBusiness Licensing [to hyperlink]. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit www.corppass.gov.sg or www.singpass.gov.sg.
+
+#### Supporting Documents Required
+Applicant is required to submit the following supporting documents for each licence application via GoBusiness Licensing “Upload Supporting Documents” function (please refer to **step-by-step guide** [to hyperlink] for more details).
+
+
+
+
+
+
+| For Business Entity:
+
+Please note that with the exception of the “Declaration form for Business Entity”, a copy of each document is required for every officer of the business entity:
+
+1.	Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).
+2.	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service).
+3.	Declaration forms which have been duly filled up and endorsed. These include:
+a)	One copy of the “Declaration Form for Business Entity” [to hyperlink], which is to be completed by an officer duly authorised by the business entity; and
+b)	The “Declaration Form for Individual” [to hyperlink], which is to be completed as a personal declaration by every officer of the business entity.
+4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country.
+|
+
+
+
