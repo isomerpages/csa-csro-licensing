@@ -2,4 +2,5 @@ collections:
   resouces:
     output: true
     order:
+      - Forms and Guides/.keep
       - Register of Licensed Service Providers.md
