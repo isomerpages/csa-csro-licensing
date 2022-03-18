@@ -27,7 +27,8 @@ Applicant is required to submit the following supporting documents for each lice
 <table class="table-h">
 	<tr>
 	<td><b><u>For Business Entity:</u></b>
-
+<br>
+<br>
 Please note that with the exception of the “Declaration form for Business Entity”, a copy of each document is required for <u>every</u> <i>officer of the business entity</i>:
 
 1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).
@@ -40,11 +41,11 @@ b.	The “<b>Declaration Form for Individual</b>” [to hyperlink], which is to 
 <table class="table-h">
 	<tr>
 	<td><b><u>For Individual:</u></b>
-				
+	<br><br>			
 1.	Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).
 2.	Curriculum vitae (including qualification or experience (if any) relating to the licensable cybersecurity service).
 3.	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed as a personal declaration by the individual. 
 4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</td></tr></table>
 	
-##### Note:
-* Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.
+Note:
+<br>* Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.
