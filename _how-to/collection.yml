@@ -2,6 +2,7 @@ collections:
   how-to:
     output: true
     order:
+      - Update Licence/About.md
       - Update Licence/.keep
       - Apply for licence/.keep
       - Apply for licence/About.md
