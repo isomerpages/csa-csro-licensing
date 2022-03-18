@@ -28,7 +28,7 @@ The following table provides guidance on the method though which licensee shall 
 </td>
 </tr>
 <tr>
-<td>Changes to or inaccuracies in the names, designations, addresses or contact particulars of the licensee and/or its <i>officers of the business entity</td>
+<td>Changes to or inaccuracies in the names, designations, addresses or contact particulars of the licensee and/or its <i>officers of the business entity</i></td>
 <td>Within 14 calendar days of such change or knowing of such inaccuracy </td>
 	<td>Via <b>GoBusiness Licensing [to hyperlink]</b></td>
 <td>Licensee can make these changes directly in GoBusiness Licensing<br><br>For changes made to name or passport number of licensee and/or its <i>officers of the business entity</i>, please upload photocopy of both sides of new NRIC/Work Pass, or photocopy of new Passport showing the personal particulars and official descriptions (for overseas applicants)
