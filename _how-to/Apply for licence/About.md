@@ -18,7 +18,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybe
 </td>
   </tr><tr>
     <td>Licence Fees for each Licence</td>
-    <td>Business entity - S$1000 <br>Individual - S$500<br><br>A 50% fee waiver will be granted on all applications lodged from [date] to [date].</td>
+    <td>Business entity - S$1000 <br>Individual - S$500<br><br>A 50% fee waiver will be granted on all applications lodged from 4 April 2022 to <b>[date]</b>.</td>
   </tr>
   <tr>
     <td>Refund</td>
