@@ -1,4 +1,5 @@
 collections:
   resouces:
     output: true
-    order: []
+    order:
+      - Register of Licensed Service Providers.md
