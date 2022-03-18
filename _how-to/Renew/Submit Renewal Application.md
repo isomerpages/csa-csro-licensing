@@ -4,23 +4,25 @@ permalink: /how-to/Renew/submit-renewal-application
 description: ""
 third_nav_title: Renew
 ---
-
 #### Submit Renewal Application
 Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via <b>GoBusiness Licensing</b> [to hyperlink].
 
 	Note:
-	* Licensee who fails to submit their renewal application at least 2 months prior to the expiry of the current licence will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to <b>suspend its operations until a new licence is granted</b>.
-	* Renewed licence validity period will start from the end of the current licence validity period.
+	
+	1.  Licensee who fails to submit their renewal application at least 2 months prior to the expiry of the current licence will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to suspend its operations until a new licence is granted.
+	
+	2. Renewed licence validity period will start from the end of the current licence validity period.
 
 #### Criteria for Renewal of a Licence 
 To be eligible for renewal, applicant is required to be fit and proper. 
 
-	<u>Note:</u>
+	Note:
 	
-	- Business entity licensee should ensure the following officers are included as officers of the business entity in the licence application:
-		1. Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and secretary; and
-		2. Any other person who is responsible for the management of the business entity.
-	-  Each business entity licensee should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining officers of the business entity would be termed as Key Officers in the licence application.
+	1.  Business entity licensee should ensure the following officers are included as officers of the business entity in the licence application:
+		a. Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and secretary; and
+		b. Any other person who is responsible for the management of the business entity.
+		
+	2.  Each business entity licensee should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining officers of the business entity would be termed as Key Officers in the licence application.
 
 #### Supporting Documents Required
 Licensee is required to submit the following updated supporting documents for each licence renewal application via GoBusiness Licensing “Upload Supporting Documents” function (please refer to our <b>step-by-step guide</b> [to hyperlink] for more details).
@@ -64,7 +66,7 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 </table>
 
 ##### For Individual:
-1.	“Declaration Form for Individual” [to hyperlink], which has been duly filled up and endorsed as a personal declaration by the individual. <br>
+1.	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed as a personal declaration by the individual. <br>
 2.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.
 
 	Note:
