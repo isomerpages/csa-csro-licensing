@@ -2,10 +2,6 @@ collections:
   how-to:
     output: true
     order:
-      - Cancel Licence/.keep
-      - Cancel Licence/About.md
-      - Cancel Licence/Submit Cancellation Application.md
-      - Cancel Licence/Guide to Cancellation of Licence.md
       - Apply for licence/.keep
       - Apply for licence/About.md
       - Apply for licence/Submit Application.md
@@ -18,3 +14,7 @@ collections:
       - Update Licence/About.md
       - Update Licence/Submit Licence Update Details.md
       - Update Licence/Guide to Update Licence Details.md
+      - Cancel Licence/.keep
+      - Cancel Licence/About.md
+      - Cancel Licence/Submit Cancellation Application.md
+      - Cancel Licence/Guide to Cancellation of Licence.md
