@@ -43,12 +43,12 @@ Applicant is required to submit the following supporting documents for each lice
 <br>
 Please note that with the exception of the “Declaration form for Business Entity”, a copy of each document is required for <u>every</u> <i>officer of the business entity</i>:
 
-1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).
-2.	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service).
-3.	Declaration forms which have been duly filled up and endorsed. These include: <br>
-a. One copy of the “<b>Declaration Form for Business Entity</b>” [to hyperlink], which is to be completed by an officer duly authorised by the business entity; and<br>
-b.	The “<b>Declaration Form for Individual</b>” [to hyperlink], which is to be completed as a personal declaration by every <i>officer of the business entity</i>.
-4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country.</td></tr>
+<br>1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).
+<br>2.	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service).
+<br>3.	Declaration forms which have been duly filled up and endorsed. These include: <br>
+<pre>a. One copy of the “<b>Declaration Form for Business Entity</b>” [to hyperlink], which is to be completed by an officer duly authorised by the business entity; and</pre><br>
+	b.	The “<b>Declaration Form for Individual</b>” [to hyperlink], which is to be completed as a personal declaration by every <i>officer of the business entity</i>.
+<br>4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country.</td></tr>
 	
 <table class="table-h">
 	<tr>
