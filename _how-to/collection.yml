@@ -2,8 +2,8 @@ collections:
   how-to:
     output: true
     order:
-      - Renew/.keep
       - Apply for licence/.keep
       - Apply for licence/About.md
       - Apply for licence/Submit Application.md
       - Apply for licence/Guide to New Licence Application.md
+      - Renew/.keep
