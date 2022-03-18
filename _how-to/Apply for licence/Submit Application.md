@@ -16,18 +16,20 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 <br>(iv)	that the individual is an undischarged bankrupt or has entered into a composition with the creditors of the individual; or
 <br>(v)	that the individual has had a licence revoked by the licensing officer previously.
 
-	<i>*If the mental health condition is properly managed and certified by a qualified physician or healthcare professional, the presence of a mental health condition will not affect a person’s eligibility to be licensed.</i>
+	<i>If the mental health condition is properly managed and certified by a qualified physician or healthcare professional, the presence of a mental health condition will not affect a person’s eligibility to be licensed.</i>
 
 (b)	In the case of a business entity —
-<br>(i)	that the business entity has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
-<br>(ii)	that the business entity has had a judgment entered against the business entity in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on the part of the business entity;
-<br>(iii)	that any officer of the business entity is not a fit and proper person to be an officer of a business entity holding the licence;
-<br>(iv)	that the business entity is in liquidation or is the subject of a winding up order, or there is a receiver appointed in relation to the business entity, or the business entity has entered into a composition or scheme of arrangement with the creditors of the business entity; or
-<br>(v)	that the business entity has had a licence revoked by the licensing officer previously.
+* that the business entity has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
+* that the business entity has had a judgment entered against the business entity in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on the part of the business entity;
+* that any officer of the business entity is not a fit and proper person to be an officer of a business entity holding the licence;
+* that the business entity is in liquidation or is the subject of a winding up order, or there is a receiver appointed in relation to the business entity, or the business entity has entered into a composition or scheme of arrangement with the creditors of the business entity; or
+* that the business entity has had a licence revoked by the licensing officer previously.
 
-	Note:
-	* Business entity applicant should ensure the following officers are included as <i>officers of the business entity</i> in the licence application:<br>1.	Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and company secretary; and <br>2.	Any other person who is responsible for the management of the business entity.
-	* Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.
+Note:
+* Business entity applicant should ensure the following officers are included as <i>officers of the business entity</i> in the licence application:
+	* Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and company secretary; and
+	* Any other person who is responsible for the management of the business entity.
+*Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.
 
 
 #### Online application
