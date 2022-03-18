@@ -2,6 +2,7 @@ collections:
   how-to:
     output: true
     order:
+      - Cancel Licence/Guide to Cancellation of Licence.md
       - Cancel Licence/Submit Cancellation Application.md
       - Cancel Licence/About.md
       - Cancel Licence/.keep
