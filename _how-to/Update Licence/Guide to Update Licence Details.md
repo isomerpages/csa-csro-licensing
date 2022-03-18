@@ -4,3 +4,4 @@ permalink: /how-to/Update-Licence/guide-to-update-licence-details
 description: ""
 third_nav_title: Update Licence
 ---
+Licensee may download this <b>step-by-step guide</b> [to hyperlink] for licence details amendment process via GoBusiness Licensing.
