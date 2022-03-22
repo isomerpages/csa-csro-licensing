@@ -9,12 +9,12 @@ To be eligible for a licence, applicant is required to be fit and proper.
 
 #### Fit and Proper Criteria
 As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an individual or a business entity is a fit and proper person to hold or continue to hold a licence, the licensing officer may take into account any matter the licensing officer considers relevant, including any of the following:<br>
-<br>(a) In the case of an individual —
-<ul><font size="4.5">(i) that the individual has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;</ul>
-<ul>(ii)	that the individual has had a judgment entered against the individual in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on the part of the individual;</ul>
-<ul>(iii)	that the individual is or was suffering from a mental health condition (for example, psychotic disorder, psychosis, schizophrenia, schizoaffective disorder, delusional disorder, bipolar disorder, psychotic depression, or personality disorder etc)<sup>[1]</sup></ul>
-<ul>(iv)	that the individual is an undischarged bankrupt or has entered into a composition with the creditors of the individual; or</ul>
-<ul>(v)	that the individual has had a licence revoked by the licensing officer previously.</ul>
+<br><font size="4.5">(a) In the case of an individual —</font>
+<ul><font size="4.5">(i) that the individual has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;</font></ul>
+<ul><font size="4.5">(ii)	that the individual has had a judgment entered against the individual in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on the part of the individual;</font></ul>
+<ul><font size="4.5">(iii)	that the individual is or was suffering from a mental health condition (for example, psychotic disorder, psychosis, schizophrenia, schizoaffective disorder, delusional disorder, bipolar disorder, psychotic depression, or personality disorder etc)<sup>[1]</sup></font></ul>
+<ul><font size="4.5">(iv)	that the individual is an undischarged bankrupt or has entered into a composition with the creditors of the individual; or</font></ul>
+<ul><font size="4.5">(v)	that the individual has had a licence revoked by the licensing officer previously.</font></ul>
 
 <ul><sup>[1]</sup><i>If the mental health condition is properly managed and certified by a qualified physician or healthcare professional, the presence of a mental health condition will not affect a person’s eligibility to be licensed.</i></ul></font>
 
