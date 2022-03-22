@@ -5,18 +5,19 @@ description: ""
 third_nav_title: Forms and Guides
 ---
 This page contains the list of forms prescribed for licence application. 
-<br>
+
 <table>
 <tbody><tr>
-	<th><b><font size="4.5">Name of Form</font></b></th>
-	<th><b><font size="4.5">Attachment</font></b></th>
-<tr>
-<td><font size="4.5">Declaration Form for Business Entity </font></td>
-<td><font size="4.5">Click to Download</font></td>
+	<th><b>Name of Form</b></th>
+	<th><b>Attachment</b></th>
 </tr>
-	<tr>
-<td><font size="4.5">Declaration Form for Individual</font></td>
-<td><font size="4.5">Click to Download</font></td>
+<tr>
+	<td>Declaration Form for Business Entity</td>
+<td>Click to Download</td>
+</tr>
+<tr>
+	<td>Declaration Form for Individual</td>
+<td>Click to Download</td>
 </tr>
 </tbody>
 </table>
