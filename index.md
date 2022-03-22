@@ -12,13 +12,13 @@ sections:
       key_highlights:
         - title: Apply For A Licence
           description: Link to GoBusiness Licensing
-          url: ""
+          url: https://licence1.business.gov.sg/feportal/web/frontier/home
         - title: Licence Application Guidelines
           description: Information for applicants
-          url: ""
+          url: /how-to/apply-for-licence/about
         - title: Find a Service provider
           description: List of licensees
-          url: ""
+          url: /resources/register-of-lsp/list-of-licensed-individuals
   - infopic:
       title: Launch of Licensing Regime
       button: Learn more
@@ -28,4 +28,3 @@ sections:
       title: Media
       button: View More
 ---
-
