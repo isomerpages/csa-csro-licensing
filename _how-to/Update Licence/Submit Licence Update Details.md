@@ -44,7 +44,7 @@ The following table provides guidance on the method though which licensee shall 
 <tr>
 	<td>Where the licensee and/or its <i>officers of the business entity</i> have been declared bankrupt or have gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction</td>
 <td>Within 14 calendar days of such change</td>
-<td>Via email to contact@csro.gov.sg</td>
+<td>Via email to <a href="mailto:contact@csro.gov.sg">contact@csro.gov.sg</a></td>
 	<td><u>If it involves the licensee:</u><br>
 (1) The date of liquidation / winding-up / receivership / composition / arrangement<br>(2)	Total debt amount<br>(3)	Balance outstanding amount
 		<br><u>If it involves an <i>officer of the business entity:</i></u>
