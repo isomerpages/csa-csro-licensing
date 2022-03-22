@@ -1,5 +1,5 @@
 collections:
-  resouces:
+  resources:
     output: true
     order:
       - Register of Licensed Service Providers.md
