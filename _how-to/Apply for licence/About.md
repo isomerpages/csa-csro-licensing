@@ -9,7 +9,6 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybe
 <ol>•	those who is in the business of providing a LCS, is also required to obtain a licence before he/she may advertise or provide the LCS.</ol>
 
 #### At A Glance
-<br>
 <table class="table-v">
     <tr>
     <td>List of LCS as specified in the Second Schedule of the Cybersecurity Act *[to hyperlink to Statue Online]*</td>
