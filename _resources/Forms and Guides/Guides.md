@@ -14,11 +14,11 @@ This page contains the list of guides published by CSRO.
 	<th><b><font size="4.5">Attachment</font></b></th>
 <tr>
 <td><font size="4.5">Buyer's Guide for Managed Security Operations Centre </font></td>
-<th><font size="4.5">Click to Download</font></th>
+<td><font size="4.5">Click to Download</font></td>
 </tr>
 	<tr>
 <td><font size="4.5">Buyer's Guide for Penetration Testing Service</font></td>
-<th><font size="4.5">Click to Download</font></th>
+<td><font size="4.5">Click to Download</font></td>
 </tr>
 </tbody>
 </table>
@@ -32,19 +32,19 @@ This page contains the list of guides published by CSRO.
 	<th><b><font size="4.5">Attachment</font></b></th>
 	<tr>
 <td><font size="4.5">Guide to New Licence Application</font></td>
-<th><font size="4.5">Click to Download</font></th>
+<td><font size="4.5">Click to Download</font></td>
 </tr>
 	<tr>
 <td><font size="4.5">Guide to Renew Licence </font></td>
-<th><font size="4.5">Click to Download</font></th>
+<td><font size="4.5">Click to Download</font></td>
 </tr>
 	<tr>
 <td><font size="4.5">Guide to Update Licence Details</font></td>
-<th><font size="4.5">Click to Download</font></th>
+<td><font size="4.5">Click to Download</font></td>
 </tr>
 		<tr>
 <td><font size="4.5">Guide to Cancellation of Licence</font></td>
-<th><font size="4.5">Click to Download</font></th>
+<td><font size="4.5">Click to Download</font></td>
 </tr>
 </tbody>
 </table>
