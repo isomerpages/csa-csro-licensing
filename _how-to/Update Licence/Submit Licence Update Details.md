@@ -16,7 +16,7 @@ The following table provides guidance on the method though which licensee shall 
 <tr>
 	<td>Appoinment of <i>officers of the business entity</i></td>
 <td>At least 14 calendar days after the effective date of appointment</td>
-	<td>Via <b>GoBusiness Licensing [to hyperlink]</b></td>
+	<td>Via <a>GoBusiness Licensing</a></td>
 <td>(1)	Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants)<br>(2)	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service)<br>(3)	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed by the newly appointed <i>officer</i><br>(4)	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country
 </td>
 </tr>
@@ -50,4 +50,4 @@ The following table provides guidance on the method though which licensee shall 
 		<br><u>If it involves an <i>officer of the business entity:</i></u>
 		<br>1. Name of the <i>officer</i> involved
 </td>
-</tr>
+</tr></tbody></table>
