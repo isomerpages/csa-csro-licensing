@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Register of LSP/Register of Licensed Service Providers.md
       - Register of LSP/.keep
       - Forms and Guides/.keep
       - Forms and Guides/Forms.md
