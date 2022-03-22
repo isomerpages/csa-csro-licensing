@@ -62,4 +62,4 @@ Please note that with the exception of the “Declaration form for Business Enti
 <ul>(4)	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</ul></td></tr></table>
 
 <ul><font size="4.5">Note:</font></ul>
-<ul><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></ul>
+<ul><ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul></ul>
