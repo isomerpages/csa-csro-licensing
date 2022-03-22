@@ -33,7 +33,7 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 
 
 #### Online application
-Application for licence is to be submitted online via GoBusiness Licensing [to hyperlink]. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit www.corppass.gov.sg or www.singpass.gov.sg.
+Application for licence is to be submitted online via <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit <a href="www.corppass.gov.sg">www.corppass.gov.sg</a> or <a href="www.singpass.gov.sg">www.singpass.gov.sg</a>.
 
 #### Supporting Documents Required
 Applicant is required to submit the following supporting documents for each licence application via GoBusiness Licensing “Upload Supporting Documents” function (please refer to **step-by-step guide** [to hyperlink] for more details).
