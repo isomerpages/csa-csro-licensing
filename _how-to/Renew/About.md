@@ -6,8 +6,8 @@ third_nav_title: Renew
 ---
 Licensee is required to submit a licence renewal application at least two months prior to the expiry date of the current licence. 
 
-#### At A Glance<br>
-
+#### At A Glance
+<br>
 <table class="table-v">
   <tr>
     <td>Licence Fees for each Licence</td>
