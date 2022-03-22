@@ -12,11 +12,11 @@ This page contains the list of forms prescribed for licence application.
 	<th><b><font size="4.5">Attachment</font></b></th>
 <tr>
 <td><font size="4.5">Declaration Form for Business Entity </font></td>
-<th><font size="4.5">Click to Download</font></th>
+<td><font size="4.5">Click to Download</font></td>
 </tr>
 	<tr>
 <td><font size="4.5">Declaration Form for Individual</font></td>
-<th><font size="4.5">Click to Download</font></th>
+<td><font size="4.5">Click to Download</font></td>
 </tr>
 </tbody>
 </table>
