@@ -4,10 +4,7 @@ permalink: /resources/register-of-licensed-service-provider/list-of-licensed-com
 description: ""
 third_nav_title: Register of LSP
 ---
-
-
 #### List of Licensed Companies
-<br>
 <table>
 <tbody><tr>
 	<th><b><font size="4.5">Name of Company</font></b></th>
