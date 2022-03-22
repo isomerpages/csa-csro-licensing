@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Cybersecurity Services Regulation Office
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -28,3 +28,4 @@ sections:
       title: Media
       button: View More
 ---
+
