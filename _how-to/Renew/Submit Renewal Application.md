@@ -45,7 +45,7 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 	<td rowspan="3"><font size="4.5"><u>Both existing, and new</u> <i>officers of the business entity</i></font></td>
 </tr>
 <tr>
-<td><font size="4.5">3</td>
+	<td><font size="4.5">3</font></td>
 <td><font size="4.5">Declaration forms which have been duly filled up and endorsed. These include:<br>
 	a)	One copy of the “<b>Declaration Form for Business Entity</b>” [to hyperlink], which is to be completed by an officer duly authorised by the business entity; and<br>
 	b)	The “<b>Declaration Form for Individual</b>” [to hyperlink], which is to be completed as a personal declaration by every <i>officer of the business entity</i></font>
