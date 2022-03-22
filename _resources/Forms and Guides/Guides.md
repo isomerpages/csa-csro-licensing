@@ -20,6 +20,7 @@ This page contains the list of guides published by CSRO.
 <td><font size="4.5">Buyer's Guide for Penetration Testing Service</font></td>
 <th><font size="4.5">Click to Download</font></th>
 </tr>
+</tbody>
 </table>
 
 ##### Guides for Licence Application
@@ -45,4 +46,5 @@ This page contains the list of guides published by CSRO.
 <td><font size="4.5">Guide to Cancellation of Licence</font></td>
 <th><font size="4.5">Click to Download</font></th>
 </tr>
+</tbody>
 </table>
