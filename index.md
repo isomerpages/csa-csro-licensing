@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Cybersecurity Service Provider Licence
-      background: /images/hero-banner.png
+      background: /images/banner2.jpg
       key_highlights:
         - title: Apply For A Licence
           description: Link to GoBusiness Licensing
