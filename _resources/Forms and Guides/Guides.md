@@ -7,44 +7,43 @@ third_nav_title: Forms and Guides
 This page contains the list of guides published by CSRO.
 
 ##### Buyer's Guides for Licensable Services
-<br>
 <table>
 <tbody><tr>
-	<th><b><font size="4.5">Name of Guide</font></b></th>
-	<th><b><font size="4.5">Attachment</font></b></th>
-<tr>
-<td><font size="4.5">Buyer's Guide for Managed Security Operations Centre </font></td>
-<td><font size="4.5">Click to Download</font></td>
+	<th><b>Name of Guide</b></th>
+	<th><b>Attachment</b></th>
 </tr>
-	<tr>
-<td><font size="4.5">Buyer's Guide for Penetration Testing Service</font></td>
-<td><font size="4.5">Click to Download</font></td>
+<tr>
+	<td>Buyer's Guide for Managed Security Operations Centre</td>
+<td>Click to Download</td>
+</tr>
+<tr>
+	<td>Buyer's Guide for Penetration Testing Service</td>
+<td>Click to Download</td>
 </tr>
 </tbody>
 </table>
 
 ##### Guides for Licence Application
-
-<br>
 <table>
 <tbody><tr>
-	<th><b><font size="4.5">Name of Guide</font></b></th>
-	<th><b><font size="4.5">Attachment</font></b></th>
-	<tr>
-<td><font size="4.5">Guide to New Licence Application</font></td>
-<td><font size="4.5">Click to Download</font></td>
+	<th><b>Name of Guide</b></th>
+	<th><b>Attachment</b></th>
 </tr>
-	<tr>
-<td><font size="4.5">Guide to Renew Licence </font></td>
-<td><font size="4.5">Click to Download</font></td>
+<tr>
+	<td>Guide to New Licence Application</td>
+<td>Click to Download</td>
 </tr>
-	<tr>
-<td><font size="4.5">Guide to Update Licence Details</font></td>
-<td><font size="4.5">Click to Download</font></td>
+<tr>
+	<td>Guide to Renew Licence</td>
+<td>Click to Download</td>
 </tr>
-		<tr>
-<td><font size="4.5">Guide to Cancellation of Licence</font></td>
-<td><font size="4.5">Click to Download</font></td>
+<tr>
+	<td>Guide to Update Licence Details</td>
+<td>Click to Download</td>
+</tr>
+<tr>
+	<td>Guide to Cancellation of Licence</td>
+<td>Click to Download</td>
 </tr>
 </tbody>
 </table>
