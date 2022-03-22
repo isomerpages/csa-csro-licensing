@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Register of LSP
 ---
 #### List of Licensed Individuals
-<br>
 <table>
 <tbody><tr>
 	<th><b><font size="4.5">Name of Individual</font></b></th>
