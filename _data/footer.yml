@@ -2,9 +2,4 @@ contact_us: /contact-CSRO
 show_reach: true
 feedback: null
 faq: /resources/faqs
-social_media:
-  facebook: https://www.facebook.com/YourFBPage
-  twitter: https://www.twitter.com/YourTwitter
-  youtube: https://www.youtube.com/YourYoutube
-  instagram: https://www.instagram.com/your.insta/
-  linkedin: https://www.linkedin.com/company/YourAgency
+social_media: {}
