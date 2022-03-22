@@ -5,21 +5,21 @@ description: ""
 third_nav_title: Renew
 ---
 #### Submit Renewal Application
-Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via <b>GoBusiness Licensing</b> [to hyperlink].
+Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via [GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home).
 
 Note:
-<ul>(1)  Licensee who fails to submit their renewal application at least 2 months prior to the expiry of the current licence will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to suspend its operations until a new licence is granted.</ul>
-<ul>(2) Renewed licence validity period will start from the end of the current licence validity period.</ul>
+<ul><font size="4.5">(1)  Licensee who fails to submit their renewal application at least 2 months prior to the expiry of the current licence will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to suspend its operations until a new licence is granted.</ul>
+<ul>(2) Renewed licence validity period will start from the end of the current licence validity period.</ul></font>
 
 #### Criteria for Renewal of a Licence 
 To be eligible for renewal, applicant is required to be fit and proper. 
 
 Note:
 	
-<ul>(1) Business entity licensee should ensure the following officers are included as officers of the business entity in the licence application:</ul>
+<ul><font size="4.5">(1) Business entity licensee should ensure the following officers are included as officers of the business entity in the licence application:</ul>
 <ul><ul>(a) Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and secretary; and</ul>
 	<ul>(b) Any other person who is responsible for the management of the business entity.</ul></ul>
-<ul>(2) Each business entity licensee should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining officers of the business entity would be termed as Key Officers in the licence application.</ul>
+<ul>(2) Each business entity licensee should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining officers of the business entity would be termed as Key Officers in the licence application.</ul></font>
 
 #### Supporting Documents Required
 Licensee is required to submit the following updated supporting documents for each licence renewal application via GoBusiness Licensing “Upload Supporting Documents” function (please refer to our <b>step-by-step guide</b> [to hyperlink] for more details).
@@ -30,12 +30,12 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
  
 <table>
 <tbody><tr>
-	<th><b>S/N</b></th>
-	<th><b>Document required</b></th>
-	<th><b>Applies to</b></th>
+	<th><b><font size="4.5">S/N</font></b></th>
+	<th><b><font size="4.5">Document required</font></b></th>
+	<th><b><font size="4.5">Applies to</font></b></th>
 </tr>
 <tr>
-<td>1</td>
+	<td><font size="4.5">1</font></td>
 <td>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants)</td>
 <td><u>New</u> <i>officers of the business entity and existing officers only if they made un-notified changes to their NRIC or passport.</i></td>
 </tr>
