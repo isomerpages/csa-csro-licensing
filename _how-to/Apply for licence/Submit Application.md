@@ -16,20 +16,20 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 <ul><font size="4.5">(iv)	that the individual is an undischarged bankrupt or has entered into a composition with the creditors of the individual; or</font></ul>
 <ul><font size="4.5">(v)	that the individual has had a licence revoked by the licensing officer previously.</font></ul>
 
-<ul><sup>[1]</sup><i>If the mental health condition is properly managed and certified by a qualified physician or healthcare professional, the presence of a mental health condition will not affect a person’s eligibility to be licensed.</i></ul></font>
+<ul><sup>[1]</sup><i><font size="4.5">If the mental health condition is properly managed and certified by a qualified physician or healthcare professional, the presence of a mental health condition will not affect a person’s eligibility to be licensed.</font></i></ul>
 
-(b)	In the case of a business entity —
-<ul><font size="4.5">(i) that the business entity has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;</ul>
-<ul>(ii) that the business entity has had a judgment entered against the business entity in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on the part of the business entity;</ul>
-<ul>(iii) that any officer of the business entity is not a fit and proper person to be an officer of a business entity holding the licence;</ul>
-<ul>(iv) that the business entity is in liquidation or is the subject of a winding up order, or there is a receiver appointed in relation to the business entity, or the business entity has entered into a composition or scheme of arrangement with the creditors of the business entity; or</ul>
-<ul>(v) that the business entity has had a licence revoked by the licensing officer previously.</ul>
+<font size="4.5">(b)	In the case of a business entity —</font>
+<ul><font size="4.5">(i) that the business entity has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;</font></ul>
+<ul><font size="4.5">(ii) that the business entity has had a judgment entered against the business entity in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on the part of the business entity;</font></ul>
+<ul><font size="4.5">(iii) that any officer of the business entity is not a fit and proper person to be an officer of a business entity holding the licence;</font></ul>
+<ul><font size="4.5">(iv) that the business entity is in liquidation or is the subject of a winding up order, or there is a receiver appointed in relation to the business entity, or the business entity has entered into a composition or scheme of arrangement with the creditors of the business entity; or</font></ul>
+<ul><font size="4.5">(v) that the business entity has had a licence revoked by the licensing officer previously.</font></ul>
 
-<ul><b>Note:</b></ul>
-<ul>(1) Business entity applicant should ensure the following officers are included as <i>officers of the business entity</i> in the licence application:</ul>
-<ul><ul>(a) Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and company secretary; and</ul>
-	<ul>(b) Any other person who is responsible for the management of the business entity.</ul></ul>
-<ul>(2) Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</ul></font>
+<ul><b><font size="4.5">Note:</font></b></ul>
+<ul><font size="4.5">(1) Business entity applicant should ensure the following officers are included as <i>officers of the business entity</i> in the licence application:</font></ul>
+<ul><ul><font size="4.5">(a) Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and company secretary; and</font></ul>
+	<ul><font size="4.5">(b) Any other person who is responsible for the management of the business entity.</font></ul></ul>
+<ul><font size="4.5">(2) Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</font></ul>
 
 
 #### Online application
@@ -61,5 +61,5 @@ Please note that with the exception of the “Declaration form for Business Enti
 <ul>(3)	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed as a personal declaration by the individual. </ul>
 <ul>(4)	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</ul></td></tr></table>
 
-<font size="4.5"><ul>Note:</ul>
-<ul>Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</ul></font>
+<ul><font size="4.5">Note:</font></ul>
+<ul><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></ul>
