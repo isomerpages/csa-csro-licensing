@@ -14,11 +14,11 @@ This page contains the list of guides published by CSRO.
 </tr>
 <tr>
 	<td>Buyer's Guide for Managed Security Operations Centre</td>
-<td>Click to Download</td>
+	<td><a href="/files/Buyer's%20Guide%20for%20MSOC.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
 	<td>Buyer's Guide for Penetration Testing Service</td>
-<td>Click to Download</td>
+	<td><a href="/files/Buyer's%20Guide%20for%20PT.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
 </table>
