@@ -62,9 +62,9 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 </tbody>
 </table>
 
-##### For Individual:
-<ul><font size="4.5">(1)	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed as a personal declaration by the individual.</font><br></ul>
+ ##### For Individual:
+ <ul><font size="4.5">(1)	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed as a personal declaration by the individual.</font><br></ul>
 <ul><font size="4.5">(2)	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</font></ul>
 
-<font size="4.5">Note:</font>
-<ul><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></ul>
+ <font size="4.5">Note:</font>
+ <ul><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></ul>
