@@ -19,14 +19,12 @@ sections:
         - title: Find a Service provider
           description: List of licensees
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Launch of Licensing Regime
+      button: Learn more
+      url: /test
+      alt: Image alt text
   - resources:
       title: Media
-      subtitle: Learn more
       button: View More
 ---
