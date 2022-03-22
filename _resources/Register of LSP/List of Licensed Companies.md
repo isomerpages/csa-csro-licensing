@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Register of LSP
 ---
 #### List of Licensed Companies
+<i><font size="2">Updated on 4 April 2022</font></i>
 <table>
 <tbody><tr>
 	<th><b><font size="4.5">Name of Company</font></b></th>
