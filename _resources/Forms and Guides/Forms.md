@@ -18,6 +18,5 @@ This page contains the list of forms prescribed for licence application.
 <td><font size="4.5">Declaration Form for Individual</font></td>
 <th><font size="4.5">Click to Download</font></th>
 </tr>
-</table>
 
-<i><font size="3">Note: Forms which are incomplete or do not comply with the instructions may be rejected.</font></i>
+  <i><font size="3">Note: Forms which are incomplete or do not comply with the instructions may be rejected.</font></i>
