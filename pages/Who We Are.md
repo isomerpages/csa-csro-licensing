@@ -15,4 +15,4 @@ The responsibilities of CSRO include:
 <ol>•	Share resources and conduct outreach to the cybersecurity industry.</ol>
 
 
-<b>Click here [to hyperlink] for more information on the licensing framework.</b>
+<b>[Click here](/how-to/apply-for-licence/about) for more information on the licensing framework.</b>
