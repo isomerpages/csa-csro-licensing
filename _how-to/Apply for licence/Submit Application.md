@@ -26,10 +26,10 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 <ul><font size="4.5">(v) that the business entity has had a licence revoked by the licensing officer previously.</font></ul>
 
 <ul><b><font size="4.5">Note:</font></b></ul>
-<ul><font size="4.5">(1) Business entity applicant should ensure the following officers are included as <i>officers of the business entity</i> in the licence application:</font></ul>
+<ul><ul><li><font size="4.5">Business entity applicant should ensure the following officers are included as <i>officers of the business entity</i> in the licence application:</font></li></ul></ul>
 <ul><ul><font size="4.5">(a) Any director, partner, or other person who is listed in the business entity’s business profile, with the exception of shareholders and company secretary; and</font></ul>
 	<ul><font size="4.5">(b) Any other person who is responsible for the management of the business entity.</font></ul></ul>
-<ul><font size="4.5">(2) Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</font></ul>
+<ul><ul><li><font size="4.5">(2) Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</font></li></ul></ul>
 
 
 #### Online application
