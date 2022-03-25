@@ -37,14 +37,14 @@ The Licensing Officer shall consider all relevant facts and matters when determi
 <details>
 <summary><h5>6. What happens if any of the officers fails to meet the fit and proper criteria?</h5></summary>
 	
-Business entity applicants with officer(s) failing to meet the fit and proper criteria may be refused a licence by the Licensing Officer. CSA would like to highlight that every licence application is considered carefully on a case-by-case basis. For instance, officers of business entity licence applicant who have past criminal conviction will not automatically be deemed as being not fit and proper. Factors such as the seriousness and nature of the offence, the time that has elapsed since the conviction, and the responsibility of the officer will be taken into consideration by the Licensing Officer when assessing the licence application.
+Business entity applicants with officer(s) failing to meet the fit and proper criteria may be refused a licence by the Licensing Officer. CSRO would like to highlight that every licence application is considered carefully on a case-by-case basis. For instance, officers of business entity licence applicant who have past criminal conviction will not automatically be deemed as being not fit and proper. Factors such as the seriousness and nature of the offence, the time that has elapsed since the conviction, and the responsibility of the officer will be taken into consideration by the Licensing Officer when assessing the licence application.
 </details>
 <details>
 <summary><h5>7. Will quality requirements be imposed on the licensees?</h5></summary>
 	
 The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset. 
 
-Instead, to complement the light touch licensing framework, CSA will continue to work with the industry and professional association partners to establish voluntary accreditation regimes for cybersecurity professionals, to improve the standing of cybersecurity professionals.
+Instead, to complement the light touch licensing framework, CSRO will continue to work with the industry and professional association partners to establish voluntary accreditation regimes for cybersecurity professionals, to improve the standing of cybersecurity professionals.
 </details>
 <details>
 <summary><h5>8. Will CSRO consider licensing other cybersecurity services in the future? </h5></summary>
@@ -80,7 +80,7 @@ An application for renewal of a licence must be made no later than 2 months befo
 <details>
 <summary><h5>13. How is the licence renewal application process like?</h5></summary>
 	
-When a licence is due for renewal, the GoBusiness Licence system will send a Renewal Request Notification via email to the licensee. Upon timely submission of the licence renewal application, CSA will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via the GoBusiness Licence portal.
+When a licence is due for renewal, the GoBusiness Licence system will send a Renewal Request Notification via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via the GoBusiness Licence portal.
 </details>
 <details>
 <summary><h5>14. I have difficulties in submitting my application to GoBusiness Licence portal, who can I contact for details?</h5></summary>
@@ -114,12 +114,12 @@ The licensee shall notify the Licensing Officer within 14 days after the appoint
 	
 It will not be an offence under the Cybersecurity Act to use unlicensed cybersecurity service providers. However, consumers should be wary of the safety and security risks that unlicensed service providers may pose, given the service providers’ extensive access into their clients’ computer systems when providing their services. Any misuse of such confidential information by the unlicensed service providers may result in severe damages to the consumers.
 
-Consumers are therefore encouraged to only procure licensable cybersecurity services from licensed cybersecurity service providers, and to inform CSA of any service providers providing licensable cybersecurity services without a licence. Person who engages in the business of providing any licensable cybersecurity services to other person without a licence shall be guilty of an offence under Section 24 of the Cybersecurity Act and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both. Under Section 31 of the Cybersecurity Act, unlicensed cybersecurity service providers are also not entitled to bring any proceeding in any court to recover any commission, fee, gain, or reward for the service provided.
+Consumers are therefore encouraged to only procure licensable cybersecurity services from licensed cybersecurity service providers, and to inform CSRO of any service providers providing licensable cybersecurity services without a licence. Person who engages in the business of providing any licensable cybersecurity services to other person without a licence shall be guilty of an offence under Section 24 of the Cybersecurity Act and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both. Under Section 31 of the Cybersecurity Act, unlicensed cybersecurity service providers are also not entitled to bring any proceeding in any court to recover any commission, fee, gain, or reward for the service provided.
 </details>
 <details>
 <summary><h5>19. Does CSRO have a sense of the number of service providers who will have to be licensed?</h5></summary>
 	
-Driven by the increasing demand for cybersecurity solutions, the cybersecurity services industry has been evolving rapidly with new and innovative services, products, and business models. CSA estimates about more than 200 licence applications to be submitted from the industry in relation to the two licensable cybersecurity services.
+Driven by the increasing demand for cybersecurity solutions, the cybersecurity services industry has been evolving rapidly with new and innovative services, products, and business models. CSRO estimates about more than 200 licence applications to be submitted from the industry in relation to the two licensable cybersecurity services.
 </details>
 <details>
 <summary><h5>20. What is the difference between CSA and CSRO?</h5></summary>
