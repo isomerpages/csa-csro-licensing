@@ -28,11 +28,11 @@ Key Executive Officer refers to the person who is responsible for the proper adm
 <summary><h5>5. How does the Licensing Officer determine whether the officers of a business entity applicant are fit and proper?</h5></summary>
 	
 The Licensing Officer shall consider all relevant facts and matters when determining if officers of the business entity applicant are fit and proper, including whether the key executive officer and key officers:
-<ol><font size="3.5">a)	Has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;</font></ol>
-<ol><font size="3.5">b)	Has had a judgment entered against him/her in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his/her part;</font></ol>
-<ol><font size="3.5">c)	Is or was suffering from a mental disorder;</font></ol>
-<ol><font size="3.5">d)	Is an undischarged bankrupt or has entered into a composition with his/her creditors; or</font></ol>
-<ol><font size="3.5">e)	Has had a licence revoked by the Licensing Officer previously.</font></ol>
+<ol><font size="3.5">a)	Has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
+<br>b)	Has had a judgment entered against him/her in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his/her part;
+<br>c)	Is or was suffering from a mental disorder;
+<br>d)	Is an undischarged bankrupt or has entered into a composition with his/her creditors; or
+<br>e)	Has had a licence revoked by the Licensing Officer previously.</font></ol>
 </details>
 <details>
 <summary><h5>6. What happens if any of the officers fails to meet the fit and proper criteria?</h5></summary>
@@ -53,10 +53,10 @@ CSRO will continue to monitor international and industry trends and engage the i
 <summary><h5>9. What are the conditions of the licence?</h5></summary>
 
 CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, include:
-<ol><font size="3.5">a)	Ensure that key executive officers of business entity licensees, who are responsible for the management of the businesses, are fit and proper persons as defined in section 26(8) of the Cybersecurity Act.  For example, the individual has not been convicted of any offence involving fraud, dishonesty, or moral turpitude;</font></ol>
-<ol><font size="3.5">b)	Keep for at least 3 years, records on the cybersecurity services that they have provided. This includes but not limited to details of the person engaging the licensee for the service, name of the person providing the service on behalf of the licensee, date on which the service is provided and details of the type of service provided, etc.;</font></ol>
-<ol><font size="3.5">c)	Ensure that any information obtained in the course of providing their cybersecurity services is not disclosed or used by any other person other than for the purpose of providing the cybersecurity services; and</font></ol>
-<ol><font size="3.5">d)	Ensure that their employees do not give any false representation to their clients regarding the employees’ level of training, skill, or qualification.</font></ol>
+<ol><font size="3.5">a)	Ensure that key executive officers of business entity licensees, who are responsible for the management of the businesses, are fit and proper persons as defined in section 26(8) of the Cybersecurity Act.  For example, the individual has not been convicted of any offence involving fraud, dishonesty, or moral turpitude;
+<br>b)	Keep for at least 3 years, records on the cybersecurity services that they have provided. This includes but not limited to details of the person engaging the licensee for the service, name of the person providing the service on behalf of the licensee, date on which the service is provided and details of the type of service provided, etc.;
+<br>c)	Ensure that any information obtained in the course of providing their cybersecurity services is not disclosed or used by any other person other than for the purpose of providing the cybersecurity services; and
+<br>d)	Ensure that their employees do not give any false representation to their clients regarding the employees’ level of training, skill, or qualification.</font></ol>
 </details>
 <details>
 <summary><h5>10. What are the fees payable for a licence?</h5></summary>
@@ -126,5 +126,5 @@ For further assistance, please contact us at:
 <br><br>
 Cybersecurity Services Regulation Office<br>
 100 Victoria Street<br>National Library Building #10-01 <br>Singapore 188064
-<br>Email: <a href="mailto:contact@csro.gov.sg">contact@csro.gov.sg</a>
+<br><br>Email: <a href="mailto:contact@csro.gov.sg">contact@csro.gov.sg</a>
 </details>
