@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Apply for Licence.md
-      - Renew.md
+      - Renew Licence.md
       - Update Licence.md
       - Cancel Licence.md
