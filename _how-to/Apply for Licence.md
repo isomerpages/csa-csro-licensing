@@ -16,7 +16,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybe
   </td>
   </tr><tr>
 	<td>Licence Fees for each Licence</td>
-   <td>Business entity - S$1000 <br>Individual - S$500<br><br>A 50% fee waiver will be granted on all applications lodged from 4 April 2022 to 4 April 2023.</td>
+   <td>Business entity - S$1000 <br>Individual - S$500<br><br>A 50% fee waiver will be granted on all applications lodged by 11 April 2023.</td>
   </tr>
   <tr>
 	<td>Refund</td>
@@ -39,7 +39,7 @@ Note:
 	
 <li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li>
 	
-<li>With effect from the commencement of the licensing framework on 4 April 2022, all providers who are engaged in the business of providing LCS, have until 4 October 2022 to apply for a licence. Providers who have submitted their licence application to CSRO between 4 April 2022 and 4 October 2022, may continue to engage in the business until a decision is made on their licence application. Any providers providing the LCS after 4 October 2022, without having lodged an application for a licence, will be deemed to be operating illegally. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS.</li></ol>
+<li>With effect from the commencement of the licensing framework on 11 April 2022, all providers who are engaged in the business of providing LCS, have until 11 October 2022 to apply for a licence. Providers who have submitted their licence application to CSRO between 11 April 2022 and 11 October 2022, may continue to engage in the business until a decision is made on their licence application. Any providers providing the LCS after 11 October 2022, without having lodged an application for a licence, will be deemed to be operating illegally. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS.</li></ol>
 	
 ### Submit Application
 
