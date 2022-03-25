@@ -15,7 +15,7 @@ sections:
           url: https://licence1.business.gov.sg/feportal/web/frontier/home
         - title: Licence Application Guidelines
           description: Information for applicants
-          url: /how-to/apply-for-licence/about
+          url: /how-to/apply-for-licence
         - title: Find a Service provider
           description: List of licensees
           url: /resources/register-of-lsp/list-of-licensed-individuals
