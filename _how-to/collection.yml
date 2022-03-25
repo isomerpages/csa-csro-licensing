@@ -2,6 +2,7 @@ collections:
   how-to:
     output: true
     order:
+      - Cancel Licence.md
       - Update Licence.md
       - Renew.md
       - Apply for Licence.md
