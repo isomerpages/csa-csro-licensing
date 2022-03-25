@@ -1,0 +1,4 @@
+collections:
+  how-to-not-in-use:
+    output: true
+    order: []
