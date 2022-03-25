@@ -131,8 +131,8 @@ The Cybersecurity Agency of Singapore (CSA) is the agency set up to keep Singapo
 	
 For further assistance, please contact us at:
 
-Cybersecurity Services Regulation Office
-100 Victoria Street National Library Building #10-01 Singapore 188064
+Cybersecurity Services Regulation Office<br>
+100 Victoria Street<br>National Library Building #10-01 <br>Singapore 188064
 
-	Email: <a href:mailto="contact@csro.gov.sg">contact@csro.gov.sg</a>
+Email: <a href="mailto:contact@csro.gov.sg">contact@csro.gov.sg</a>
 </details>
