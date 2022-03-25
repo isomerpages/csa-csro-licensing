@@ -2,7 +2,6 @@ collections:
   how-to-not-in-use:
     output: true
     order:
-      - Apply for Licence.md
       - Apply for licence/.keep
       - Apply for licence/About.md
       - Apply for licence/Submit Application.md
