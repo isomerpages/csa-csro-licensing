@@ -22,7 +22,7 @@ Business entities are required to ensure that officer of the business entity is 
 <summary><h5>4. Who are the Key Executive Officer and Key Officer of a business entity applicant?</h5></summary>
 	
 Key Executive Officer refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. 
-<br>Key Officer refers to any director, partner, or other person who is listed in the business entity's ACRA Business Profile, with the exception of the company secretary.
+<br><br>Key Officer refers to any director, partner, or other person who is listed in the business entity's ACRA Business Profile, with the exception of the company secretary.
 </details>
 <details>
 <summary><h5>5. How does the Licensing Officer determine whether the officers of a business entity applicant are fit and proper?</h5></summary>
@@ -42,7 +42,7 @@ Business entity applicants with officer(s) failing to meet the fit and proper cr
 <details>
 <summary><h5>7. Will quality requirements be imposed on the licensees?</h5></summary>
 	
-The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset. <br>Instead, to complement the light touch licensing framework, CSRO will continue to work with the industry and professional association partners to establish voluntary accreditation regimes for cybersecurity professionals, to improve the standing of cybersecurity professionals.
+The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset. <br><br>Instead, to complement the light touch licensing framework, CSRO will continue to work with the industry and professional association partners to establish voluntary accreditation regimes for cybersecurity professionals, to improve the standing of cybersecurity professionals.
 </details>
 <details>
 <summary><h5>8. Will CSRO consider licensing other cybersecurity services in the future? </h5></summary>
@@ -62,12 +62,12 @@ CSRO intends to keep the licensing requirements simple to minimise operational c
 <summary><h5>10. What are the fees payable for a licence?</h5></summary>
 	
 A licence is valid for a period of 2 years and the licence fees for individuals and business entities are $500 and $1000 respectively.
-<br>Note: Due to the COVID-19 pandemic which has negatively impacted many businesses, a 50% wavier of the first cycle of licence fees will be granted for all applications lodged within the first 12 months from the commencement of licensing.
+<br><br>Note: Due to the COVID-19 pandemic which has negatively impacted many businesses, a 50% wavier of the first cycle of licence fees will be granted for all applications lodged within the first 12 months from the commencement of licensing.
 </details>
 <details>
 <summary><h5>11. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
 	
-Each licence application takes up to 6 weeks to process. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the Go Business Licence portal.
+Each licence application takes up to 6 weeks to process. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
 </details>
 <details>
 <summary><h5>12. When should licence renewal application be submitted?</h5></summary>
@@ -96,7 +96,7 @@ Licensee is required to update changes to their business details through <a href
 <ol><font size="3.5">a)	Changes to Key Executive Officers<br>b)	Additional of Key Officers; and<br>c)	Removal of Key Officers.</font></ol>
 
 Other than the above, any other changes that are not material change will automatically be approved by the system. These include changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and key officers.
-<br>Supporting documentation will be required to be uploaded to the system during the update. 
+<br><br>Supporting documentation will be required to be uploaded to the system during the update. 
 </details>
 <details>
 <summary><h5>17. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
@@ -107,7 +107,7 @@ The licensee shall notify the Licensing Officer within 14 days after the appoint
 <summary><h5>18. Will it be an offence to use unlicensed cybersecurity service providers?</h5></summary>
 	
 It will not be an offence under the Cybersecurity Act to use unlicensed cybersecurity service providers. However, consumers should be wary of the safety and security risks that unlicensed service providers may pose, given the service providers’ extensive access into their clients’ computer systems when providing their services. Any misuse of such confidential information by the unlicensed service providers may result in severe damages to the consumers.
-<br>Consumers are therefore encouraged to only procure licensable cybersecurity services from licensed cybersecurity service providers, and to inform CSRO of any service providers providing licensable cybersecurity services without a licence. Person who engages in the business of providing any licensable cybersecurity services to other person without a licence shall be guilty of an offence under Section 24 of the Cybersecurity Act and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both. Under Section 31 of the Cybersecurity Act, unlicensed cybersecurity service providers are also not entitled to bring any proceeding in any court to recover any commission, fee, gain, or reward for the service provided.
+<br><br>Consumers are therefore encouraged to only procure licensable cybersecurity services from licensed cybersecurity service providers, and to inform CSRO of any service providers providing licensable cybersecurity services without a licence. Person who engages in the business of providing any licensable cybersecurity services to other person without a licence shall be guilty of an offence under Section 24 of the Cybersecurity Act and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both. Under Section 31 of the Cybersecurity Act, unlicensed cybersecurity service providers are also not entitled to bring any proceeding in any court to recover any commission, fee, gain, or reward for the service provided.
 </details>
 <details>
 <summary><h5>19. Does CSRO have a sense of the number of service providers who will have to be licensed?</h5></summary>
@@ -123,9 +123,8 @@ The Cybersecurity Agency of Singapore (CSA) is the agency set up to keep Singapo
 <summary><h5>21. Who can I contact for further details?</h5></summary>
 	
 For further assistance, please contact us at:
-
+<br><br>
 Cybersecurity Services Regulation Office<br>
 100 Victoria Street<br>National Library Building #10-01 <br>Singapore 188064
-
-Email: <a href="mailto:contact@csro.gov.sg">contact@csro.gov.sg</a>
+<br>Email: <a href="mailto:contact@csro.gov.sg">contact@csro.gov.sg</a>
 </details>
