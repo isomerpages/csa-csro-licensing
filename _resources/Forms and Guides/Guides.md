@@ -23,6 +23,7 @@ This page contains the list of guides published by CSRO.
 </tbody>
 </table>
 
+
 ##### Guides for Licence Application
 <table>
 <tbody><tr>
@@ -43,6 +44,19 @@ This page contains the list of guides published by CSRO.
 </tr>
 <tr>
 	<td>Guide to Cancellation of Licence</td>
+<td>Click to Download</td>
+</tr>
+</tbody>
+</table>
+
+##### Licensee Information Package
+<table>
+<tbody><tr>
+	<th><b>Name of Guide</b></th>
+	<th><b>Attachment</b></th>
+</tr>
+<tr>
+	<td>Licensee Information Package</td>
 <td>Click to Download</td>
 </tr>
 </tbody>
