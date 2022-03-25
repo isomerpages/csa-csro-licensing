@@ -3,6 +3,9 @@ title: Apply for Licence
 permalink: /how-to/apply-for-licence
 description: ""
 ---
+<a href="#submit-application">•	Submit Application</a><br>
+<a href="#guide-to-new-licence-application">•	Guide to New Licence Application</a>
+
 Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybersecurity (Cybersecurity Service Providers) Regulations, the following groups of people are required to obtain a cybersecurity service provider’s (“CSP”) licence:
 <ol>•	those who engages in the business of providing any of the following licensable cybersecurity service (“LCS”) to other person is required to obtain a cybersecurity service provider’s (“CSP”) licence.</ol>
 <ol>•	those who is in the business of providing a LCS, is also required to obtain a licence before he/she may advertise or provide the LCS.</ol>
@@ -38,6 +41,7 @@ Note:
 	
 <li>With effect from the commencement of the licensing framework on 4 April 2022, all providers who are engaged in the business of providing LCS, have until 4 October 2022 to apply for a licence. Providers who have submitted their licence application to CSRO between 4 April 2022 and 4 October 2022, may continue to engage in the business until a decision is made on their licence application. Any providers providing the LCS after 4 October 2022, without having lodged an application for a licence, will be deemed to be operating illegally. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS.</li>
 	
+<div id="submit-application">
 <u><h4>Submit Application</h></u>
 
 #### Criteria for Grant of a Licence
@@ -99,7 +103,10 @@ Please note that with the exception of the “Declaration form for Business Enti
 
 <ul><font size="4.5">Note:</font></ul>
 <ul><ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul></ul>
+</div>
 
+<div id="guide-to-new-licence-application">
 <u><h4>Guide to New Licence Application</h></u>
 
 Applicant may download this <b>step-by-step guide</b> [to hyperlink] which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
+</div>
