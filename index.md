@@ -19,12 +19,4 @@ sections:
         - title: Find a Service provider
           description: List of licensees
           url: /resources/register-of-lsp/list-of-licensed-individuals
-  - infopic:
-      title: Launch of Licensing Regime
-      button: Learn more
-      url: /test
-      alt: Image alt text
-  - resources:
-      title: Media
-      button: View More
 ---
