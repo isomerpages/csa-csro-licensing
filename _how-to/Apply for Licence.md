@@ -39,10 +39,11 @@ Note:
 	
 <li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li>
 	
-<li>With effect from the commencement of the licensing framework on 4 April 2022, all providers who are engaged in the business of providing LCS, have until 4 October 2022 to apply for a licence. Providers who have submitted their licence application to CSRO between 4 April 2022 and 4 October 2022, may continue to engage in the business until a decision is made on their licence application. Any providers providing the LCS after 4 October 2022, without having lodged an application for a licence, will be deemed to be operating illegally. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS.</li>
+<li>With effect from the commencement of the licensing framework on 4 April 2022, all providers who are engaged in the business of providing LCS, have until 4 October 2022 to apply for a licence. Providers who have submitted their licence application to CSRO between 4 April 2022 and 4 October 2022, may continue to engage in the business until a decision is made on their licence application. Any providers providing the LCS after 4 October 2022, without having lodged an application for a licence, will be deemed to be operating illegally. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS.</li><br>
 	
 <div id="submit-application">
-<u><h4>Submit Application</h></u>
+	
+### Submit Application
 
 #### Criteria for Grant of a Licence
 To be eligible for a licence, applicant is required to be fit and proper.
@@ -106,7 +107,8 @@ Please note that with the exception of the “Declaration form for Business Enti
 </div>
 
 <div id="guide-to-new-licence-application">
-<u><h4>Guide to New Licence Application</h></u>
+	
+### Guide to New Licence Application
 
 Applicant may download this <b>step-by-step guide</b> [to hyperlink] which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
 </div>
