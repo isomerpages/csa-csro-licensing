@@ -3,7 +3,7 @@ title: Update Licence
 permalink: /how-to/update-licence
 description: ""
 ---
-Licensee is required to notify CSRO <u>at least 14 calendar days after</u> the effective date of appointment of any <i>officers of the business entity</i> and to notify CSRO of any change or inaccuracy in the information and particulars that the licensee and/or its <i>officers of the business entity</i> previously submitted to CSRO in relation to its licence applicant <u>within 14 calendar days</u> of such change or upon knowledge of such inaccuracy.
+Licensee is required to notify CSRO <u>within 14 calendar days after</u> the effective date of appointment of any <i>officers of the business entity</i> and to notify CSRO of any change or inaccuracy in the information and particulars that the licensee and/or its <i>officers of the business entity</i> previously submitted to CSRO in relation to its licence applicant <u>within 14 calendar days</u> of such change or upon knowledge of such inaccuracy.
 
 ### Submit Licence Update Details
 The following table provides guidance on the method though which licensee shall submit their notifications to CSRO.
@@ -17,7 +17,7 @@ The following table provides guidance on the method though which licensee shall 
 </tr>
 <tr>
 	<td>Appointment of <i>officers of the business entity</i></td>
-<td>At least 14 calendar days after the effective date of appointment</td>
+<td>Within14 calendar days after the effective date of appointment</td>
 	<td>Via <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a></td>
 <td>(1)	Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants)<br>(2)	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service)<br>(3)	“<b>Declaration Form for Individual</b>” [to hyperlink], which has been duly filled up and endorsed by the newly appointed <i>officer</i><br>(4)	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country
 </td>
