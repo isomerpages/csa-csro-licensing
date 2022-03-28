@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://csa-licensing-cms-staging.netlify.app
-prod: https://csa-licensing-cms-prod.netlify.app
+staging: https://csro-licensing-cms-staging.netlify.app
+prod: https://csro-licensing-cms-prod.netlify.app
