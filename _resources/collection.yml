@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Register of LSP/List of Licensed Individuals.md
-      - Register of LSP/List of Licensed Companies.md
+      - Register of LSP/List of Licensed Business Entities.md
       - Register of LSP/.keep
       - Forms and Guides/.keep
       - Forms and Guides/Forms.md
