@@ -20,6 +20,6 @@ sections:
           description: List of licensees
           url: /resources/register-of-lsp/list-of-licensed-individuals
         - title: List of Guides
-          description: Information for Consumers
+          description: For Consumers and Applicants
           url: /resources/forms-and-guides/guides
 ---
