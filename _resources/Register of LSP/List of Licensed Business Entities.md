@@ -4,12 +4,11 @@ permalink: /resources/register-of-licensed-service-provider/list-of-licensed-bus
 description: ""
 third_nav_title: Register of LSP
 ---
-
 #### List of Licensed Companies
 <i><font size="2">Updated on 4 April 2022</font></i>
 <table>
 <tbody><tr>
-	<th><b><font size="4.5">Name of Company</font></b></th>
+	<th><b><font size="4.5">Name of Business Entity</font></b></th>
 	<th><b><font size="4.5">UEN No.</font></b></th>
 	<th><b><font size="4.5">Approved Licensable Service</font></b></th>
 	<th><b><font size="4.5">Licence Period</font></b></th>
