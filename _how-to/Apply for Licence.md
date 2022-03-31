@@ -85,7 +85,7 @@ Applicant is required to submit the following supporting documents for each lice
 Please note that with the exception of the “Declaration form for Business Entity”, a copy of each document is required for <u>every</u> <i>officer of the business entity</i>:
 
 <ol><ol><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
-<li>Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service)</li>
+<li>Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service).</li>
 <li>Declaration forms which have been duly filled up and endorsed. These include:</li>
 <ul>a)	One copy of the “<b>Declaration Form for Business Entity</b>” [to hyperlink], which is to be completed by an officer duly authorised by the business entity; and</ul>
 <ul>(b)	The “<b>Declaration Form for Individual</b>” [to hyperlink], which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul>
