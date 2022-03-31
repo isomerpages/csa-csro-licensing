@@ -6,23 +6,23 @@ description: ""
 <details>
 <summary><h5>1. Who needs to apply for cybersecurity service provider licence?</h5></summary>
 	
-All providers of managed security operations centre (“SOC”) monitoring services and penetration testing services to the Singapore market will need to apply for a cybersecurity service provider’s licence, regardless of whether they are companies or individuals (i.e. freelancers or sole proprietorships owned and controlled by individuals) or third-party cybersecurity service providers (“CSPs”) that provide these services in support of other CSPs. However, a company that provides licensable services solely for its related company(s) e.g., in-house service provider, does not require a licence. Related company has the same meaning given to it by section 6 of the Companies Act (Cap.50). Resellers or overseas CSPs including the affiliates of a licensee who provide licensable cybersecurity services to the Singapore market would need to be licensed.
+All providers of managed security operations centre monitoring services and penetration testing services to the Singapore market will need to apply for a cybersecurity service provider’s licence, regardless of whether they are companies or individuals (i.e. freelancers or sole proprietorships owned and controlled by individuals) or third-party cybersecurity service providers (“CSPs”) that provide these services in support of other CSPs. However, a company that provides licensable services solely for its related company(s) e.g. in-house service provider, does not require a licence. Related company has the same meaning given to it by section 6 of the Companies Act (Cap.50). Resellers, third-party vendors or overseas CSPs including the affiliates of a licensee who provide licensable cybersecurity services to the Singapore market would need to be licensed.
 </details>
 <details>
-<summary><h5>2. Could you give me examples of the third-party vendors and resellers of the licensable cybersecurity services that are regulated under the licensing framework?</h5></summary>
+<summary><h5>2. Could you give me examples of the third-party vendors and resellers of the licensable cybersecurity services that are regulated under the licensing framework? </h5></summary>
 	
 Third-party vendors and resellers who are required to be licensed refer to those who are in the business of providing licensable cybersecurity services to consumers on behalf of another service provider (anywhere in the distribution chain) of the licensable cybersecurity services.
 </details>
 <details>
-<summary><h5>3. What do I need to ensure prior to applying for a licence?</h5></summary>
+<summary><h5>3.	What do I need to ensure prior to applying for a licence?</h5></summary>
 	
-Business entities are required to ensure that officer of the business entity is fit and proper when applying for a licence. Officer of a business entity refers to any Director or Chief Executive Officer or partner of a business entity or any other person who is responsible for the management of the business entity. Individuals who are applying for the licence should also be a fit and proper person to hold the licence. Failing which, the licence application may be rejected.
+Business entities are required to ensure that officer of the business entity is fit and proper when applying for a licence. Officer of a business entity refers to any director or partner, or other person listed in the business entity’s business profile e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary, or any other person who is responsible for the management of the business entity. Individuals who are applying for the licence should also be a fit and proper person to hold the licence. Failing which, the licence application may be rejected.
 </details>
 <details>
 <summary><h5>4. Who are the Key Executive Officer and Key Officer of a business entity applicant?</h5></summary>
 	
 Key Executive Officer refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. 
-<br><br>Key Officer refers to any director, partner, or other person who is listed in the business entity's ACRA Business Profile, with the exception of the company secretary.
+<br><br>Key Officer refers to any director, partner, or other person listed in the business entity's business profile e.g. ACRA Bizfile, with the exception of shareholders (who are not directors or partners) and the company secretary.
 </details>
 <details>
 <summary><h5>5. How does the Licensing Officer determine whether the officers of a business entity applicant are fit and proper?</h5></summary>
@@ -42,32 +42,32 @@ Business entity applicants with officer(s) failing to meet the fit and proper cr
 <details>
 <summary><h5>7. Will quality requirements be imposed on the licensees?</h5></summary>
 	
-The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset. <br><br>Instead, to complement the light touch licensing framework, CSRO will continue to work with the industry and professional association partners to establish voluntary accreditation regimes for cybersecurity professionals, to improve the standing of cybersecurity professionals.
+The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset.<br><br>Instead, to complement the light touch licensing framework, CSRO will continue to work with the industry and professional association partners to establish voluntary accreditation regimes for cybersecurity professionals, to improve the standing of cybersecurity professionals.
 </details>
 <details>
-<summary><h5>8. Will CSRO consider licensing other cybersecurity services in the future? </h5></summary>
+<summary><h5>8. Will CSRO consider licensing other cybersecurity services in the future?</h5></summary>
 	
-CSRO will continue to monitor international and industry trends and engage the industry where necessary, to assess if any new types of cybersecurity services should be included in the licensing framework, such as those that are of a higher risk to consumers.
+CSRO will continue to monitor international and industry trends and engage the industry where necessary, to assess if any new types of cybersecurity services should be included in the licensing framework, such as those that are of higher risks to consumers.
 </details>
 <details>
 <summary><h5>9. What are the conditions of the licence?</h5></summary>
 
 CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, include:
-<ol><font size="3.5">a)	Ensure that key executive officers of business entity licensees, who are responsible for the management of the businesses, are fit and proper persons as defined in section 26(8) of the Cybersecurity Act.  For example, the individual has not been convicted of any offence involving fraud, dishonesty, or moral turpitude;
+<ol><font size="3.5">a)	Ensure that officers of business entity licensees are fit and proper persons as defined in section 26(8) of the Cybersecurity Act.  For example, the individual has not been convicted of any offence involving fraud, dishonesty, or moral turpitude;
 <br>b)	Keep for at least 3 years, records on the cybersecurity services that they have provided. This includes but not limited to details of the person engaging the licensee for the service, name of the person providing the service on behalf of the licensee, date on which the service is provided and details of the type of service provided, etc.;
 <br>c)	Ensure that any information obtained in the course of providing their cybersecurity services is not disclosed or used by any other person other than for the purpose of providing the cybersecurity services; and
 <br>d)	Ensure that their employees do not give any false representation to their clients regarding the employees’ level of training, skill, or qualification.</font></ol>
 </details>
 <details>
-<summary><h5>10. What are the fees payable for a licence?</h5></summary>
+<summary><h5>10. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
 	
 A licence is valid for a period of 2 years and the licence fees for individuals and business entities are $500 and $1000 respectively.
-<br><br>Note: Due to the COVID-19 pandemic which has negatively impacted many businesses, a 50% wavier of the first cycle of licence fees will be granted for all applications lodged within the first 12 months from the commencement of licensing.
+<br><br>Note: Due to the COVID-19 pandemic which has negatively impacted many businesses, a 50% wavier of the first cycle of licence fees will be granted for all applications lodged between 11 April 2022 and 11 April 2023.
 </details>
 <details>
 <summary><h5>11. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
 	
-Each licence application takes up to 6 weeks to process. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
+Each licence application takes up to 6 weeks to process. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
 </details>
 <details>
 <summary><h5>12. When should licence renewal application be submitted?</h5></summary>
@@ -77,26 +77,26 @@ An application for renewal of a licence must be made no later than 2 months befo
 <details>
 <summary><h5>13. How is the licence renewal application process like?</h5></summary>
 	
-When a licence is due for renewal, GoBusiness Licensing will send a Renewal Request Notification via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
+When a licence is due for renewal, the GoBusiness Licensing will send a Renewal Request Notification via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
 </details>
 <details>
-<summary><h5>14. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for details?</h5></summary>
+<summary><h5>14. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
 	
 If you are facing any technical difficulties or require any assistance on how to submit the application, you may contact GoBusiness Licensing Helpdesk at Tel: 63363373.
 </details>
 <details>
 <summary><h5>15. How do I request to terminate a licence?</h5></summary>
 	
-Licensees who wish to terminate their licence before expiry should submit an application via <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> within 14 calendar days before ceasing the business of providing the licensable cybersecurity service.
+Licensees who wish to terminate their licence before expiry should submit an application via the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> within 14 calendar days before ceasing the business of providing the licensable cybersecurity service.
 </details>
 <details>
 <summary><h5>16. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
 	
-Licensee is required to update changes to their business details through <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> for the following material changes.
-<ol><font size="3.5">a)	Changes to Key Executive Officers<br>b)	Additional of Key Officers; and<br>c)	Removal of Key Officers.</font></ol>
+Licensee is required to update changes to their business details through the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> for the following material changes.
+<ol><font size="3.5">a) Changes to Key Executive Officers<br>b)	Additional of Key Officers; and<br>c)	Removal of Key Officers.</font></ol>
 
 Other than the above, any other changes that are not material change will automatically be approved by the system. These include changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and key officers.
-<br><br>Supporting documentation will be required to be uploaded to the system during the update. 
+<br><br>Supporting documentation will be required to be uploaded to <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> during the update. 
 </details>
 <details>
 <summary><h5>17. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
@@ -117,7 +117,7 @@ Driven by the increasing demand for cybersecurity solutions, the cybersecurity s
 <details>
 <summary><h5>20. What is the difference between CSA and CSRO?</h5></summary>
 	
-The Cybersecurity Agency of Singapore (CSA) is the agency set up to keep Singapore’s cyberspace safe and secure through the administering of the Cybersecurity Act. To administer the licensing framework, CSA has set up a Cybersecurity Services Regulation Office (CSRO) which will act as the point of interface for all licensing related matters. These include enforcing the licensing framework; responding to the industry’s queries and feedback; as well as sharing of resources on cybersecurity services with consumers such as the list of licensees and buyer’s guides.
+The Cyber Security Agency of Singapore (CSA) is the agency set up to keep Singapore’s cyberspace safe and secure through the administering of the Cybersecurity Act. To administer the licensing framework, CSA has set up Cybersecurity Services Regulation Office (CSRO) which will act as the point of interface for all licensing related matters. These include enforcing the licensing framework; responding to the industry’s queries and feedback; as well as sharing of resources on licensable cybersecurity services with consumers such as the list of licensees and buyer’s guides.
 </details>
 <details>
 <summary><h5>21. Who can I contact for further details?</h5></summary>
