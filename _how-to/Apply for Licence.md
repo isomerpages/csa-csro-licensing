@@ -3,20 +3,20 @@ title: Apply for Licence
 permalink: /how-to/apply-for-licence
 description: ""
 ---
-Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybersecurity (Cybersecurity Service Providers) Regulations, the following groups of people are required to obtain a cybersecurity service provider’s (“CSP”) licence:
+Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybersecurity (Cybersecurity Service Providers) Regulations, the following groups of persons are required to obtain a cybersecurity service provider’s (“CSP”) licence:
 <ol>•	those who engages in the business of providing any of the following licensable cybersecurity service (“LCS”) to other person is required to obtain a cybersecurity service provider’s (“CSP”) licence.</ol>
-<ol>•	those who is in the business of providing a LCS, is also required to obtain a licence before he/she may advertise or provide the LCS.</ol>
+<ol>•	those who is in the business of providing a LCS, is required to obtain a licence before advertising their LCS.</ol>
 
 #### At A Glance
 <table class="table-v">
     <tr>
-    <td>List of LCS as specified in the Second Schedule of the Cybersecurity Act</td>
+    <td>List of LCS as specified in the <a href="https://sso.agc.gov.sg/Acts-Supp/9-2018/?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
     <td>1. Managed security operations centre (SOC) monitoring service; and<br>
 2. Penetration testing service
   </td>
   </tr><tr>
 	<td>Licence Fees for each Licence</td>
-   <td>Business entity - S$1000 <br>Individual - S$500<br><br>A 50% fee waiver will be granted on all applications lodged by 11 April 2023.</td>
+   <td>Business entity - S$1000<br>Individual - S$500<br><br>A 50% fee waiver will be granted on all applications lodged by 11 April 2023.</td>
   </tr>
   <tr>
 	<td>Refund</td>
@@ -24,7 +24,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybe
   </tr>
   <tr>
 	<td>Licence Validity Period</td>
-	<td>Two years from the date of approval.</td>
+	<td>Two years from the date of licence issuance.</td>
   </tr>
 	<tr>
 	<td>Application Processing Time</td>
@@ -39,7 +39,7 @@ Note:
 	
 <li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li>
 	
-<li>With effect from the commencement of the licensing framework on 11 April 2022, all providers who are engaged in the business of providing LCS, have until 11 October 2022 to apply for a licence. Providers who have submitted their licence application to CSRO between 11 April 2022 and 11 October 2022, may continue to engage in the business until a decision is made on their licence application. Any providers providing the LCS after 11 October 2022, without having lodged an application for a licence, will be deemed to be operating illegally. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS.</li></ol>
+<li>With effect from the launch of licensing framework on 11 April 2022, all providers who are engaged in the business of providing LCS, have until 11 October 2022 to apply for a licence. Providers who have submitted their licence application to CSRO between 11 April 2022 and 11 October 2022, may continue to engage in the business of providing LCS until a decision is made on their licence application. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS. Any providers providing the LCS after 11 October 2022, without having lodged an application for a licence for the LCS they engage in, will be deemed to be operating illegally.</li></ol>
 	
 ### Submit Application
 
@@ -51,7 +51,7 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 <br><font size="4.5">(a) In the case of an individual —</font>
 <ul><font size="4.5">(i) that the individual has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;</font></ul>
 <ul><font size="4.5">(ii)	that the individual has had a judgment entered against the individual in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on the part of the individual;</font></ul>
-<ul><font size="4.5">(iii)	that the individual is or was suffering from a mental health condition (for example, psychotic disorder, psychosis, schizophrenia, schizoaffective disorder, delusional disorder, bipolar disorder, psychotic depression, or personality disorder etc)<sup>[1]</sup></font></ul>
+<ul><font size="4.5">(iii)	that the individual is or was suffering from a mental health condition (for example, psychotic disorder, psychosis, schizophrenia, schizoaffective disorder, delusional disorder, bipolar disorder, psychotic depression, or personality disorder, etc.)<sup>[1]</sup></font></ul>
 <ul><font size="4.5">(iv)	that the individual is an undischarged bankrupt or has entered into a composition with the creditors of the individual; or</font></ul>
 <ul><font size="4.5">(v)	that the individual has had a licence revoked by the licensing officer previously.</font></ul>
 
