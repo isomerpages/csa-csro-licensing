@@ -4,9 +4,9 @@ permalink: /who-we-are
 description: ""
 ---
 The Cybersecurity Services Regulation Office (“CSRO”) was set up on 11 April 2022 to administer the licensing framework for the cybersecurity service provider (“CSP”) under the Cybersecurity Act which aims to address three main considerations over time:
-<ol>(a)	Provide greater assurance of security and safety to consumers</ol>
-<ol>(b)	Improve the standards and standing of CSP</ol>
-<ol>(c)	Address the information asymmetry between consumers and the CSP</ol>
+<ol>(a)	Provide greater assurance of security and safety to consumers;</ol>
+<ol>(b)	Improve the standards and standing of CSP; and</ol>
+<ol>(c)	Address the information asymmetry between consumers and the CSP.</ol>
 
 The responsibilities of CSRO include:
 <ol>•	Issuance and revocation of CSP licence;</ol> 
