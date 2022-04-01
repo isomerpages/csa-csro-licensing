@@ -9,7 +9,7 @@ Licensee is required to submit a licence renewal application at least two months
 <table class="table-v">
   <tr>
     <td width="45%">Licence Renewal Fees for each Licence</td>
-			<td width=55%>Business entity - S$1000<br>Individual - S$500<br></td>
+			<td width="55%">Business entity - S$1000<br>Individual - S$500<br></td>
   </tr>
   <tr>
     <td>Refund</td>
