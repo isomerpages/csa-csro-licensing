@@ -8,8 +8,8 @@ This page contains the list of forms prescribed for licence application.
 
 <table>
 <tbody><tr>
-	<th><b>Name of Form</b></th>
-	<th><b>Attachment</b></th>
+	<th width="60%"><b>Name of Form</b></th>
+	<th width="40%"><b>Attachment</b></th>
 </tr>
 <tr>
 	<td>Declaration Form for Business Entity</td>
