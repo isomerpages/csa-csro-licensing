@@ -9,15 +9,15 @@ This page contains the list of guides published by CSRO.
 ##### Buyer's Guides for Licensable Services
 <table>
 <tbody><tr>
-	<th><b>Name of Guide</b></th>
-	<th><b>Attachment</b></th>
+	<th width="60%"><b>Name of Guide</b></th>
+	<th width="40%"><b>Attachment</b></th>
 </tr>
 <tr>
-	<td>Buyer's Guide for Managed Security<br>Operations Centre</td>
+	<td>Buyer's Guide for Managed Security Operations Centre</td>
 	<td><a href="/files/Guides/Buyer's%20Guide%20for%20MSOC.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
-	<td>Buyer's Guide for Penetration Testing<br>Service</td>
+	<td>Buyer's Guide for Penetration Testing Service</td>
 	<td><a href="/files/Guides/Buyer's%20Guide%20for%20PT.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
@@ -27,8 +27,8 @@ This page contains the list of guides published by CSRO.
 ##### Guides for Licence Application
 <table>
 <tbody><tr>
-	<th><b>Name of Guide</b></th>
-	<th><b>Attachment</b></th>
+	<th width="60%"><b>Name of Guide</b></th>
+	<th width="40%"><b>Attachment</b></th>
 </tr>
 <tr>
 	<td>Guide to New Licence Application</td>
@@ -48,8 +48,8 @@ This page contains the list of guides published by CSRO.
 ##### Licensee Information Package
 <table>
 <tbody><tr>
-	<th><b>Name of Guide</b></th>
-	<th><b>Attachment</b></th>
+	<th width="60%"><b>Name of Guide</b></th>
+	<th width="40%"><b>Attachment</b></th>
 </tr>
 <tr>
 	<td>Licensee Information Package</td>
