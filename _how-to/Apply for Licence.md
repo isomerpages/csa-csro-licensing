@@ -10,8 +10,8 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybe
 #### At A Glance
 <table class="table-v">
     <tr>
-    <td width="40%">List of LCS as specified in the <a href="https://sso.agc.gov.sg/Acts-Supp/9-2018/?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
-    <td width="60%">1. Managed security operations centre (SOC) monitoring service; and<br>
+    <td width="45%">List of LCS as specified in the <a href="https://sso.agc.gov.sg/Acts-Supp/9-2018/?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
+    <td width="55%">1. Managed security operations centre (SOC) monitoring service; and<br>
 2. Penetration testing service
   </td>
   </tr><tr>
