@@ -10,10 +10,10 @@ The following table provides guidance on the method though which licensee shall 
 
 <table>
 <tbody><tr>
-	<th width="25%"><b>Type of notification</b></th>
+	<th width="20%"><b>Type of notification</b></th>
 	<th width="20%"><b>Notification deadline</b></th>
-	<th width="15%"><b>Notification method</b></th>
-	<th width="40%"><b>Required supporting documents or information</b></th>
+	<th width="10%"><b>Notification method</b></th>
+	<th width="50%"><b>Required supporting documents or information</b></th>
 </tr>
 <tr>
 	<td>Appointment of <i>officers of the business entity</i></td>
