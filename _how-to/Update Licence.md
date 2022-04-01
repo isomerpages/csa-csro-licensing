@@ -56,4 +56,4 @@ The following table provides guidance on the method though which licensee shall 
 
 ### Guide to Update Licence Details
 
-Licensee may download this <a href="/files/Guides/Guide%20to%20Cancellation%20of%20Licence.pdf" download>step-by-step guide</a> for licence details amendment process via GoBusiness Licensing.
+Licensee may download this <a href="/files/Guides/Guide%20to%20Update%20Licence%20Details.pdf" download>step-by-step guide</a> for licence details amendment process via GoBusiness Licensing.
