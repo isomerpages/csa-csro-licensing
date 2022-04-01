@@ -42,7 +42,7 @@ To be eligible for renewal, applicant is required to be fit and proper.
 <ul><li><font size="4.5">Each business entity licensee should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</font></li></ul>
 
 #### Supporting Documents Required
-Licensee is required to submit the following updated supporting documents for each licence renewal application via GoBusiness Licensing “Upload Supporting Documents” function (please refer to our <b>step-by-step guide</b> [to hyperlink] for more details).
+Licensee is required to submit the following updated supporting documents for each licence renewal application via GoBusiness Licensing “Upload Supporting Documents” function (please refer to our step-by-step guide for more details).
 
 ##### For Business Entity:
 
@@ -90,4 +90,4 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
  <ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul>
 
 ### Guide to Renew Licence
-Licensee may download this <b>step-by-step guide</b> [to hyperlink] for the licence renewal application submission process via GoBusiness Licensing.
+Licensee may download this step-by-step guide for the licence renewal application submission process via GoBusiness Licensing.
