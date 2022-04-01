@@ -14,11 +14,11 @@ This page contains the list of guides published by CSRO.
 </tr>
 <tr>
 	<td>Buyer's Guide for Managed Security Operations Centre</td>
-	<td><a href="/files/Buyer's%20Guide%20for%20MSOC.pdf" download>Click to Download</a></td>
+	<td><a href="/files/Guides/Buyer's%20Guide%20for%20MSOC.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
 	<td>Buyer's Guide for Penetration Testing Service</td>
-	<td><a href="/files/Buyer's%20Guide%20for%20PT.pdf" download>Click to Download</a></td>
+	<td><a href="/files/Guides/Buyer's%20Guide%20for%20PT.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
 </table>
@@ -32,19 +32,15 @@ This page contains the list of guides published by CSRO.
 </tr>
 <tr>
 	<td>Guide to New Licence Application</td>
-<td>Click to Download</td>
-</tr>
-<tr>
-	<td>Guide to Renew Licence</td>
-<td>Click to Download</td>
+<td><a href="/files/Guides/Guide%20to%20New%20Licence%20Application.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
 	<td>Guide to Update Licence Details</td>
-<td>Click to Download</td>
+<td><a href="/files/Guides/Guide%20to%20Update%20Licence%20Details.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
 	<td>Guide to Cancellation of Licence</td>
-<td>Click to Download</td>
+<td><a href="/files/Guides/Guide%20to%20Cancellation%20of%20Licence.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
 </table>
@@ -57,7 +53,7 @@ This page contains the list of guides published by CSRO.
 </tr>
 <tr>
 	<td>Licensee Information Package</td>
-<td>Click to Download</td>
+<td><a href="/files/Guides/Licensee%20Information%20Package.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
 </table>
