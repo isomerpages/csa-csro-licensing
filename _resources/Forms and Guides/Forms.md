@@ -13,11 +13,11 @@ This page contains the list of forms prescribed for licence application.
 </tr>
 <tr>
 	<td>Declaration Form for Business Entity</td>
-<td>Click to Download</td>
+<td><a href="/files/Forms/Declaration%20Form%20for%20Business%20Entity.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
 	<td>Declaration Form for Individual</td>
-<td>Click to Download</td>
+<td><a href="/files/Forms/Declaration%20Form%20for%20Individual.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
 </table>
