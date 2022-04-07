@@ -1,0 +1,21 @@
+collections:
+  not-in-use-or-wip:
+    output: true
+    order:
+      - List of Licensees.md
+      - Apply for licence/.keep
+      - Apply for licence/About.md
+      - Apply for licence/Submit Application.md
+      - Apply for licence/Guide to New Licence Application.md
+      - Renew/.keep
+      - Renew/About.md
+      - Renew/Submit Renewal Application.md
+      - Renew/Guide to Renew Licence.md
+      - Update Licence/.keep
+      - Update Licence/About.md
+      - Update Licence/Submit Licence Update Details.md
+      - Update Licence/Guide to Update Licence Details.md
+      - Cancel Licence/.keep
+      - Cancel Licence/About.md
+      - Cancel Licence/Submit Cancellation Application.md
+      - Cancel Licence/Guide to Cancellation of Licence.md

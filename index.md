@@ -1,36 +1,25 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Cybersecurity Services Regulation Office
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: Cybersecurity Service Provider Licence
+      background: /images/banner2.jpg
+      key_highlights:
+        - title: Apply For A Licence
+          description: Link to GoBusiness Licensing
+          url: https://licence1.business.gov.sg/feportal/web/frontier/home
+        - title: Licence Application Guidelines
+          description: Information for applicants
+          url: /how-to/apply-for-licence
+        - title: Find a Service provider
+          description: List of licensees
+          url: /resources/register-of-lsp/list-of-licensed-individuals
+        - title: List of Guides
+          description: For Consumers and Applicants
+          url: /resources/forms-and-guides/guides
 ---
-
