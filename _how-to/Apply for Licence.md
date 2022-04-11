@@ -3,7 +3,7 @@ title: Apply for Licence
 permalink: /how-to/apply-for-licence
 description: ""
 ---
-Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and Cybersecurity (Cybersecurity Service Providers) Regulations, the following groups of persons are required to obtain a cybersecurity service provider’s (“CSP”) licence:
+Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cybersecurity (Cybersecurity Service Providers) Regulations](https://sso.agc.gov.sg/SL/CA2018-S304-2022?DocDate=20220408&msclkid=b2b84d25b93b11eca9499bb51ff4b0c9), the following groups of persons are required to obtain a cybersecurity service provider’s (“CSP”) licence:
 <ol>•	those who engages in the business of providing any of the following licensable cybersecurity service (“LCS”) to other person is required to obtain a cybersecurity service provider’s (“CSP”) licence.</ol>
 <ol>•	those who is in the business of providing a LCS, is required to obtain a licence before advertising their LCS.</ol>
 
