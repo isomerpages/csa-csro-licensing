@@ -126,5 +126,5 @@ For further assistance, please contact us at:
 <br><br>
 Cybersecurity Services Regulation Office<br>
 100 Victoria Street<br>National Library Building #10-01 <br>Singapore 188064
-<br><br>Email: <a href="mailto:CSA_Licensing@csa.gov.sg">CSA_Licensing@csa.gov.sg</a>
+<br><br>Email: <a href="mailto:contact@csro.gov.sg">contact@csro.gov.sg</a>
 </details>
