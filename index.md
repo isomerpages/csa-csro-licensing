@@ -4,10 +4,10 @@ title: Cybersecurity Services Regulation Office
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Reminder: <b>CSPs may continue to provide licensable services
-  until 11 Oct 2022 without licence.</b> CSPs which have applied for licence
-  before 11 Oct 2022 may continue to provide the licensable service until a
-  decision on their licence application is made."
+notification: '<font size="2">Reminder: <b>CSPs may continue to provide
+  licensable services until 11 Oct 22 without licence.</b> CSPs which have
+  applied for licence before 11 Oct 22 may continue to provide the licensable
+  service until a decision on their licence application is made.</font>'
 sections:
   - hero:
       title: Cybersecurity Service Provider Licence
