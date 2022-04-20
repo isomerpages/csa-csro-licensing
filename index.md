@@ -7,7 +7,7 @@ permalink: /
 notification: '<font size="2.5"><u>Reminder</u>: <b>CSPs can continue to provide
   licensable services until 10 Oct 22 without licence.</b> CSPs that apply for
   licence before 11 Oct 22 can continue to provide the licensable service while
-  their licence application are being processed.</font>'
+  their licence applications are being processed.</font>'
 sections:
   - hero:
       title: Cybersecurity Service Provider Licence
