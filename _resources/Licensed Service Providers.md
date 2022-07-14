@@ -3,7 +3,7 @@ title: Licensed Service Providers
 permalink: /resources/licensed-service-providers
 description: ""
 ---
-This page contains the list of licensed service providers. 
+This page contains the lists of licensees. 
 
 <table>
 <tbody><tr>
