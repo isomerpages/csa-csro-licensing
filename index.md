@@ -21,7 +21,7 @@ sections:
           url: /how-to/apply-for-licence
         - title: Find a Service provider
           description: List of Licensees
-          url: /resources/register-of-lsp/list-of-licensed-individuals
+          url: /resources/licensed-service-providers
         - title: List of Guides
           description: For Consumers and Applicants
           url: /resources/forms-and-guides/guides
