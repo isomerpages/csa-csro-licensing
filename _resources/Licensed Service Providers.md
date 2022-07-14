@@ -11,11 +11,11 @@ This page contains the list of licensed service providers.
 	<th width="40%"><b>Attachment</b></th>
 </tr>
 <tr>
-	<td>List of Licensed Business Entities</td>
+	<td>Business Entity Licensee</td>
 <td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Business%20Entities.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
-	<td>List of Licensed Individuals</td>
+	<td>Individual Licensee</td>
 <td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Individuals.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
