@@ -2,9 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Register of LSP/List of Licensed Individuals.md
-      - Register of LSP/List of Licensed Business Entities.md
-      - Register of LSP/.keep
+      - Licensed Service Providers.md
       - Forms and Guides/.keep
       - Forms and Guides/Forms.md
       - Forms and Guides/Guides.md
