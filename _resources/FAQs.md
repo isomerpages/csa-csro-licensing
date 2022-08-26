@@ -67,7 +67,7 @@ A licence is valid for a period of 2 years and the licence fees for individuals 
 <details>
 <summary><h5>11. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
 	
-Each licence application takes up to 6 weeks to process. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
+Each licence application takes up to eight weeks to process. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
 </details>
 <details>
 <summary><h5>12. When should licence renewal application be submitted?</h5></summary>
