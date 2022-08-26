@@ -20,7 +20,7 @@ Licensee is required to submit a licence renewal application at least two months
     <td>Two years starting from the end of current licence validity period.</td>
   </tr>
     <td>Application Processing Time</td>
-    <td>The processing of licence renewal application may take up to six weeks, starting from the receipt of the complete application (with all supporting documents submitted). Applicant will be notified of the outcome of application via email.</td>
+    <td>The processing of licence renewal application may take up to eight weeks, starting from the receipt of the complete application (with all supporting documents submitted). Applicant will be notified of the outcome of application via email.</td>
 </table>
 
 ### Submit Renewal Application
