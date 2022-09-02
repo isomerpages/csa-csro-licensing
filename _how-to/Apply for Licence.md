@@ -28,7 +28,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cyb
   </tr>
 	<tr>
 	<td>Application Processing Time</td>
-  <td>The processing of new licence applications will take up to six weeks, starting from the receipt of the complete application including all supporting documents. Applicant will be notified of the outcome of the application via email.
+  <td>The processing of new licence applications will take up to eight weeks, starting from the receipt of the complete application including all supporting documents. Applicant will be notified of the outcome of the application via email.
 	</td>
 	</tr>
 </table>
