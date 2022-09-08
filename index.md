@@ -27,7 +27,8 @@ sections:
           url: /resources/forms-and-guides/guides
   - infopic:
       title: "Reminder "
-      description: Apply for your licence by <b>11 October 2022</b>
+      description: Apply for a  Cybersecurity Service Provider's licence by <b>11
+        October 2022</b>
       button: How to apply
       url: /how-to/apply-for-licence
       image: /images/1 Mth.jpg
