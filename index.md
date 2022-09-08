@@ -31,6 +31,6 @@ sections:
         October 2022</b>
       button: How to apply
       url: /how-to/apply-for-licence
-      image: /images/1 Mth.jpg
+      image: /images/CSP_Reminder_EDM_1Month.jpg
       alt: Reminder for application
 ---
