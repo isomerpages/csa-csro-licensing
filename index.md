@@ -25,4 +25,12 @@ sections:
         - title: List of Guides
           description: For Consumers and Applicants
           url: /resources/forms-and-guides/guides
+  - infopic:
+      title: "Reminder "
+      description: Apply for Cybersecurity Service Providers licences by <b>11 October
+        2022</b> to continue to provide licensable cybersecurity services
+      button: How to apply
+      url: /how-to/apply-for-licence
+      image: /images/CSP_Reminder_EDM_1Month.jpg
+      alt: Reminder for application
 ---
