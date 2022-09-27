@@ -31,6 +31,6 @@ sections:
         2022</b> to continue to provide licensable cybersecurity services
       button: How to apply
       url: /how-to/apply-for-licence
-      image: /images/CSP_Reminder_EDM_1Month.jpg
+      image: /images/CSP_Reminder_EDM_2Weeks-01.jpg
       alt: Reminder for application
 ---
