@@ -33,4 +33,10 @@ sections:
       url: /how-to/apply-for-licence
       image: /images/CSP_Reminder_EDM_2Weeks-01.jpg
       alt: Reminder for application
+  - infopic:
+      title: Engage a licensed Cybersecurity Provider
+      button: Click here for list of licensees
+      url: /resources/licensed-service-providers
+      image: /images/EDM for Consumers of LCS.jpg
+      alt: Image alt text
 ---
