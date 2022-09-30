@@ -39,4 +39,6 @@ sections:
       url: /resources/licensed-service-providers
       image: /images/EDM for Consumers of LCS.jpg
       alt: Image alt text
+      description: Consumers are encouraged to engage licensed cybersecurity service
+        providers to safeguard your businesses
 ---
