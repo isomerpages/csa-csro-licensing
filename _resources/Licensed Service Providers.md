@@ -1,6 +1,6 @@
 ---
 title: Licensed Service Providers
-permalink: /resources/licensed-service-providers
+permalink: /resources/licensed-service-providers/
 description: ""
 ---
 This page contains the lists of licensees. 
@@ -12,11 +12,11 @@ This page contains the lists of licensees.
 </tr>
 <tr>
 	<td>Business Entity</td>
-<td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Business%20Entities.pdf" download>Click to Download</a></td>
+<td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Business%20Entities-Oct.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
 	<td>Individual</td>
-<td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Individuals.pdf" download>Click to Download</a></td>
+<td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Individuals-Oct.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
 </table>
