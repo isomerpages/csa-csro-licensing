@@ -1,6 +1,6 @@
 ---
 title: Guides
-permalink: /resources/Forms-and-Guides/guides
+permalink: /resources/Forms-and-Guides/guides/
 description: ""
 third_nav_title: Forms and Guides
 ---
@@ -14,11 +14,11 @@ This page contains the list of guides published by CSRO.
 </tr>
 <tr>
 	<td>Buyer's Guide for Managed Security Operations Centre</td>
-	<td><a href="/files/Guides/Buyer's%20Guide%20for%20MSOC.pdf" download>Click to Download</a></td>
+	<td><a href="/files/Guides/Buyer's%20Guide%20for%20MSOC_v1.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
 	<td>Buyer's Guide for Penetration Testing Service</td>
-	<td><a href="/files/Guides/Buyer's%20Guide%20for%20PT.pdf" download>Click to Download</a></td>
+	<td><a href="/files/Guides/Buyer's%20Guide%20for%20PT_v1.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
 </table>
