@@ -10,11 +10,11 @@ description: ""
 All providers of managed security operations centre monitoring services and penetration testing services (i.e. licensable cybersecurity services) to the Singapore market will need to apply for a cybersecurity service provider’s licence, regardless of whether they are companies or individuals (i.e. freelancers or sole proprietorships owned and controlled by individuals) or third-party cybersecurity service providers (“CSPs”) that provide these services in support of other CSPs. However, a company that provides licensable cybersecurity services solely for its related company(ies) e.g. in-house service provider, does not require a licence.<b>#</b><br><br>
 Resellers, third-party vendors or overseas CSPs including the affiliates of a licensee who provide licensable cybersecurity services to the Singapore market would need to be licensed.<b>*</b><br><br>
 <b>#</b>According to the Companies Act, related company(ies) is defined as, but not limited to:
-<ol><font size="3.5">a. holding company of another corporation;
-<br>b. subsidiary of another corporation; or
-<br>c. subsidiary of the holding company of another corporation.</font></ol>
+<ol><font size="3.5">a) holding company of another corporation;
+<br>b) subsidiary of another corporation; or
+<br>c) subsidiary of the holding company of another corporation.</font></ol>
 
-	<b>*</b>Business entities providing software solution, platform or tool to support other cybersecurity services providers would not be required to be licensed unless these business entities also provide service offerings that include licensable cybersecurity services.
+<b>*</b><i>Business entities providing software solution, platform or tool to support other cybersecurity services providers would not be required to be licensed unless these business entities also provide service offerings that include licensable cybersecurity services.</i>
 </details>
 <details>
 <summary><h5>2. What is considered as providing licensable cybersecurity services to the Singapore market?</h5></summary>
@@ -42,18 +42,18 @@ Companies are required to apply for a licence for each of the licensable cyberse
 Individual employees of cybersecurity service providers providing licensable cybersecurity services on behalf of their employer are not required to be licenced.
 </details>
 <details>
-<summary><h5>7.	What do I need to ensure prior to applying for a licence?</h5></summary>
+<summary><h5>7. What do I need to ensure prior to applying for a licence?</h5></summary>
 	
 Business entities are required to ensure that officer of the business entity is fit and proper when applying for a licence. Officer of a business entity refers to any director or partner, or other person listed in the business entity’s business profile e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary, or any other person who is responsible for the management of the business entity. Individuals who are applying for the licence should also be a fit and proper person to hold the licence. Failing which, the licence application may be rejected.
 </details>
 <details>
 <summary><h5>8. How can an overseas company apply for a licence?</h5></summary>
 	
-Overseas cybersecurity service providers which are not registered in Singapore but wish to apply to be licensed to provide licensable cybersecurity services to the Singapore market must first apply for a CorpPass Admin Account for Foreign Entity which is necessary for the submission of the licence application via GoBusiness Licensing. For assistance on setting up a CorpPass Admin Account, please visit the  <a href="http://www.corppass.gov.sg/">CorpPass website</a> or email <a href="mailto:support@corppass.gov.sg">support@corppass.gov.sg</a>. Alternatively, please click <a href="https://www.corppass.gov.sg/corppass/common/contactus">here</a> for more contact options.
+Overseas cybersecurity service providers which are not registered in Singapore but wish to apply to be licensed to provide licensable cybersecurity services to the Singapore market must first apply for a CorpPass Admin Account for Foreign Entity which is necessary for the submission of the licence application via GoBusiness Licensing. For assistance on setting up a CorpPass Admin Account, please visit the <a href="http://www.corppass.gov.sg/">CorpPass website</a> or email <a href="mailto:support@corppass.gov.sg">support@corppass.gov.sg</a>. Alternatively, please click <a href="https://www.corppass.gov.sg/corppass/common/contactus">here</a> for more contact options.
 <br><br>Do note that overseas companies that are not registered with the Accounting and Corporate Regulatory Authority of Singapore (ACRA) are required to upload a copy of their business profile (reflecting the details of the business registration record with the relevant authorities in the oversea country) in the licence application. Please note that documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person's full name, of his address and of his qualifications for making the translation.
 </details>
 <details>
-<summary><h5>9.	Who are the Key Executive Officer and Key Officer of a business entity applicant?</h5></summary>
+<summary><h5>9. Who are the Key Executive Officer and Key Officer of a business entity applicant?</h5></summary>
 	
 Key Executive Officer refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. 
 <br><br>Key Officer refers to any director, partner, or other person listed in the business entity's business profile e.g. ACRA Bizfile, with the exception of shareholders (who are not directors or partners) and the company secretary.
@@ -84,12 +84,12 @@ Business entity applicants with officer(s) failing to meet the fit and proper cr
 Pursuant to regulation 2(2) of the Cybersecurity (Cybersecurity Service Providers) Regulations 2022, a licence application must include information on relevant qualification or experience relating to the licensable cybersecurity services. In the situation where none of the Key Executive Officer or Key Officer(s) has qualification or experience relevant to the licensable service, the curriculum vitae of one of the business entity licence applicant's employee or proposed employee with supervisory responsibility who has qualification or experience relating to the licensable service shall be included in the licence application.
 </details>
 <details>
-<summary><h5>14. What is the requirement of a Certificate of Clearance?</h5></summary>
+<summary><h5>14. Who would require a Certificate of Clearance?</h5></summary>
 	
 A Certificate of Clearance (or equivalent documentation) is required for each of the overseas officer(s) and shall be obtained from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, home country refers to the country of nationality.
 </details>
 <details>
-<summary><h5>15. Is there a particular format I need to follow for the Certificate of Clearance?</h5></summary>
+<summary><h5>15. What is the format for a Certificate of Clearance?</h5></summary>
 	
 We do not intend to be prescriptive on the format of Certificate of Clearance (or equivalent documentation) from the relevant authorities in the home country. The applicant should ensure that the Certificate of Clearance (or equivalent documentation) minimally certifies that the officer of the business entity licence applicant does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, nationwide includes all states of the home country.
 <br><br>Certificate of Clearance (or equivalent documentation) not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.
@@ -97,7 +97,7 @@ We do not intend to be prescriptive on the format of Certificate of Clearance (o
 <details>
 <summary><h5>16. What do I need to note when completing the Declaration Form for Business Entity/Individual?</h5></summary>
 	
-Business Entity applicants’ Key Executive Officer and Key Officer(s) are each required to complete the Declaration Form for Individual, in addition to the Declaration Form for Business Entity. Please note that any false declaration will subject the licence application to be rejected.
+Business Entity applicants’ Key Executive Officer and Key Officer(s) are each required to complete the Declaration Form for Individual, in addition to the Declaration Form for Business Entity. Please note that any false declaration will subject the licence application to be rejected and punitive action may be taken against the incumbent.
 </details>
 <details>
 <summary><h5>17. Will quality requirements be imposed on the licensees?</h5></summary>
@@ -106,7 +106,7 @@ The licensing framework aims to raise quality of the standards of the cybersecur
 <br><br>Instead, to complement the light touch licensing framework, CSRO will continue to work with the industry and professional association partners to establish voluntary accreditation regimes for cybersecurity professionals, to improve the standing of cybersecurity professionals.
 </details>
 <details>
-<summary><h5>18. Will CSRO consider licensing other cybersecurity services in the future?</h5></summary>
+<summary><h5>18. Will CSRO consider licensing other cybersecurity services in the future? </h5></summary>
 	
 CSRO will continue to monitor international and industry trends and engage the industry where necessary, to assess if any new types of cybersecurity services should be included in the licensing framework, such as those that are of higher risks to consumers.
 </details>
@@ -141,7 +141,7 @@ Each licence application takes up to approximately 8 weeks to process upon submi
 An application for renewal of a licence must be made no later than 2 months before expiry. Licensee who fails to submit their licence renewal application 2 months prior to the expiry may be required to apply for a new licence. This may result in a possible lapse in the licensure period where the business entity will be required to suspend its operations, until the outcome of its licence application is determined.
 </details>
 <details>
-<summary><h5>24. How is the licence renewal application process like? </h5></summary>
+<summary><h5>24. How is the licence renewal application process like?</h5></summary>
 	
 When a licence is due for renewal, the GoBusiness Licensing will send a Renewal Request Notification via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
 </details>
@@ -158,7 +158,7 @@ Licensees who wish to terminate their licence before expiry should submit an app
 <details>
 <summary><h5>27. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
 	
-Licensee is required to update changes to their business details through the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> for the following material changes.
+Licensee is required to update changes to their business details through the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> for the following material changes:
 <ol><font size="3.5">a) Changes to Key Executive Officers<br>b)	Additional of Key Officers; and<br>c)	Removal of Key Officers.</font></ol>
 
 Other than the above, any other changes that are not material change will automatically be approved by the system. These include changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and key officers.
