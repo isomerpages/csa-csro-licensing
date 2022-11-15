@@ -10,6 +10,6 @@ permalink: /privacy/
 <li>For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us with the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.</li>
 <li>To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.</li>
 <li>This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.</li>
-<li>Please contact contact@csro.gov.sg if you: 
+<li>Please contact <a href="mailto:contact@csro.gov.sg">contact@csro.gov.sg</a> if you: 
 <ol>(a) have any enquires or feedback on our data protection policies and procedures, 
 <br>(b) need more information on or access to data which you have provided to us in the past.</ol></li>
