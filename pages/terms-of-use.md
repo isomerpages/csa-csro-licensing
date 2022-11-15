@@ -24,20 +24,21 @@ Thank you for visiting the Cybersecurity Services Regulation Office (CSRO) websi
 <br><br>The Contents of this Digital Service are provided on an "as-is" basis without warranties of any kind. To the fullest extent permitted by law, CSRO does not warrant and disclaims all express, implied and statutory warranties of any kind to you, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:
 <ol>i. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Digital Service;</ol>
 <ol>ii. that the Contents available through this Digital Service or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Digital Service and the server is and will be free of all viruses and/or other harmful elements</ol>
-<br>CSRO shall not be liable for any damages, losses, compensation, penalty, expenses or costs whatsoever (whether direct, indirect, special or consequential damage or economic loss and whether foreseeable or not) incurred on account of or arising from:
+CSRO shall not be liable for any damages, losses, compensation, penalty, expenses or costs whatsoever (whether direct, indirect, special or consequential damage or economic loss and whether foreseeable or not) incurred on account of or arising from:
 <ol>i. Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;</ol>
 <ol>ii. The access to the Digital Service or use of any services offered on the Digital Service;</ol>
 <ol>iii. Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;</ol>
 <ol>iv. Any delay or errors in operation or transmission of the Digital Service arising from communications failure, internet access difficulties or malfunctions in equipment or software;</ol>
 <ol>v. Use or access to the Digital Service or any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and</ol>
 <ol>vi. Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether CSRO has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.</ol>
-<br>Any reference made by CSRO in this Digital Service to any company or other entity, or to their services or products, is NOT an endorsement nor should it imply any such endorsement of the quality of that company or entity, or its services or products.
+Any reference made by CSRO in this Digital Service to any company or other entity, or to their services or products, is NOT an endorsement nor should it imply any such endorsement of the quality of that company or entity, or its services or products.
 <br><br>CSRO provides the Digital Service as a general information source only. The Digital Service should not be taken as giving professional advice, and may not cover all the relevant information on a particular issue. Before relying in any way on the information on the Digital Service, you should do your own checks and/or obtain the necessary professional advice on your particular issue.
 <br><br>CSRO may modify or discontinue any information or features that form part of the Digital Service at any time, with or without notice to you, and without liability.
 <br><br><b>Indemnity</b>
 <br><br>You hereby agree to indemnify CSRO and hold CSRO harmless from and against any and all claims, losses, liabilities, costs and expenses (including but not limited to legal costs and expenses on a full indemnity basis) made against or suffered or incurred by CSRO however arising directly or indirectly from:
 <ol>i. your access to or use of this Digital Service; or</ol>
-<ol>ii. your breach of any of these Terms of Use.</ol><br><b>Hyperlinks from this Digital Service to other websites</b>
+<ol>ii. your breach of any of these Terms of Use.</ol>
+<b>Hyperlinks from this Digital Service to other websites</b>
 <br><br>This Digital Service contains hyperlinks to websites which are not maintained by CSRO. CSRO is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 <br><br>Hyperlinks to other websites are provided as a convenience. In no circumstances shall CSRO be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Digital Service is linked.
 <br><br><b>Links to this Digital Service from other websites</b>
