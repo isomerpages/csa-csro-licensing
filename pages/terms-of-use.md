@@ -22,8 +22,8 @@ Thank you for visiting the Cybersecurity Services Regulation Office (CSRO) websi
 <br><br>All Contents made available for downloading from this Digital Service are the copyrighted work of CSRO and the ownership is retained by CSRO.
 <br><br><b>Disclaimer of Warranties and Liability</b>
 <br><br>The Contents of this Digital Service are provided on an "as-is" basis without warranties of any kind. To the fullest extent permitted by law, CSRO does not warrant and disclaims all express, implied and statutory warranties of any kind to you, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:
-<ol>i. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Digital Service;</ol>
-<ol>ii. that the Contents available through this Digital Service or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Digital Service and the server is and will be free of all viruses and/or other harmful elements</ol>
+<ol>i. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Digital Service; and</ol>
+<ol>ii. that the Contents available through this Digital Service or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Digital Service and the server is and will be free of all viruses and/or other harmful elements.</ol>
 CSRO shall not be liable for any damages, losses, compensation, penalty, expenses or costs whatsoever (whether direct, indirect, special or consequential damage or economic loss and whether foreseeable or not) incurred on account of or arising from:
 <ol>i. Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;</ol>
 <ol>ii. The access to the Digital Service or use of any services offered on the Digital Service;</ol>
