@@ -14,7 +14,7 @@ Thank you for visiting the Cybersecurity Services Regulation Office (CSRO) websi
 <br><br><b>Proprietary Rights</b>
 <br><br>This Digital Service is maintained by CSRO. The materials located on this Digital Service including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by CSRO.
 <br><br><b>Privacy Policy</b>
-<br><br>Click here <b>(to hyperlink)</b> to review this Digital Service’s Privacy Statement.
+<br><br>Click <a href="/privacy/">here</a> to review this Digital Service’s Privacy Statement.
 <br><br><b>Restrictions on use of Information and Materials</b>
 <br><br>Except as otherwise provided, the materials located on this Digital Service including the source code, data, pages, documents and online graphics, audio and video media, and information and   software programs (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by or licensed to CSRO.
 <br><br>Contents of this Digital Service shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of CSRO.
@@ -50,9 +50,3 @@ Thank you for visiting the Cybersecurity Services Regulation Office (CSRO) websi
 <br><br>CSRO reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Digital Service or any of the Contents.
 <br><br><b>Governing Law</b>
 <br><br>Use of the Digital Service and these Terms of Use and all its subsequent variations shall be subject to, governed by, and interpreted in accordance with the laws of the Republic of Singapore, and you hereby agree to submit to the exclusive jurisdiction of the Singapore courts in the determination of any dispute arising in connection with the use of the Digital Service.
-
-
-
-
-
-
