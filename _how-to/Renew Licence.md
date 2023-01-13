@@ -1,9 +1,9 @@
 ---
 title: Renew Licence
-permalink: /how-to/renew-licence
+permalink: /how-to/renew-licence/
 description: ""
 ---
-Licensee is required to submit a licence renewal application at least two months prior to the expiry date of the current licence. 
+Licensee is required to submit a licence renewal application <b>at least two months prior to the expiry date of the current licence.</b> 
 
 #### At A Glance
 <table class="table-v">
@@ -25,8 +25,11 @@ Licensee is required to submit a licence renewal application at least two months
 
 ### Submit Renewal Application
 
-Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via [GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home).
+Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via [GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home). 
 
+Licensee may use the checker below to determine the due date to submit a renewal application for its current licence. If the checker below is not loaded, you can also access it at <a href="https://www.checkfirst.gov.sg/c/33cf6582-f3e4-4018-8801-aa282865bd38">here</a>.
+
+<iframe id="iframe" src="https://www.checkfirst.gov.sg/c/33cf6582-f3e4-4018-8801-aa282865bd38" style="width:100%;height:500px"></iframe>
 <font size="4.5">Note:</font>
 <ul><li><font size="4.5">Licensee who fails to submit their renewal application at least 2 months prior to the expiry of the current licence will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to <b>suspend its operations until a new licence is granted.</b></font></li></ul>
 <ul><li><font size="4.5">Renewed licence validity period will start from the end of the current licence validity period.</font></li></ul>
