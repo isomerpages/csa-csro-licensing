@@ -35,7 +35,7 @@ sections:
         providers
   - infopic:
       title: Vulnerability Disclosure Policy (VDP)
-      description: Consumers are encouraged to report any suspected vulnerability in a
+      description: Everyone is encouraged to report any suspected vulnerability in a
         product or service directly to the System Owner(s).
       button: find out more about VDP
       url: https://www.csa.gov.sg/singcert/Resources/singcert-vulnerability-disclosure-policy
