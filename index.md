@@ -33,4 +33,12 @@ sections:
       alt: Image alt text
       description: Consumers are encouraged to engage licensed cybersecurity service
         providers
+  - infopic:
+      title: Vulnerability Disclosure Policy (VDP)
+      description: Consumers are encouraged to report any suspected vulnerability in a
+        product or service directly to the System Owner(s).
+      button: find out more about VDP
+      url: https://www.csa.gov.sg/singcert/Resources/singcert-vulnerability-disclosure-policy
+      image: /images/Singcert_EDM_V10-01.jpg
+      alt: Image alt text
 ---
