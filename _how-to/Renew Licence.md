@@ -27,7 +27,7 @@ Licensee is required to submit a licence renewal application <b>at least two mon
 
 Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via [GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home). 
 
-Licensee may use the checker below to determine the due date to submit a renewal application for its current licence. If the checker below is not loaded, you can also access it at <a href="https://www.checkfirst.gov.sg/c/33cf6582-f3e4-4018-8801-aa282865bd38">here</a>.
+Use the checker below to compute the due date to submit licence renewal application. If the checker below is not loaded, it can also be accessed <a href="https://www.checkfirst.gov.sg/c/33cf6582-f3e4-4018-8801-aa282865bd38">here</a>.
 
 <iframe id="iframe" src="https://www.checkfirst.gov.sg/c/33cf6582-f3e4-4018-8801-aa282865bd38" style="width:100%;height:500px"></iframe>
 <font size="4.5">Note:</font>
