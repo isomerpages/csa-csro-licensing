@@ -12,11 +12,11 @@ This page contains the lists of licensees.
 </tr>
 <tr>
 	<td>Business Entity</td>
-<td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Business%20Entities_10Mar.pdf" download>Click to Download</a></td>
+<td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Business%20Entities_17Mar.pdf" download>Click to Download</a></td>
 </tr>
 <tr>
 	<td>Individual</td>
-<td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Individuals_10Mar.pdf" download>Click to Download</a></td>
+<td><a href="/files/Licensed%20Service%20Providers/List%20of%20Licensed%20Individuals_17Mar.pdf" download>Click to Download</a></td>
 </tr>
 </tbody>
 </table>
