@@ -19,7 +19,7 @@ The following table provides guidance on the method though which licensee shall 
 	<td>Appointment of <i>officers of the business entity</i></td>
 <td>Within 14 calendar days after the effective date of appointment</td>
 	<td>Via <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a></td>
-<td>1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants)<br>2.	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service)<br>3.	<a href="/files/Forms/Declaration%20Form%20for%20Individual.pdf" download>Declaration Form for Individual</a>, which has been duly filled up and endorsed by the newly appointed <i>officer</i><br>4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country
+<td>1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants)<br>2.	Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service)<br>3.	<a href="/files/forms/declaration%20form%20for%20individual.pdf" download>Declaration Form for Individual</a>, which has been duly filled up and endorsed by the newly appointed <i>officer</i><br>4.	(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country
 </td>
 </tr>
 <tr>
@@ -56,4 +56,4 @@ The following table provides guidance on the method though which licensee shall 
 
 ### Guide to Update Licence Details
 
-Licensee may download this <a href="/files/Guides/Guide%20to%20Update%20Licence%20Details.pdf" download>step-by-step guide</a> for licence details amendment process via GoBusiness Licensing.
+Licensee may download this <a href="/files/guides/guide%20to%20update%20licence%20details.pdf" download>step-by-step guide</a> for licence details amendment process via GoBusiness Licensing.

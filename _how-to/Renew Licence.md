@@ -70,8 +70,8 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 <tr>
 	<td><font size="4.5">3</font></td>
 <td><font size="4.5">Declaration forms which have been duly filled up and endorsed. These include:<br>
-<ul>a)	One copy of the <a href="/files/Forms/Declaration%20Form%20for%20Business%20Entity.pdf" download>Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and<br>
-	b)	The <a href="/files/Forms/Declaration%20Form%20for%20Individual.pdf" download>Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i></ul></font>
+<ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download>Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and<br>
+	b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download>Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i></ul></font>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 </table>
 
 ##### For Individual:<br>
- <ol><li><font size="4.5"><a href="/files/Forms/Declaration%20Form%20for%20Individual.pdf" download>Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</font><br></li>
+ <ol><li><font size="4.5"><a href="/files/forms/declaration%20form%20for%20individual.pdf" download>Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</font><br></li>
 <li><font size="4.5">(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</font></li></ol>
 
  <font size="4.5">Note:</font>

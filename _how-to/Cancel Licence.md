@@ -11,4 +11,4 @@ Please note that there shall be no refund of licence fees in the event of early 
 Licensee may submit their licence cancellation application via <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
 
 ### Guide to Cancellation of Licence
-Licensee may download this <a href="/files/Guides/Guide%20to%20Cancellation%20of%20Licence.pdf" download>step-by-step guide</a> on licence cancellation process via GoBusiness Licensing.
+Licensee may download this <a href="/files/guides/guide%20to%20cancellation%20of%20licence.pdf" download>step-by-step guide</a> on licence cancellation process via GoBusiness Licensing.

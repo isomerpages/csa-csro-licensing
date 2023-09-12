@@ -1,4 +1,4 @@
-logo: /images/CSRO_Logo_CMYK-FullColor.jpg
+logo: /images/csro_logo_cmyk-fullcolor.jpg
 links:
   - title: Who We Are
     url: /who-we-are/
@@ -19,10 +19,10 @@ links:
       - title: Licensed Service Providers
         url: /resources/licensed-service-providers
       - title: Forms and Guides
-        url: /resources/Forms-and-Guides/forms
+        url: /resources/forms-and-guides/forms
       - title: Legislation
         url: /resources/legislation
       - title: FAQs
         url: /resources/faqs
   - title: Contact us
-    url: /contact-CSRO
+    url: /contact-csro

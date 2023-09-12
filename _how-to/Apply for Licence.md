@@ -87,8 +87,8 @@ Please note that with the exception of the “Declaration form for Business Enti
 <ol><ol><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
 <li>Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service).</li>
 <li>Declaration forms which have been duly filled up and endorsed. These include:</li>
-<ul>a)	One copy of the <a href="/files/Forms/Declaration%20Form%20for%20Business%20Entity.pdf" download>Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and</ul>
-<ul>(b)	The <a href="/files/Forms/Declaration%20Form%20for%20Individual.pdf" download>Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul>
+<ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download>Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and</ul>
+<ul>(b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download>Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul>
 <li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country.</li></ol></ol></td></tr></table>
 	
 <table class="table-h">
@@ -97,7 +97,7 @@ Please note that with the exception of the “Declaration form for Business Enti
 	<br><br>			
 <ol><ol><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
 <li>Curriculum vitae (including qualification or experience (if any) relating to the licensable cybersecurity service).</li>
-<li><a href="/files/Forms/Declaration%20Form%20for%20Individual.pdf" download>Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</li>
+<li><a href="/files/forms/declaration%20form%20for%20individual.pdf" download>Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</li>
 <li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</li></ol></ol></td></tr></table>
 
 <ul><font size="4.5">Note:</font></ul>
@@ -105,4 +105,4 @@ Please note that with the exception of the “Declaration form for Business Enti
 
 ### Guide to New Licence Application
 
-Applicant may download this <a href="/files/Guides/Guide%20to%20New%20Licence%20Application.pdf" download>step-by-step guide</a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
+Applicant may download this <a href="/files/guides/guide%20to%20new%20licence%20application.pdf" download>step-by-step guide</a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.

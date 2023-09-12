@@ -29,7 +29,7 @@ sections:
       title: Engage licensed cybersecurity service providers
       button: lists of licensees
       url: /resources/licensed-service-providers
-      image: /images/EDM for Consumers of LCS.jpg
+      image: /images/edm for consumers of lcs.jpg
       alt: Image alt text
       description: Consumers are encouraged to engage licensed cybersecurity service
         providers
@@ -39,6 +39,6 @@ sections:
         product or service directly to the System Owner(s).
       button: find out more about VDP
       url: https://www.csa.gov.sg/singcert/Resources/singcert-vulnerability-disclosure-policy
-      image: /images/Singcert_EDM_V10-01.jpg
+      image: /images/singcert_edm_v10-01.jpg
       alt: Image alt text
 ---
