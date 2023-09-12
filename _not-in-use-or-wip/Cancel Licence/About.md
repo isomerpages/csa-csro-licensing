@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /how-to-not-in-use/Cancel-Licence/about
+permalink: /how-to-not-in-use/cancel-licence/about/
 description: ""
 third_nav_title: Cancel Licence
 ---

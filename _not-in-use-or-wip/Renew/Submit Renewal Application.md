@@ -1,6 +1,6 @@
 ---
 title: Submit Renewal Application
-permalink: /how-to-not-in-use/Renew/submit-renewal-application
+permalink: /how-to-not-in-use/renew/submit-renewal-application/
 description: ""
 third_nav_title: Renew
 ---

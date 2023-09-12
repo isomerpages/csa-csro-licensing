@@ -1,6 +1,6 @@
 ---
 title: Guides
-permalink: /resources/Forms-and-Guides/guides/
+permalink: /resources/forms-and-guides/guides/
 description: ""
 third_nav_title: Forms and Guides
 ---

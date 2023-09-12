@@ -1,6 +1,6 @@
 ---
 title: Submit Cancellation Application
-permalink: /how-to-not-in-use/Cancel-Licence/submit-cancellation-application
+permalink: /how-to-not-in-use/cancel-licence/submit-cancellation-application/
 description: ""
 third_nav_title: Cancel Licence
 ---

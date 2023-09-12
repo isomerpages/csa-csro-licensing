@@ -1,6 +1,6 @@
 ---
 title: Who We Are
-permalink: /who-we-are
+permalink: /who-we-are/
 description: ""
 ---
 The Cybersecurity Services Regulation Office (“CSRO”) was set up on 11 April 2022 to administer the licensing framework for the cybersecurity service provider (“CSP”) under the Cybersecurity Act which aims to address three main considerations over time:

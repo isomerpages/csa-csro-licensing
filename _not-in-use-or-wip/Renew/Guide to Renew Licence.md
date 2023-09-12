@@ -1,6 +1,6 @@
 ---
 title: Guide to Renew Licence
-permalink: /how-to-not-in-use/Renew/guide-to-renew-licence
+permalink: /how-to-not-in-use/renew/guide-to-renew-licence/
 description: ""
 third_nav_title: Renew
 ---

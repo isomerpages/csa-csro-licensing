@@ -1,6 +1,6 @@
 ---
 title: List of Licensees
-permalink: /not-in-use-or-wip/list-of-licensee
+permalink: /not-in-use-or-wip/list-of-licensee/
 description: ""
 ---
 

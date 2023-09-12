@@ -1,6 +1,6 @@
 ---
 title: Cancel Licence
-permalink: /how-to/cancel-licence
+permalink: /how-to/cancel-licence/
 description: ""
 ---
 Licensee who decides to cease business operations prior to the expiry of their licence should submit a licence cancellation application to CSRO.

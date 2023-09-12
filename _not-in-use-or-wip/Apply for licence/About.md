@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /how-to-not-in-use/apply-for-licence/about
+permalink: /how-to-not-in-use/apply-for-licence/about/
 description: ""
 third_nav_title: Apply for licence
 ---
