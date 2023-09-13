@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-CSRO
+permalink: /contact-csro/
 description: ""
 ---
 ### Cybersecurity Services Regulation Office

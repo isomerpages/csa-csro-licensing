@@ -1,6 +1,6 @@
 ---
 title: Guide to New Licence Application
-permalink: /how-to-not-in-use/Apply-for-licence/guide-to-new-licence-application
+permalink: /how-to-not-in-use/apply-for-licence/guide-to-new-licence-application/
 description: ""
 third_nav_title: Apply for licence
 ---

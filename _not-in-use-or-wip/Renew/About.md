@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /how-to-not-in-use/Renew/about
+permalink: /how-to-not-in-use/renew/about/
 description: ""
 third_nav_title: Renew
 ---

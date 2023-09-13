@@ -1,6 +1,6 @@
 ---
 title: Guide to Update Licence Details
-permalink: /how-to-not-in-use/Update-Licence/guide-to-update-licence-details
+permalink: /how-to-not-in-use/update-licence/guide-to-update-licence-details/
 description: ""
 third_nav_title: Update Licence
 ---

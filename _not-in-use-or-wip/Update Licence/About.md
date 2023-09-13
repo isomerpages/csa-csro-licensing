@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /how-to-not-in-use/Update-Licence/about
+permalink: /how-to-not-in-use/update-licence/about/
 description: ""
 third_nav_title: Update Licence
 ---

@@ -1,6 +1,6 @@
 title: Cybersecurity Services Regulation Office
 url: ""
-favicon: /images/CSRO_Favicon.png
+favicon: /images/csro_favicon.png
 colors:
   primary-color: "#eb5c58"
   secondary-color: "#333399"
@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://csro-licensing-cms-staging.netlify.app
-prod: https://csro-licensing-cms-prod.netlify.app
+staging: https://staging.d6e59uj49cksm.amplifyapp.com/
+prod: https://master.d6e59uj49cksm.amplifyapp.com/

@@ -1,6 +1,6 @@
 ---
 title: Submit Licence Update Details
-permalink: /how-to-not-in-use/Update-Licence/submit-licence-update-details
+permalink: /how-to-not-in-use/update-licence/submit-licence-update-details/
 description: ""
 third_nav_title: Update Licence
 ---

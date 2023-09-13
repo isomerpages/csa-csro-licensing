@@ -1,6 +1,6 @@
 ---
 title: Legislation
-permalink: /resources/legislation
+permalink: /resources/legislation/
 description: ""
 ---
 Click on the respective link to be directed to the legislation

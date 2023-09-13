@@ -1,6 +1,6 @@
 ---
 title: Submit Application
-permalink: /how-to-not-in-use/apply-for-licence/submit-application
+permalink: /how-to-not-in-use/apply-for-licence/submit-application/
 description: ""
 third_nav_title: Apply for licence
 ---
