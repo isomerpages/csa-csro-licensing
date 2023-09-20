@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Cybersecurity Services Regulation Office
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: '<font size="2.5"><u>Reminder</u>: <b>CSPs can continue to provide
