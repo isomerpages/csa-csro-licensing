@@ -16,7 +16,7 @@ This page contains the lists of licensees.
 </tr>
 <tr>
 	<td>Individual</td>
-<td><a href="/files/licensed%20service%20providers/list%20of%20licensed%20individuals_27oct.pdf" download="">Click to Download</a></td>
+<td><a href="/files/licensed%20service%20providers/list%20of%20licensed%20individuals_3nov.pdf" download="">Click to Download</a></td>
 </tr>
 </tbody>
 </table>
