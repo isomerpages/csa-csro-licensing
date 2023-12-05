@@ -33,7 +33,7 @@ sections:
       description: Licensee are reminded to submit the necessary application to notify
         any changes in information and particulars
       button: "Find out more "
-      url: https://go.gov.
+      url: https://www.csro.gov.sg/how-to/update-licence
   - infopic:
       title: Engage licensed cybersecurity service providers
       button: lists of licensees
