@@ -26,10 +26,14 @@ sections:
           description: For Consumers and Applicants
           url: /resources/forms-and-guides/guides
   - infopic:
-      title: REMINDER
+      title: Reminder to licensees
       id: infopic
       image: /images/Reminder_EDM_to_Licensees.png
       alt: REMINDER
+      description: Licensee are reminded to submit the necessary application to notify
+        any changes in information and particulars
+      button: "Find out more "
+      url: https://go.gov.
   - infopic:
       title: Engage licensed cybersecurity service providers
       button: lists of licensees
