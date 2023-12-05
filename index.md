@@ -29,6 +29,7 @@ sections:
       title: REMINDER
       id: infopic
       image: /images/Reminder_EDM_to_Licensees.png
+      alt: REMINDER
   - infopic:
       title: Engage licensed cybersecurity service providers
       button: lists of licensees
