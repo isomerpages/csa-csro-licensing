@@ -30,8 +30,8 @@ sections:
       id: infopic
       image: /images/Reminder_EDM_to_Licensees.png
       alt: REMINDER
-      description: Licensee are reminded to submit the necessary application to notify
-        any changes in information and particulars
+      description: Licensees are reminded to submit the necessary applications to
+        notify any changes in information and particulars
       button: "Find out more "
       url: https://www.csro.gov.sg/how-to/update-licence
   - infopic:
