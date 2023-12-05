@@ -26,6 +26,10 @@ sections:
           description: For Consumers and Applicants
           url: /resources/forms-and-guides/guides
   - infopic:
+      title: REMINDER
+      id: infopic
+      image: /images/Reminder_EDM_to_Licensees.png
+  - infopic:
       title: Engage licensed cybersecurity service providers
       button: lists of licensees
       url: /resources/licensed-service-providers
@@ -41,8 +45,4 @@ sections:
       url: https://www.csa.gov.sg/Tips-Resource/Resources/singcert/singcert-vulnerability-disclosure-policy
       image: /images/singcert_edm_v10-01.jpg
       alt: Image alt text
-  - infopic:
-      title: REMINDER
-      id: infopic
-      image: /images/Reminder_EDM_to_Licensees.png
 ---
