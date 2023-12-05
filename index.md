@@ -42,6 +42,7 @@ sections:
       image: /images/singcert_edm_v10-01.jpg
       alt: Image alt text
   - infopic:
+      title: REMINDER
       id: infopic
       image: /images/Reminder_EDM_to_Licensees.png
 ---
