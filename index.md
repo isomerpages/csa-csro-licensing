@@ -41,4 +41,7 @@ sections:
       url: https://www.csa.gov.sg/Tips-Resource/Resources/singcert/singcert-vulnerability-disclosure-policy
       image: /images/singcert_edm_v10-01.jpg
       alt: Image alt text
+  - infopic:
+      id: infopic
+      image: /images/Reminder_EDM_to_Licensees.png
 ---
