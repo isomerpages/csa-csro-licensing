@@ -2,14 +2,15 @@
 title: Apply for Licence
 permalink: /how-to/apply-for-licence/
 description: ""
+variant: markdown
 ---
-Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cybersecurity (Cybersecurity Service Providers) Regulations](https://sso.agc.gov.sg/SL/CA2018-S304-2022?DocDate=20220408&msclkid=b2b84d25b93b11eca9499bb51ff4b0c9), the following groups of persons are required to obtain a cybersecurity service provider’s (“CSP”) licence:
+Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cybersecurity (Cybersecurity Service Providers) Regulations](https://sso.agc.gov.sg/SL/CA2018-S304-2022?DocDate=20220408&amp;msclkid=b2b84d25b93b11eca9499bb51ff4b0c9), the following groups of persons are required to obtain a cybersecurity service provider’s (“CSP”) licence:
 <ol>•	those who engages in the business of providing any of the following licensable cybersecurity service (“LCS”) to other person is required to obtain a cybersecurity service provider’s (“CSP”) licence.</ol>
 <ol>•	those who is in the business of providing a LCS, is required to obtain a licence before advertising their LCS.</ol>
 
 #### At A Glance
 <table class="table-v">
-    <tr>
+    <tbody><tr>
     <td width="45%">List of LCS as specified in the <a href="https://sso.agc.gov.sg/Acts-Supp/9-2018/?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
     <td width="55%">1. Managed security operations centre (SOC) monitoring service; and<br>
 2. Penetration testing service
@@ -31,7 +32,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cyb
   <td>The processing of new licence applications will take up to eight weeks, starting from the receipt of the complete application including all supporting documents. Applicant will be notified of the outcome of the application via email.
 	</td>
 	</tr>
-</table>
+</tbody></table>
 
 Note:
 <ol>
@@ -78,7 +79,7 @@ Application for licence is to be submitted online via <a href="https://licence1.
 Applicant is required to submit the following supporting documents for each licence application via GoBusiness Licensing “Upload Supporting Documents” function (please refer to our step-by-step guide for more details).
 
 <table class="table-h">
-	<tr>
+	<tbody><tr>
 	<td><b><u>For Business Entity:</u></b>
 <br>
 <br>
@@ -86,23 +87,24 @@ Please note that with the exception of the “Declaration form for Business Enti
 
 <ol><ol><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
 <li>Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service).</li>
+<li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entitiy name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
 <li>Declaration forms which have been duly filled up and endorsed. These include:</li>
-<ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download>Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and</ul>
-<ul>(b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download>Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul>
-<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country.</li></ol></ol></td></tr></table>
+<ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download="">Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and</ul>
+<ul>(b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul>
+<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country.</li></ol></ol></td></tr></tbody></table>
 	
 <table class="table-h">
-	<tr>
+	<tbody><tr>
 	<td><b><u>For Individual:</u></b>
 	<br><br>			
 <ol><ol><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
 <li>Curriculum vitae (including qualification or experience (if any) relating to the licensable cybersecurity service).</li>
-<li><a href="/files/forms/declaration%20form%20for%20individual.pdf" download>Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</li>
-<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</li></ol></ol></td></tr></table>
+<li><a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</li>
+<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</li></ol></ol></td></tr></tbody></table>
 
 <ul><font size="4.5">Note:</font></ul>
 <ul><ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul></ul>
 
 ### Guide to New Licence Application
 
-Applicant may download this <a href="/files/guides/guide%20to%20new%20licence%20application.pdf" download>step-by-step guide</a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
+Applicant may download this <a href="/files/guides/guide%20to%20new%20licence%20application.pdf" download="">step-by-step guide</a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
