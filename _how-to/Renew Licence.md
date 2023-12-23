@@ -2,12 +2,13 @@
 title: Renew Licence
 permalink: /how-to/renew-licence/
 description: ""
+variant: markdown
 ---
 Licensee is required to submit a licence renewal application <b>at least two months prior to the expiry date of the current licence.</b> 
 
 #### At A Glance
 <table class="table-v">
-  <tr>
+  <tbody><tr>
     <td width="45%">Licence Renewal Fees for each Licence</td>
 			<td width="55%">Business entity - S$1000<br>Individual - S$500<br></td>
   </tr>
@@ -19,9 +20,9 @@ Licensee is required to submit a licence renewal application <b>at least two mon
     <td>Licence Validity Period</td>
     <td>Two years starting from the end of current licence validity period.</td>
   </tr>
-    <td>Application Processing Time</td>
+    <tr><td>Application Processing Time</td>
     <td>The processing of licence renewal application may take up to eight weeks, starting from the receipt of the complete application (with all supporting documents submitted). Applicant will be notified of the outcome of application via email.</td>
-</table>
+</tr></tbody></table>
 
 ### Submit Renewal Application
 
@@ -70,13 +71,16 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 <tr>
 	<td><font size="4.5">3</font></td>
 <td><font size="4.5">Declaration forms which have been duly filled up and endorsed. These include:<br>
-<ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download>Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and<br>
-	b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download>Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i></ul></font>
+<ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download="">Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and<br>
+	b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i></ul></font>
 </td>
 </tr>
 <tr>
 <td><font size="4.5">4</font></td>
 <td><font size="4.5">(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country</font></td>
+	</tr>
+	<tr><td><font size="4.5">5</font></td>
+	<td><font size="4.5">Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entitiy name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</font></td>
 </tr>
 <tr>
 <td></td>
@@ -86,7 +90,7 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 </table>
 
 ##### For Individual:<br>
- <ol><li><font size="4.5"><a href="/files/forms/declaration%20form%20for%20individual.pdf" download>Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</font><br></li>
+ <ol><li><font size="4.5"><a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</font><br></li>
 <li><font size="4.5">(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</font></li></ol>
 
  <font size="4.5">Note:</font>
