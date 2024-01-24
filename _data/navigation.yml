@@ -1,0 +1,28 @@
+logo: /images/csro_logo_cmyk-fullcolor.jpg
+links:
+  - title: Who We Are
+    url: /who-we-are/
+  - title: How to
+    url: /how-to/apply-for-licence
+    sublinks:
+      - title: Apply for Licence
+        url: /how-to/apply-for-licence
+      - title: Renew Licence
+        url: /how-to/renew-licence
+      - title: Update Licence
+        url: /how-to/update-licence
+      - title: Cancel Licence
+        url: /how-to/cancel-licence
+  - title: Resources
+    url: /resources/licensed-service-providers
+    sublinks:
+      - title: Licensed Service Providers
+        url: /resources/licensed-service-providers
+      - title: Forms and Guides
+        url: /resources/forms-and-guides/forms
+      - title: Legislation
+        url: /resources/legislation
+      - title: FAQs
+        url: /resources/faqs
+  - title: Contact us
+    url: /contact-csro
