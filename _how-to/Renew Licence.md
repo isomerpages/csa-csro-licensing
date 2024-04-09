@@ -97,4 +97,4 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
  <ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul>
 
 ### Guide to Renew Licence
-Licensee may download this step-by-step guide for the licence renewal application submission process via GoBusiness Licensing.
+Licensee may download this <a href="/files/guides/guide%20to%20renew%20licence%20application.pdf" download="">step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.
