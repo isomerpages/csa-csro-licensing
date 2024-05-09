@@ -28,9 +28,10 @@ sections:
   - infopic:
       title: Renewal of Licences
       id: infopic
-      description: "Licensees are reminded to submit renewal applications "
+      description: Licensees are reminded to submit renewal applications
       image: /images/Renewal_EDM_to_Licensees.png
       alt: Image alt text
+      url: ttps://www.csro.gov.sg/how-to/renew-licence
   - infopic:
       title: Reminder to licensees
       id: infopic
