@@ -32,7 +32,7 @@ Use the checker below to compute the due date to submit licence renewal applicat
 
 <iframe id="iframe" src="https://www.checkfirst.gov.sg/c/33cf6582-f3e4-4018-8801-aa282865bd38" style="width:100%;height:500px"></iframe>
 
-You may also refer to the following link for commonly asked questions you may have for topics on Renewal of licence <a href="/files/guides/Renewal%20FAQ.pdf" download="">here</a>. 
+You may also refer to the following link for commonly asked questions you may have for topics on Renewal of licence <a href="/files/guides/renewal%20faq.pdf" download="">here</a>. 
 
 <font size="4.5">Note:</font>
 <ul><li><font size="4.5">Licensee who fails to submit their renewal application by the <b>due date</b> (i.e., no less than sixty (60) calender days prior to the expiry of the current licence) will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to <b>suspend its operations until a new licence is granted.</b></font></li></ul>
