@@ -26,13 +26,19 @@ sections:
           description: For Consumers and Applicants
           url: /resources/forms-and-guides/guides
   - infopic:
+      title: Renewal of Licences
+      id: infopic
+      description: "Licensees are reminded to submit renewal applications "
+      image: /images/Renewal_EDM_to_Licensees.png
+      alt: Image alt text
+  - infopic:
       title: Reminder to licensees
       id: infopic
       image: /images/Reminder_EDM_to_Licensees.png
       alt: REMINDER
       description: Licensees are reminded to submit the necessary applications to
         notify any changes in information and particulars
-      button: "Find out more "
+      button: Find out more
       url: https://www.csro.gov.sg/how-to/update-licence
   - infopic:
       title: Engage licensed cybersecurity service providers
