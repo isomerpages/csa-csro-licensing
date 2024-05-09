@@ -31,7 +31,8 @@ sections:
       description: Licensees are reminded to submit renewal applications
       image: /images/Renewal_EDM_to_Licensees.png
       alt: Image alt text
-      url: ttps://www.csro.gov.sg/how-to/renew-licence
+      url: https://www.csro.gov.sg/how-to/renew-licence
+      button: Click here to know more
   - infopic:
       title: Reminder to licensees
       id: infopic
