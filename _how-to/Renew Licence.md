@@ -4,7 +4,7 @@ permalink: /how-to/renew-licence/
 description: ""
 variant: markdown
 ---
-Licensee is required to submit a licence renewal application <b>at least two months prior to the expiry date of the current licence.</b> 
+Licensee is required to submit a licence renewal application <b>no less than sixty (60) calender days prior  to the expiry date of the current licence.</b> 
 
 #### At A Glance
 <table class="table-v">
@@ -26,13 +26,16 @@ Licensee is required to submit a licence renewal application <b>at least two mon
 
 ### Submit Renewal Application
 
-Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via [GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home). 
+Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via [GoBusiness Licensing <b>120 days prior  to the expiry date of the current licence.</b>] (https://licence1.business.gov.sg/feportal/web/frontier/home). 
 
 Use the checker below to compute the due date to submit licence renewal application. If the checker below is not loaded, it can also be accessed <a href="https://www.checkfirst.gov.sg/c/33cf6582-f3e4-4018-8801-aa282865bd38">here</a>.
 
 <iframe id="iframe" src="https://www.checkfirst.gov.sg/c/33cf6582-f3e4-4018-8801-aa282865bd38" style="width:100%;height:500px"></iframe>
+
+You may also refer to the following link for commonly asked questions you may have for topics on Renewal of licence: (link for the renewal FAQs)
+
 <font size="4.5">Note:</font>
-<ul><li><font size="4.5">Licensee who fails to submit their renewal application at least 2 months prior to the expiry of the current licence will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to <b>suspend its operations until a new licence is granted.</b></font></li></ul>
+<ul><li><font size="4.5">Licensee who fails to submit their renewal application by the <b>due date</b> (i.e., no less than sixty (60) calender days prior to the expiry of the current licence) will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to <b>suspend its operations until a new licence is granted.</b></font></li></ul>
 <ul><li><font size="4.5">Renewed licence validity period will start from the end of the current licence validity period.</font></li></ul>
 
 #### Criteria for Renewal of a Licence 
@@ -54,33 +57,31 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
  
 <table>
 <tbody><tr>
-	<th><b><font size="4.5">S/N</font></b></th>
-	<th><b><font size="4.5">Document required</font></b></th>
-	<th><b><font size="4.5">Applies to</font></b></th>
+	<th><b><font size="4.5">If at the point of renewal, if there are:</font></b></th>
+	<th><b><font size="4.5">NO material changes to the licence and NO changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
+	<th><b><font size="4.5">Material changes (E.g. additional Key Officer but NO changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
+	<th><b><font size="4.5">NO material changes (E.g. additional Key Officer) but there ARE changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
+	<th><b><font size="4.5">Material changes (E.g. additional Key Officer) and there ARE changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
 </tr>
 <tr>
-	<td><font size="4.5">1</font></td>
-<td><font size="4.5">Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants)</font></td>
-<td><font size="4.5"><u>New</u> <i>officers of the business entity and existing officers only if they made un-notified changes to their NRIC or passport.</i></font></td>
-</tr>
-<tr>
-<td><font size="4.5">2</font></td>
-<td><font size="4.5">Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service)</font></td>
-	<td rowspan="3"><font size="4.5"><u>Both existing, and new</u> <i>officers of the business entity</i></font></td>
-</tr>
-<tr>
-	<td><font size="4.5">3</font></td>
-<td><font size="4.5">Declaration forms which have been duly filled up and endorsed. These include:<br>
-<ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download="">Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and<br>
-	b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i></ul></font>
-</td>
-</tr>
-<tr>
-<td><font size="4.5">4</font></td>
-<td><font size="4.5">(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the <i>officer</i> does not have any record of criminal conviction in the home country</font></td>
-	</tr>
-	<tr><td><font size="4.5">5</font></td>
-	<td><font size="4.5">Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entitiy name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</font></td>
+	<td><font size="4.5"><b>Documents needed</b></font></td>
+<td><font size="4.5">1. Latest copy of your business profile (obtained no earlier than a week from the application date) <br><br> 
+2. Complete the necessary declarations in the renewal application form <br>
+</font></td>
+<td><font size="4.5">1. Latest copy of your business profile (obtained no earlier than a week from the application date)(applicable for business entity only)<br><br>
+	2. Complete the necessary declarations in the renewal application form<br><br>
+	3. Submit an Amend application after the Renewal application. For the Amend application, please submit the latest business profile, Register of Directors and other relevant supporting documents (if required)<br>
+	</font></td>
+	<td><font size="4.5"> 1. Latest copy of your business profile (obtained no earlier than a week from the application date)(applicable for business entity only)<br><br>
+	2. Supporting documents related to the changes in your Fit and Proper status in the Renewal application<br><br>
+	3. Complete the necessary declarations in the renewal application form<br>
+	</font></td>
+<td><font size="4.5">1. Latest copy of your business profile (obtained no earlier than a week from the application date)(applicable for business entity only)<br><br>
+	2. Supporting documents related to the changes in your Fit and Proper status in the Renewal application<br><br>
+	3. Complete the necessary declarations in the renewal application form<br><br>
+	4. Submit an Amend application after the Renewal application. For the Amend application, please submit the latest business profile, Register of Directors and other relevant supporting documents (if required)<br>
+	
+</font></td>
 </tr>
 <tr>
 <td></td>
@@ -90,11 +91,41 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 </table>
 
 ##### For Individual:<br>
- <ol><li><font size="4.5"><a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</font><br></li>
-<li><font size="4.5">(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</font></li></ol>
+
+<table>
+<tbody><tr>
+	<th><b><font size="4.5">If at the point of renewal, if there are:</font></b></th>
+	<th><b><font size="4.5">NO material changes to the licence and NO changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
+	<th><b><font size="4.5">Material changes (E.g. Changes in address or contact particulars, etc) and NO changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
+	<th><b><font size="4.5">NO material changes (E.g.Changes in address or contact particulars etc) but there ARE changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
+	<th><b><font size="4.5">Material changes (E.g. additional Key Officer) and there ARE changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
+</tr>
+<tr>
+	<td><font size="4.5"><b>Documents needed</b></font></td>
+<td><font size="4.5">1. 
+	Complete the necessary declarations in the renewal application form <br>
+</font></td>
+<td><font size="4.5">1. Complete the necessary declarations in the renewal application form<br><br>
+	2. Submit an Amend application after the Renewal application. For the Amend application, please submit the relevant supporting documents (if applicable)<br>
+	</font></td>
+	<td><font size="4.5"> 1. Supporting documents related to the changes in your Fit and Proper status in the Renewal application<br><br>
+	2.  Complete the necessary declarations in the renewal application form<br>
+	</font></td>
+<td><font size="4.5">1. Supporting documents related to the changes in your Fit and Proper status in the Renewal application<br><br>
+	2. Complete the necessary declarations in the renewal application form<br><br>
+	3. Submit an Amend application after the Renewal application. For the Amend application, please submit the latest business profile, Register of Directors and other relevant supporting documents (if required)<br>
+
+</font></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td></tr>
+</tbody>
+</table>
 
  <font size="4.5">Note:</font>
  <ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul>
-
+ 
 ### Guide to Renew Licence
 Licensee may download this <a href="/files/guides/guide%20to%20renew%20licence%20application.pdf" download="">step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.
