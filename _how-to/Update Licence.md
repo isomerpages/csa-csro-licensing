@@ -66,7 +66,9 @@ The following table provides guidance on the method though which licensee shall 
 </td>
 </tr></tbody></table>
 
-Use the checker below to compute the due date in informing the Licensing Officer of change and the necessary document(s) required for the submission. If the checker below is not loaded, it can also be accessed <a href="https://www.checkfirst.gov.sg/c/a80e0510-4a9f-4701-8e8f-e7f582c8106b"> here</a>. <iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/a80e0510-4a9f-4701-8e8f-e7f582c8106b"></iframe>
+Use the checker below to compute the due date in informing the Licensing Officer of change and the necessary document(s) required for the submission. If the checker below is not loaded, it can also be accessed <a href="https://www.checkfirst.gov.sg/c/a80e0510-4a9f-4701-8e8f-e7f582c8106b"> here</a>. 
+
+<iframe id="iframe" src="https://www.checkfirst.gov.sg/c/a80e0510-4a9f-4701-8e8f-e7f582c8106b" style="width:100%;height:500px"></iframe>
 
 ### Guide to Update Licence Details
 
