@@ -10,7 +10,7 @@ notification: '<font size="2.5"><u>Reminder</u>: <b>CSPs can continue to provide
   their licence applications are being processed.</font>'
 sections:
   - hero:
-      title: Cybersecurity Service Provider Licence
+      title: Cybersecurity Service Provider's Licence
       background: /images/banner2.jpg
       key_highlights:
         - title: Apply For A Licence
