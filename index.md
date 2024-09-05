@@ -33,6 +33,7 @@ sections:
       button: Find out more
       url: https://go.gov.sg/csro-calculator-for-changes
       image: /images/EDM_Launch_of_New_Checker.jpg
+      alt: Image alt text
   - infopic:
       title: Renewal of Licences
       id: infopic
