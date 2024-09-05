@@ -58,4 +58,12 @@ sections:
       url: https://www.csa.gov.sg/Tips-Resource/Resources/singcert/singcert-vulnerability-disclosure-policy
       image: /images/singcert_edm_v10-01.jpg
       alt: Image alt text
+  - infopic:
+      title: Submission deadlines and checklist for essential documents
+      id: infopic
+      description: Launch of CSRO's new checker for submission deadlines and checklist
+        for essential documents
+      button: Find out more
+      url: https://go.gov.sg/csro-calculator-for-changes
+      image: /images/EDM_Launch_of_New_Checker.jpg
 ---
