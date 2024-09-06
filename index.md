@@ -26,11 +26,12 @@ sections:
           description: For Consumers and Applicants
           url: /resources/forms-and-guides/guides
   - infopic:
-      title: Submission deadlines and checklist for essential documents
+      title: Launch of New Checker
       id: infopic
-      description: Launch of CSRO's new checker for submission deadlines and checklist
-        for essential documents.
-      button: Find out more
+      description: CSRO has launched a calculator and documents checklist to aid
+        licensees in determining the due date(s) and document(s) required to
+        notify the Licensing Officer.
+      button: Click here for checker
       url: https://go.gov.sg/csro-calculator-for-changes
       image: /images/EDM_Launch_of_New_Checker.jpg
       alt: Image alt text
