@@ -134,8 +134,8 @@ A licence is valid for a period of 2 years and the licence fees for individuals 
 <details>
 <summary><h5>22. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
 	
-Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid within 30 days will automatically lapse and new licence application will have to be submitted.
-</details>
+Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid within 30 days will automatically lapse and new licence application will have to be submitted.
+</details> 
 <details>
 <summary><h5>23. When should licence renewal application be submitted?</h5></summary>
 	
@@ -144,8 +144,8 @@ An application for renewal of a licence must be made no later than 2 months befo
 <details>
 <summary><h5>24. How is the licence renewal application process like?</h5></summary>
 	
-When a licence is due for renewal, the GoBusiness Licensing will send a Renewal Request Notification via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a>.
-</details>
+When a licence is due for renewal, the GoBusiness Licensing will send a Renewal Request Notification via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
+</details> 
 <details>
 <summary><h5>25. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
 	
@@ -154,16 +154,16 @@ If you are facing any technical difficulties or require any assistance on how to
 <details>
 <summary><h5>26. How do I request to terminate a licence?</h5></summary>
 	
-Licensees who wish to terminate their licence before expiry should submit an application via the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> within 14 calendar days before ceasing the business of providing the licensable cybersecurity service.
+Licensees who wish to terminate their licence before expiry should submit an application via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> within 14 calendar days before ceasing the business of providing the licensable cybersecurity service.
 </details>
 <details>
 <summary><h5>27. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
 	
-Licensee is required to update changes to their business details through the <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> for the following material changes:
+Licensee is required to update changes to their business details through the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> for the following material changes:
 <ol><font size="3.5">a) Changes to Key Executive Officers<br>b)	Additional of Key Officers; and<br>c)	Removal of Key Officers.</font></ol>
 
 Other than the above, any other changes that are not material change will automatically be approved by the system. These include changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and key officers.
-<br><br>Supporting documentation will be required to be uploaded to <a href="https://licence1.business.gov.sg/feportal/web/frontier/home">GoBusiness Licensing</a> during the update. 
+<br><br>Supporting documentation will be required to be uploaded to <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> during the update. 
 </details>
 <details>
 <summary><h5>28. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
