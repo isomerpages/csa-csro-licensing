@@ -109,4 +109,4 @@ Please note that with the exception of the “Declaration form for Business Enti
 
 ### Guide to New Licence Application
 
-Applicant may download this <a href="/files/guides/guide%20to%20new%20licence%20application.pdf" download="">step-by-step guide</a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
+Applicant may download this step-by-step guide which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
