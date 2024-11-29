@@ -33,18 +33,18 @@ This page contains the list of guides published by CSRO.
 </tr>
 <tr>
 	<td>Guide to New Licence Application</td>
-<td><a href="/files/guides/guide%20to%20new%20licence%20application.pdf" download="">Click to Download</a></td>
+<td><p href="/files/guides/guide%20to%20new%20licence%20application.pdf" download="">Click to Download</p></td>
 </tr>
 <tr>
 	<td>Guide to Update Licence Details</td>
-<td><a href="/files/guides/guide%20to%20update%20licence%20details.pdf" download="">Click to Download</a></td>
+<td><p href="/files/guides/guide%20to%20update%20licence%20details.pdf" download="">Click to Download</p></td>
 </tr>
 <tr>
 	<td>Guide to Cancellation of Licence</td>
-<td><a href="/files/guides/guide%20to%20cancellation%20of%20licence.pdf" download="">Click to Download</a></td>
+<td><p href="/files/guides/guide%20to%20cancellation%20of%20licence.pdf" download="">Click to Download</p></td>
 </tr>
 	<tr><td>Guide to Renew Licence </td>
-<td><a href="/files/guides/guide%20to%20update%20licence%20details.pdf" download="">Click to Download</a></td>
+<td><p href="/files/guides/guide%20to%20update%20licence%20details.pdf" download="">Click to Download</p></td>
 </tr>
 <tr>
 

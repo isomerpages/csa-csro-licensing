@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Apply For A Licence
           description: Link to GoBusiness Licensing
-          url: https://licence1.business.gov.sg/feportal/web/frontier/home
+          url: https://www.gobusiness.gov.sg/
         - title: Licence Application Guidelines
           description: Information for Applicants
           url: /how-to/apply-for-licence

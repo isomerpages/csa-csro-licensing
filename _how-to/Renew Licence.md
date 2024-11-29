@@ -26,7 +26,7 @@ Licensee is required to submit a licence renewal application <b>no less than six
 
 ### Submit Renewal Application
 
-Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via [GoBusiness Licensing <b>120 days prior  to the expiry date of the current licence.</b>] (https://licence1.business.gov.sg/feportal/web/frontier/home). 
+Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via [GoBusiness Licensing <b>120 days prior  to the expiry date of the current licence.</b>] (<a href="https://www.gobusiness.gov.sg/">https://www.gobusiness.gov.sg/</a>). 
 
 Use the checker below to compute the due date to submit licence renewal application. If the checker below is not loaded, it can also be accessed <a href="https://www.checkfirst.gov.sg/c/33cf6582-f3e4-4018-8801-aa282865bd38">here</a>.
 
@@ -128,4 +128,4 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
  <ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul>
  
 ### Guide to Renew Licence
-Licensee may download this <a href="/files/guides/guide%20to%20renew%20licence%20application.pdf" download="">step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.
+Licensee may download this <a>step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.

@@ -72,4 +72,4 @@ Use the checker below to compute the due date in informing the Licensing Officer
 
 ### Guide to Update Licence Details
 
-Licensee may download this <a href="/files/guides/guide%20to%20update%20licence%20details.pdf" download="">step-by-step guide</a> for licence details amendment process via GoBusiness Licensing.
+Licensee may download this <a>step-by-step guide</a> for licence details amendment process via GoBusiness Licensing.
