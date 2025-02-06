@@ -22,157 +22,107 @@ shall submit their notifications to CSRO.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Type of notification</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Notification deadline</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Notification method</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Required supporting documents or information</strong>
-</p>
-</th>
+<th><strong>Type of notification</strong></th>
+<th><strong>Notification deadline</strong></th>
+<th><strong>Notification method</strong></th>
+<th><strong>Required supporting documents or information</strong></th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Appointment of <em>officers of the business entity</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Within 14 calendar days after the effective date of appointment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>via GoBusiness Licensing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport
+<td>Appointment of <em>officers of the business entity</em></td>
+<td>Within 14 calendar days after the effective date of appointment</td>
+<td>via GoBusiness Licensing</td>
+<td>
+1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport
 showing the personal particulars and official descriptions (for overseas <em>officers</em>)
-<br>2. Curriculum vitae (including the <em>officer</em>'s qualification or
+<br><br>2. Curriculum vitae (including the <em>officer</em>'s qualification or
 experience (if any) relating to the licensable cybersecurity service)
-<br>3. A duly filled up and endorsed <a href="/files/forms/declaration%20form%20for%20individual.pdf" rel="noopener noreferrer nofollow" target="_blank">Declaration Form for Individual</a> from
+<br><br>3. A duly filled up and endorsed <a href="/files/forms/declaration%20form%20for%20individual.pdf" rel="noopener noreferrer nofollow" target="_blank">Declaration Form for Individual</a> from
 the newly appointed <em>officer</em>
-<br>4. (For overseas <em>officers</em> only) Certificate of Clearance or equivalent
+<br><br>4. (For overseas <em>officers</em> only) Certificate of Clearance or equivalent
 documentation from the relevant authorities in the home country certifying
 that the <em>officer</em> does not have any record of criminal conviction
 in the home country
-<br>5. A copy of the Register of Directors (ROD) records from ACRA or equivalent
+<br><br>5. A copy of the Register of Directors (ROD) records from ACRA or equivalent
 obtained no earlier than one week before submission, reflecting the appointment
 details of the <em>officer</em>
-</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Removal of any existing <em>officers of the business entity</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Within 14 calendar days of such change</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>via GoBusiness Licensing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. A copy of the Register of Directors (ROD) records from ACRA or equivalent
+<td>Removal of any existing <em>officers of the business entity</em></td>
+<td>Within 14 calendar days of such change</td>
+<td>via GoBusiness Licensing</td>
+<td>
+1. A copy of the Register of Directors (ROD) records from ACRA or equivalent
 obtained no earlier than one week before submission, reflecting the cessation
 details of the <em>officer</em>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Change in name of the licensee</p>
+Change in name of the licensee
 </td>
-<td rowspan="1" colspan="1">
-<p>Within 14 calendar days of such change</p>
+<td>
+Within 14 calendar days of such change
 </td>
-<td rowspan="1" colspan="1">
-<p>via email to <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a>
-</p>
+<td>via email to <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a>
 </td>
-<td rowspan="1" colspan="1">
-<p>1. A copy of the Licensee’s latest ACRA or equivalent records obtained
-no earlier than one week reflecting the effective date of change.</p>
+<td>
+1. A copy of the Licensee’s latest ACRA or equivalent records obtained
+no earlier than one week reflecting the effective date of change.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Change to or inaccuracy in licensee’s business address</p>
+<td>
+Change to or inaccuracy in licensee’s business address
+</td>
+<td>
+Within 14 calendar days of such change or knowing of such inaccuracy
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 14 calendar days of such change or knowing of such inaccuracy</p>
+via email to <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a>
 </td>
 <td rowspan="1" colspan="1">
-<p>via email to <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. A copy of the Licensee’s latest ACRA or equivalent records obtained
-no earlier than one week reflecting the effective date of change</p>
+1. A copy of the Licensee’s latest ACRA or equivalent records obtained
+no earlier than one week reflecting the effective date of change
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Changes to or inaccuracies in name of any <em>officers of the business entity</em> and/or
-identity number (e.g. NRIC/Work Pass number, Passport number)</p>
+<td>
+Changes to or inaccuracies in name of any <em>officers of the business entity</em> and/or
+identity number (e.g. NRIC/Work Pass number, Passport number)</td>
+<td>Within 14 calendar days of such change or knowing of such inaccuracy</td>
+<td><p>via GoBusiness Licensing</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Within 14 calendar days of such change or knowing of such inaccuracy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>via GoBusiness Licensing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Photocopy of both sides of the <em>officer</em>’s new NRIC/Work Pass,
+<td>1. Photocopy of both sides of the <em>officer</em>’s new NRIC/Work Pass,
 or photocopy of the new Passport showing the personal particulars and official
-descriptions (for overseas <em>officers</em>)</p>
-</td>
+descriptions (for overseas <em>officers</em>)</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Changes in the licensee’s and/or its <em>officers of the business entity</em>'s
+<td>Changes in the licensee’s and/or its <em>officers of the business entity</em>'s
 declarations submitted in the licence application(s) (e.g. criminal conviction,
-civil judgement, bankruptcy etc)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Within 14 calendar days of such change or receipt of such information</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>via email to <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Name of the licensee/officer involved
-<br>2. [For criminal convictions] The offence committed, place and date of
+civil judgement, bankruptcy etc)</td>
+<td>Within 14 calendar days of such change or receipt of such information</td>
+<td>via email to <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a></td>
+<td>
+1. Name of the licensee/officer involved
+<br><br>2. [For criminal convictions] The offence committed, place and date of
 offence, and sentence received
-<br>3. [For civil judgements] The nature, date, and outcome of the civil proceedings
-<br>4. [For bankruptcy related changes involving the licensee] The date of
+<br><br>3. [For civil judgements] The nature, date, and outcome of the civil proceedings
+<br><br>4. [For bankruptcy related changes involving the licensee] The date of
 liquidation/winding-up/receivership/composition/arrangement, the total
 debt amount, the balance outstanding amount
-<br>5. Relevant supporting documents (if any)</p>
+<br><br>5. Relevant supporting documents (if any)
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Changes or inaccuracies in other information/particulars of the licensee
+<td>
+Changes or inaccuracies in other information/particulars of the licensee
 and/or its officers of the business entity (e.g. email address, Officer’s
-contact details)</p>
+contact details)
 </td>
-<td rowspan="1" colspan="1">
-<p>Within 14 calendar days of such change or knowing of such inaccuracy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>via GoBusiness Licensing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No supporting documents required</p>
-</td>
+<td>Within 14 calendar days of such change or knowing of such inaccuracy</td>
+<td>via GoBusiness Licensing</td>
+<td>No supporting documents required</td>
 </tr>
 </tbody>
 </table>
