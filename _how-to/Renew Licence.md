@@ -52,22 +52,19 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 <table class="table-h">
 	<tbody><tr>
 	<td><b><u>For Business Entity:</u></b>
-<br>
-
-<ol>
+<ol><font size="4.5">
 <li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entitiy name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
 
 <li>[If there is any change to the Fit and Proper status of the licensee or the officers of the business entity] Supporting documents related to the changes in the Fit and Proper status</li>
-	</ol>
+	</font></ol>
 		</td></tr></tbody></table>
 	
 <table class="table-h">
 	<tbody><tr>
-	<td><b><u>For Individual:</u></b>
-	<br><br>			
-<ol>
+	<td><b><u>For Individual:</u></b>		
+<ol><font size="4.5">
 		<li>[If there is any change to the Fit and Proper] Supporting documents related to the changes in the Fit and Proper status</li>
-	</ol>
+	</font></ol>
 		</td></tr></tbody></table>
 
  <font size="4.5">Note:</font>
