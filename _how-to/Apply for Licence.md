@@ -35,11 +35,11 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cyb
 </tbody></table>
 
 Note:
-<ol>
+<ol><font size="4.5">
 <li>All providers of LCS, regardless of whether they are companies or individuals who are engaged for such services, are required to obtain a licence, except for companies that provide LCS solely to their related companies or in-house consumers of LCS.</li>
 	
 <li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li>
-</ol>
+</font></ol>
 	
 ### Submit Application
 
@@ -86,20 +86,20 @@ Applicant is required to submit the following supporting documents for each lice
 <br>
 Please note that with the exception of the “Declaration form for Business Entity”, a copy of each document is required for <u>every</u> <i>officer of the business entity</i>:
 
-<ol><ol><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
+<ol><ol><font size="4.5"><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
 <li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entitiy name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
 <li>Declaration forms which have been duly filled up and endorsed. These include:</li>
 <ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download="">Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and</ul>
 <ul>(b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul>
-<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country. The Certificate of Clearance or documentation shall not be obtained earlier than three months before it is submitted to CSRO.</li></ol></ol></td></tr></tbody></table>
+<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country. The Certificate of Clearance or documentation shall not be obtained earlier than three months before it is submitted to CSRO.</li>
+	</font></ol></ol></td></tr></tbody></table>
 	
 <table class="table-h">
 	<tbody><tr>
-	<td><b><u>For Individual:</u></b>
-	<br><br>			
-<ol><ol><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
+	<td><b><u>For Individual:</u></b>		
+<ol><ol><font size="4.5"><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
 <li><a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</li>
-<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country. The Certificate of Clearance or documentation shall not be obtained earlier than three months before it is submitted to CSRO.</li></ol></ol></td></tr></tbody></table>
+<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country. The Certificate of Clearance or documentation shall not be obtained earlier than three months before it is submitted to CSRO.</li></font></ol></ol></td></tr></tbody></table>
 
 <ul><font size="4.5">Note:</font></ul>
 <ul><ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul></ul>
