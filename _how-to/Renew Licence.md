@@ -49,77 +49,19 @@ Licensee is required to submit the following updated supporting documents for ea
 
 Please note that a copy of each document is required for <u>every</u> <i>officer of the business entity</i>, unless otherwise stated in the table below.
  
-<table>
-<tbody><tr>
-	<th><b><font size="4.5">If at the point of renewal, if there are:</font></b></th>
-	<th><b><font size="4.5">NO material changes to the licence and NO changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
-	<th><b><font size="4.5">Material changes (E.g. additional Key Officer but NO changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
-	<th><b><font size="4.5">NO material changes (E.g. additional Key Officer) but there ARE changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
-	<th><b><font size="4.5">Material changes (E.g. additional Key Officer) and there ARE changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
-</tr>
-<tr>
-	<td><font size="4.5"><b>Documents needed</b></font></td>
-<td><font size="4.5">1. Latest copy of your business profile (obtained no earlier than a week from the application date) <br><br> 
-2. Complete the necessary declarations in the renewal application form <br>
-</font></td>
-<td><font size="4.5">1. Latest copy of your business profile (obtained no earlier than a week from the application date)(applicable for business entity only)<br><br>
-	2. Complete the necessary declarations in the renewal application form<br><br>
-	3. Submit an Amend application after the Renewal application. For the Amend application, please submit the latest business profile, Register of Directors and other relevant supporting documents (if required)<br>
-	</font></td>
-	<td><font size="4.5"> 1. Latest copy of your business profile (obtained no earlier than a week from the application date)(applicable for business entity only)<br><br>
-	2. Supporting documents related to the changes in your Fit and Proper status in the Renewal application<br><br>
-	3. Complete the necessary declarations in the renewal application form<br>
-	</font></td>
-<td><font size="4.5">1. Latest copy of your business profile (obtained no earlier than a week from the application date)(applicable for business entity only)<br><br>
-	2. Supporting documents related to the changes in your Fit and Proper status in the Renewal application<br><br>
-	3. Complete the necessary declarations in the renewal application form<br><br>
-	4. Submit an Amend application after the Renewal application. For the Amend application, please submit the latest business profile, Register of Directors and other relevant supporting documents (if required)<br>
-	
-</font></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td></tr>
-</tbody>
-</table>
+
 
 ##### For Individual:<br>
 
-<table>
-<tbody><tr>
-	<th><b><font size="4.5">If at the point of renewal, if there are:</font></b></th>
-	<th><b><font size="4.5">NO material changes to the licence and NO changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
-	<th><b><font size="4.5">Material changes (E.g. Changes in address or contact particulars, etc) and NO changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
-	<th><b><font size="4.5">NO material changes (E.g.Changes in address or contact particulars etc) but there ARE changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
-	<th><b><font size="4.5">Material changes (E.g. additional Key Officer) and there ARE changes to the Fit &amp; Proper status of the officers of the business entity</font></b></th>
-</tr>
-<tr>
-	<td><font size="4.5"><b>Documents needed</b></font></td>
-<td><font size="4.5">1. 
-	Complete the necessary declarations in the renewal application form <br>
-</font></td>
-<td><font size="4.5">1. Complete the necessary declarations in the renewal application form<br><br>
-	2. Submit an Amend application after the Renewal application. For the Amend application, please submit the relevant supporting documents (if applicable)<br>
-	</font></td>
-	<td><font size="4.5"> 1. Supporting documents related to the changes in your Fit and Proper status in the Renewal application<br><br>
-	2.  Complete the necessary declarations in the renewal application form<br>
-	</font></td>
-<td><font size="4.5">1. Supporting documents related to the changes in your Fit and Proper status in the Renewal application<br><br>
-	2. Complete the necessary declarations in the renewal application form<br><br>
-	3. Submit an Amend application after the Renewal application. For the Amend application, please submit the latest business profile, Register of Directors and other relevant supporting documents (if required)<br>
 
-</font></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td></tr>
-</tbody>
-</table>
 
  <font size="4.5">Note:</font>
  <ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul>
+
+##### Unnotified changes<br>
+Licensees with unnotified change(s) such as the appointment and cessation of any officers of the business entity, and changes to or inaccuracies in the licensee’s and/or its officers of the business entity’s names, designation, address and contact particulars are required to duly declare such change(s) under Renewal Declaration (5) in the renewal application form and provide the relevant information on the unnotified change(s). <br>
+
+Licensees are required to submit an amendment application in GoBusiness Licensing with the required details of the unnotified changes immediately or as soon as practicable after the issuance of the renewed licence. Failure to do so will result in a revocation or suspension of licence.
  
 ### Guide to Renew Licence
-Licensee may refer to this <a>step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.
+Licensee may refer to this <a href="https://www.gobusiness.gov.sg/dashboard-faqs/apply-new-licences/">step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.
