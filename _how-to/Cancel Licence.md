@@ -13,4 +13,4 @@ Licensee may submit their licence cancellation application via <a href="https://
 
 
 ### Guide to Cancellation of Licence
-Licensee may download this <a>step-by-step guide</a> on licence cancellation process via GoBusiness Licensing.
+Licensee may refer to this <a href="https://www.gobusiness.gov.sg/dashboard-faqs/apply-new-licences/">step-by-step guide</a> on licence cancellation process via GoBusiness Licensing.
