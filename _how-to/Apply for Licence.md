@@ -17,7 +17,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cyb
   </td>
   </tr><tr>
 	<td>Licence Fees for each Licence</td>
-   <td>Business entity - S$1000<br>Individual - S$500<br><br>A 50% fee waiver will be granted on all applications lodged by 11 April 2023.</td>
+   <td>Business entity - S$1000<br>Individual - S$500</td>
   </tr>
   <tr>
 	<td>Refund</td>
@@ -39,8 +39,7 @@ Note:
 <li>All providers of LCS, regardless of whether they are companies or individuals who are engaged for such services, are required to obtain a licence, except for companies that provide LCS solely to their related companies or in-house consumers of LCS.</li>
 	
 <li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li>
-	
-<li>With effect from the launch of licensing framework on 11 April 2022, all providers who are engaged in the business of providing LCS, have until 11 October 2022 to apply for a licence. Providers who have submitted their licence application to CSRO between 11 April 2022 and 11 October 2022, may continue to engage in the business of providing LCS until a decision is made on their licence application. In the event that the application for a licence is refused, the provider would not be allowed to engage or continue to engage in the business of providing the LCS. Any providers providing the LCS after 11 October 2022, without having lodged an application for a licence for the LCS they engage in, will be deemed to be operating illegally.</li></ol>
+</ol>
 	
 ### Submit Application
 
@@ -88,25 +87,23 @@ Applicant is required to submit the following supporting documents for each lice
 Please note that with the exception of the “Declaration form for Business Entity”, a copy of each document is required for <u>every</u> <i>officer of the business entity</i>:
 
 <ol><ol><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
-<li>Curriculum vitae (including the officer’s qualification or experience (if any) relating to the licensable cybersecurity service).</li>
 <li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entitiy name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
 <li>Declaration forms which have been duly filled up and endorsed. These include:</li>
 <ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download="">Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and</ul>
 <ul>(b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul>
-<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country.</li></ol></ol></td></tr></tbody></table>
+<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country. The Certificate of Clearance or documentation shall not be obtained earlier than three months before it is submitted to CSRO.</li></ol></ol></td></tr></tbody></table>
 	
 <table class="table-h">
 	<tbody><tr>
 	<td><b><u>For Individual:</u></b>
 	<br><br>			
 <ol><ol><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
-<li>Curriculum vitae (including qualification or experience (if any) relating to the licensable cybersecurity service).</li>
 <li><a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</li>
-<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country.</li></ol></ol></td></tr></tbody></table>
+<li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country. The Certificate of Clearance or documentation shall not be obtained earlier than three months before it is submitted to CSRO.</li></ol></ol></td></tr></tbody></table>
 
 <ul><font size="4.5">Note:</font></ul>
 <ul><ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul></ul>
 
 ### Guide to New Licence Application
 
-Applicant may download this <a>step-by-step guide </a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
+Applicant may refer to the <a href="https://www.gobusiness.gov.sg/dashboard-faqs/apply-new-licences/">step-by-step guide </a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
