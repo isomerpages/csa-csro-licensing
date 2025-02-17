@@ -49,11 +49,26 @@ Licensee is required to submit the following updated supporting documents for ea
 
 Please note that a copy of each document is required for <u>every</u> <i>officer of the business entity</i>, unless otherwise stated in the table below.
  
+<table class="table-h">
+	<tbody><tr>
+	<td><b><u>For Business Entity:</u></b>
+<br>
 
+<ol>
+<li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entitiy name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
 
-##### For Individual:<br>
-
-
+<li>[If there is any change to the Fit and Proper status of the licensee or the officers of the business entity] Supporting documents related to the changes in the Fit and Proper status</li>
+	</ol>
+		</td></tr></tbody></table>
+	
+<table class="table-h">
+	<tbody><tr>
+	<td><b><u>For Individual:</u></b>
+	<br><br>			
+<ol>
+		<li>[If there is any change to the Fit and Proper] Supporting documents related to the changes in the Fit and Proper status</li>
+	</ol>
+		</td></tr></tbody></table>
 
  <font size="4.5">Note:</font>
  <ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul>
