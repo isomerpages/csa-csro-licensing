@@ -4,7 +4,7 @@ permalink: /resources/faqs/
 description: ""
 variant: markdown
 ---
-<font size="3.5"><i>Updated as of 4 November 2022</i></font>
+<font size="3.5"><i>Updated as of 18 February 2025</i></font>
 <details>
 <summary><h5>1. Who needs to apply for cybersecurity service provider's licence?</h5></summary>
 	
@@ -48,10 +48,11 @@ Individual employees of cybersecurity service providers providing licensable cyb
 Business entities are required to ensure that officer of the business entity is fit and proper when applying for a licence. Officer of a business entity refers to any director or partner, or other person listed in the business entity’s business profile e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary, or any other person who is responsible for the management of the business entity. Individuals who are applying for the licence should also be a fit and proper person to hold the licence. Failing which, the licence application may be rejected.
 </details>
 <details>
-<summary><h5>8. How can an overseas company apply for a licence?</h5></summary>
+<summary><h5>8. How can an overseas company or individual apply for a licence?</h5></summary>
 	
-Overseas cybersecurity service providers which are not registered in Singapore but wish to apply to be licensed to provide licensable cybersecurity services to the Singapore market must first apply for a CorpPass Admin Account for Foreign Entity which is necessary for the submission of the licence application via GoBusiness Licensing. For assistance on setting up a CorpPass Admin Account, please visit the <a href="http://www.corppass.gov.sg/">CorpPass website</a> or email <a href="mailto:support@corppass.gov.sg">support@corppass.gov.sg</a>. Alternatively, please click <a href="https://www.corppass.gov.sg/corppass/common/contactus">here</a> for more contact options.
+Overseas companies which are not registered in Singapore but wish to apply to be licensed to provide licensable cybersecurity services to the Singapore market must first apply for a CorpPass Admin Account for Foreign Entity which is necessary for the submission of the licence application via GoBusiness Licensing. For assistance on setting up a CorpPass Admin Account, please visit the <a href="http://www.corppass.gov.sg/">CorpPass website</a> or email <a href="mailto:support@corppass.gov.sg">support@corppass.gov.sg</a>. Alternatively, please click <a href="https://www.corppass.gov.sg/corppass/common/contactus">here</a> for more contact options.
 <br><br>Do note that overseas companies that are not registered with the Accounting and Corporate Regulatory Authority of Singapore (ACRA) are required to upload a copy of their business profile (reflecting the details of the business registration record with the relevant authorities in the oversea country) in the licence application. Please note that documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person's full name, of his address and of his qualifications for making the translation.
+<br><br> Overseas individuals who are not Permanent Residents, Passholders (e.g. Employment Pass, S-Pass etc) or Work Permit holders and wish to apply to be licensed to provide licensable cybersecurity services to the Singapore market must first apply for a Singpass Foreign Account which is necessary for the submission of the licence application via GoBusiness Licensing. To apply for a Singpass Foreign Account, please email contact@csro.gov.sg for further instructions.
 </details>
 <details>
 <summary><h5>9. Who are the Key Executive Officer and Key Officer of a business entity applicant?</h5></summary>
@@ -82,12 +83,13 @@ Business entity applicants with officer(s) failing to meet the fit and proper cr
 <details>
 <summary><h5>13. Is it a requirement to include relevant qualification or experience relating to the licensable cybersecurity service in the licence application?</h5></summary>
 	
-Pursuant to regulation 2(2) of the Cybersecurity (Cybersecurity Service Providers) Regulations 2022, a licence application must include information on relevant qualification or experience relating to the licensable cybersecurity services. In the situation where none of the Key Executive Officer or Key Officer(s) has qualification or experience relevant to the licensable service, the curriculum vitae of one of the business entity licence applicant's employee or proposed employee with supervisory responsibility who has qualification or experience relating to the licensable service shall be included in the licence application.
+Pursuant to regulation 2(2) of the Cybersecurity (Cybersecurity Service Providers) Regulations 2022, a licence application must include information on relevant qualification or experience relating to the licensable cybersecurity services. In the situation where none of the Key Executive Officer or Key Officer(s) has qualification or experience relevant to the licensable service, the information of the relevant qualification or experience of one of the business entity licence applicant's employee or proposed employee with supervisory responsibility who has qualification or experience relating to the licensable service shall be included in the licence application.
 </details>
 <details>
 <summary><h5>14. Who would require a Certificate of Clearance?</h5></summary>
 	
 A Certificate of Clearance (or equivalent documentation) is required for each of the overseas officer(s) and shall be obtained from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, home country refers to the country of nationality.
+<br><br>The Certificate of Clearance (or equivalent documentation) shall not be obtained earlier than three months before the date of licence application submitted to CSRO.
 </details>
 <details>
 <summary><h5>15. What is the format for a Certificate of Clearance?</h5></summary>
@@ -129,12 +131,11 @@ Licenses should ensure that records collectively capture all the required inform
 <summary><h5>21. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
 	
 A licence is valid for a period of 2 years and the licence fees for individuals and business entities are $500 and $1000 respectively.
-<br><br>Note: Due to the COVID-19 pandemic which has negatively impacted many businesses, a 50% wavier of the first cycle of licence fees will be granted for all applications submitted by 11 April 2023.
 </details>
 <details>
 <summary><h5>22. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
 	
-Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid within 30 days will automatically lapse and new licence application will have to be submitted.
+Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of application and new licence application will have to be submitted.
 </details> 
 <details>
 <summary><h5>23. When should licence renewal application be submitted?</h5></summary>
@@ -144,7 +145,7 @@ An application for renewal of a licence must be made no later than 2 months befo
 <details>
 <summary><h5>24. How is the licence renewal application process like?</h5></summary>
 	
-When a licence is due for renewal, the GoBusiness Licensing will send a Renewal Request Notification via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
+When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
 </details> 
 <details>
 <summary><h5>25. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
@@ -159,11 +160,10 @@ Licensees who wish to terminate their licence before expiry should submit an app
 <details>
 <summary><h5>27. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
 	
-Licensee is required to update changes to their business details through the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> for the following material changes:
-<ol><font size="3.5">a) Changes to Key Executive Officers<br>b)	Additional of Key Officers; and<br>c)	Removal of Key Officers.</font></ol>
+Licensee is required to update changes to their details for the following changes:
+<ol><font size="3.5">a) Changes to Key Executive Officers;<br>b)	Additional of Key Officers;<br>c)	Removal of Key Officers; and<br>d) Changes to the other information of the Licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and officers of business entity.</font></ol>
 
-Other than the above, any other changes that are not material change will automatically be approved by the system. These include changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and key officers.
-<br><br>Supporting documentation will be required to be uploaded to <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> during the update. 
+Licensees may refer to <a href="https://www.csro.gov.sg/how-to/update-licence/">here</a> for more information on the notification method and/or supporting documentation required for the update.
 </details>
 <details>
 <summary><h5>28. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>

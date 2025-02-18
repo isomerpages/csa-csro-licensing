@@ -24,34 +24,6 @@ This page contains the list of guides published by CSRO.
 </tbody>
 </table>
 
-
-##### Guides for Licence Application
-<table>
-<tbody><tr>
-	<th width="60%"><b>Name of Guide</b></th>
-	<th width="40%"><b>Attachment</b></th>
-</tr>
-<tr>
-	<td>Guide to New Licence Application</td>
-<td><p href="/files/guides/guide%20to%20new%20licence%20application.pdf" download="">Click to Download</p></td>
-</tr>
-<tr>
-	<td>Guide to Update Licence Details</td>
-<td><p href="/files/guides/guide%20to%20update%20licence%20details.pdf" download="">Click to Download</p></td>
-</tr>
-<tr>
-	<td>Guide to Cancellation of Licence</td>
-<td><p href="/files/guides/guide%20to%20cancellation%20of%20licence.pdf" download="">Click to Download</p></td>
-</tr>
-	<tr><td>Guide to Renew Licence </td>
-<td><p href="/files/guides/guide%20to%20update%20licence%20details.pdf" download="">Click to Download</p></td>
-</tr>
-<tr>
-
-</tr>
-</tbody>
-</table>
-
 ##### Licensee Information Package
 <table>
 <tbody><tr>
@@ -60,7 +32,7 @@ This page contains the list of guides published by CSRO.
 </tr>
 <tr>
 	<td>Licensee Information Package</td>
-<td><a href="/files/guides/licensee%20information%20package.pdf" download="">Click to Download</a></td>
+<td><a href="/files/guides/licensee_information_package_v2_0.pdf" download="">Click to Download</a></td>
 </tr>
 </tbody>
 </table>
