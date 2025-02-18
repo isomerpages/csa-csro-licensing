@@ -32,7 +32,7 @@ This page contains the list of guides published by CSRO.
 </tr>
 <tr>
 	<td>Licensee Information Package</td>
-<td><a href="/files/guides/licensee%20information%20package.pdf" download="">Click to Download</a></td>
+<td><a href="/files/guides/licensee_information_package_v2_0.pdf" download="">Click to Download</a></td>
 </tr>
 </tbody>
 </table>
