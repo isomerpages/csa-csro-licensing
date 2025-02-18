@@ -88,8 +88,7 @@ no earlier than one week reflecting the effective date of change
 Changes to or inaccuracies in name of any <em>officers of the business entity</em> and/or
 identity number (e.g. NRIC/Work Pass number, Passport number)</td>
 <td>Within 14 calendar days of such change or knowing of such inaccuracy</td>
-<td><p>via GoBusiness Licensing</p>
-</td>
+<td>via GoBusiness Licensing</td>
 <td>1. Photocopy of both sides of the <em>officer</em>’s new NRIC/Work Pass,
 or photocopy of the new Passport showing the personal particulars and official
 descriptions (for overseas <em>officers</em>)</td>
