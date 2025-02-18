@@ -163,7 +163,7 @@ Licensees who wish to terminate their licence before expiry should submit an app
 Licensee is required to update changes to their details for the following changes:
 <ol><font size="3.5">a) Changes to Key Executive Officers;<br>b)	Additional of Key Officers;<br>c)	Removal of Key Officers; and<br>d) Changes to the other information of the Licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and officers of business entity.</font></ol>
 
-Licensees may refer to <a href="https://www.gobusiness.gov.sg/dashboard-faqs/apply-new-licences/">here</a> for more information on the notification method and/or supporting documentation required for the update.
+Licensees may refer to <a href="https://www.csro.gov.sg/how-to/update-licence/">here</a> for more information on the notification method and/or supporting documentation required for the update.
 </details>
 <details>
 <summary><h5>28. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
