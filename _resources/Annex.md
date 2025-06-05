@@ -6,8 +6,8 @@ description: ""
 ---
 <p>This page provides applicants applying for the Cybersecurity Service Provider’s
 Licence and licensees a reference of the list of commonly compounded criminal
-offences (i.e., concluded with a payment of a composition sum) which would
-not required to be declared to CSRO.</p>
+offences (i.e. concluded with a payment of a composition sum) which would
+not require to be declared to CSRO.</p>
 <p>Please note that however, if the applicant/licensee or any officer of
 the business entity was convicted of any of the mentioned offence(s), and
 the offence(s) involves fraud, dishonesty or moral turpitude, it must be
