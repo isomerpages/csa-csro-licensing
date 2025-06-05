@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Annex.md
-      - List of Commonly Compounded Offences.md
       - Licensed Service Providers.md
       - Forms and Guides/.keep
       - Forms and Guides/Forms.md
