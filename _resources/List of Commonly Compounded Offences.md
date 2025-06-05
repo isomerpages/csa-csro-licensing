@@ -12,7 +12,7 @@ It remains the applicant/licensee’s or officer(s) of the business entity’s r
 
 <table>
 <tbody><tr>
-	<th width="60%"><b>Name of Form</b></th>
+	<th width="60%"><b>Name of Document</b></th>
 	<th width="40%"><b>Attachment</b></th>
 </tr>
 <tr>
