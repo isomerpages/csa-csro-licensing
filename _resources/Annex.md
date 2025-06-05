@@ -17,7 +17,7 @@ It remains the applicant/licensee’s or officer(s) of the business entity’s r
 </tr>
 <tr>
 	<td>List of Commonly Compounded Offences</td>
-<td><a href="/files/annex/List_of_commonly_compunded_offences.pdf" download="">Click to Download</a></td>
+	<td><a href="/files/annex/List_of_commonly_compunded_offences.pdf" download="">Click to Download</a></td>
 </tr>
 </tbody>
 </table>
