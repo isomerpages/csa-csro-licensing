@@ -2,10 +2,10 @@ collections:
   resources:
     output: true
     order:
-      - Annex.md
       - Licensed Service Providers.md
       - Forms and Guides/.keep
       - Forms and Guides/Forms.md
       - Forms and Guides/Guides.md
+      - Annex.md
       - Legislation.md
       - FAQs.md
