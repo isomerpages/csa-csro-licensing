@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - List of Commonly Compounded Offences.md
       - Licensed Service Providers.md
       - Forms and Guides/.keep
       - Forms and Guides/Forms.md
