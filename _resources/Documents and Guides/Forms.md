@@ -3,23 +3,23 @@ title: Forms
 permalink: /resources/forms-and-guides/forms/
 description: ""
 third_nav_title: Documents and Guides
+variant: markdown
 ---
-This page contains the list of forms prescribed for licence application. 
+This document provides a list of commonly compounded criminal offences (i.e., concluded with a payment of a composition sum) which are not required to be declared to CSRO.
+
+Please note that if the applicant/licensee or any officer of the business entity was convicted of any offence(s) that involves fraud, dishonesty or moral turpitude, it must be declared to CSRO with the relevant information and documents of the offence(s).
+
+If in doubt, the applicant/licensee or officer(s) of the business entity should check with the relevant authorities that had handled the investigation for the offence(s) for clarifications.
+
 
 <table>
 <tbody><tr>
-	<th width="60%"><b>Name of Form</b></th>
+	<th width="60%"><b>Name of Document</b></th>
 	<th width="40%"><b>Attachment</b></th>
 </tr>
 <tr>
-	<td>Declaration Form for Business Entity</td>
-<td><a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download="">Click to Download</a></td>
-</tr>
-<tr>
-	<td>Declaration Form for Individual</td>
-<td><a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Click to Download</a></td>
+	<td>Annex - List of Commonly Compounded Offences</td>
+<td><a href="/files/forms/list_of_commonly_compounded_offences.pdf" download="">Click to Download</a></td>
 </tr>
 </tbody>
 </table>
-
-<i><font size="3">Note: Forms which are incomplete or do not comply with the instructions may be rejected.</font></i>
