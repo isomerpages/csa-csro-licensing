@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Licensed Service Providers.md
-      - Forms and Guides/.keep
-      - Forms and Guides/Forms.md
-      - Forms and Guides/Guides.md
+      - Documents and Guides/.keep
+      - Documents and Guides/Forms.md
+      - Documents and Guides/Guides.md
       - Legislation.md
       - FAQs.md
