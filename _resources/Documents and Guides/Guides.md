@@ -1,8 +1,8 @@
 ---
 title: Guides
-permalink: /resources/forms-and-guides/guides/
+permalink: /resources/documents-and-guides/guides/
 description: ""
-third_nav_title: Forms and Guides
+third_nav_title: Documents and Guides
 variant: markdown
 ---
 This page contains the list of guides published by CSRO.
