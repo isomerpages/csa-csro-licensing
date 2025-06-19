@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Licensed Service Providers.md
+      - Documents and Guides/Annex.md
       - Documents and Guides/.keep
       - Documents and Guides/Forms.md
       - Documents and Guides/Guides.md
