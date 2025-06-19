@@ -4,7 +4,7 @@ permalink: /resources/faqs/
 description: ""
 variant: markdown
 ---
-<font size="3.5"><i>Updated as of 18 February 2025</i></font>
+<font size="3.5"><i>Updated as of 18 June 2025</i></font>
 <details>
 <summary><h5>1. Who needs to apply for cybersecurity service provider's licence?</h5></summary>
 	
@@ -106,7 +106,7 @@ Business Entity applicants’ Key Executive Officer and Key Officer(s) are each 
 <summary><h5>17. Will quality requirements be imposed on the licensees?</h5></summary>
 	
 The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset. 
-<br><br>Instead, to complement the light touch licensing framework, CSRO will continue to work with the industry and professional association partners to establish voluntary accreditation regimes for cybersecurity professionals, to improve the standing of cybersecurity professionals.
+<br><br>CSRO will work with the industry and professional association partners to introduce appropriate standards and certifications in the near future to improve the standing of cybersecurity professionals.
 </details>
 <details>
 <summary><h5>18. Will CSRO consider licensing other cybersecurity services in the future? </h5></summary>
@@ -125,7 +125,7 @@ CSRO intends to keep the licensing requirements simple to minimise operational c
 <details>
 <summary><h5>20. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
 	
-Licenses should ensure that records collectively capture all the required information with sufficient details and are kept in a form that allows accountability and traceability in the event of foul play. You may also wish to refer to <a href="https://www.csa.gov.sg/legislation/consultations/industry-consultation">Annex B of the closing note</a> published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
+Licensees should ensure that records collectively capture all the required information with sufficient details and are kept in a form that allows accountability and traceability in the event of foul play. You may also wish to refer to <a href="https://www.csa.gov.sg/legislation/consultations/industry-consultation">Annex B of the closing note</a> published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
 </details>
 <details>
 <summary><h5>21. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
@@ -145,7 +145,7 @@ An application for renewal of a licence must be made no later than 2 months befo
 <details>
 <summary><h5>24. How is the licence renewal application process like?</h5></summary>
 	
-When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, licensee will be required to make ePayment via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
+When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, Licensee will be required to make ePayment via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
 </details> 
 <details>
 <summary><h5>25. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
@@ -168,7 +168,7 @@ Licensees may refer to <a href="https://www.csro.gov.sg/how-to/update-licence/">
 <details>
 <summary><h5>28. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
 	
-The licensee shall notify the Licensing Officer within 14 days after the appointment of any new key officer. Licensees are also required to notify the licensing officer of any change or inaccuracy in the information and particulars that the licensee and/or its key officers have submitted to the licensing officer in relation to its licence within 14 days. Licensees are reminded to ensure that any new key officer who is appointed must be fit and proper as defined in section 26(8) of the Act, failing which may result in punitive measures being imposed on the licensee, including revocation or suspension of licence.
+The licensee shall notify the Licensing Officer within 14 days after the appointment of any new key officer(s) and/or the cessation of existing key officer(s). Licensees are also required to notify the licensing officer of any change or inaccuracy in the information and particulars that the licensee and/or its key officers have submitted to the licensing officer in relation to its licence within 14 days. Licensees are reminded to ensure that any new key officer who is appointed must be fit and proper as defined in section 26(8) of the Act, failing which may result in punitive measures being imposed on the licensee, including revocation or suspension of licence.
 </details>
 <details>
 <summary><h5>29. Will it be an offence to use unlicensed cybersecurity service providers?</h5></summary>
