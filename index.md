@@ -23,16 +23,6 @@ sections:
           description: For Consumers and Applicants
           url: /resources/forms-and-guides/guides
   - infopic:
-      title: Launch of New Checker
-      id: infopic
-      description: CSRO has launched a calculator and documents checklist to aid
-        licensees in determining the due date(s) and document(s) required to
-        notify a change.
-      button: Access the checker here
-      url: https://go.gov.sg/csro-calculator-for-changes
-      image: /images/EDM_Launch_of_New_Checker.jpg
-      alt: Image alt text
-  - infopic:
       title: Renewal of Licences
       id: infopic
       description: Licensees are reminded to submit renewal applications
