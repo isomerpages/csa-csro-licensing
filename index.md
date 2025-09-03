@@ -4,7 +4,12 @@ title: Cybersecurity Services Regulation Office
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Important Notice: Please note that CSRO will be undergoing a
+  migration from the current GoBusiness Licensing platform between 6 October
+  2025 to 9 October 2025. During the stated period, the GoBusiness Licensing
+  platform will not be accessible for submission of applications. There will
+  also be expected delays in the processing of ongoing applications. For more
+  information or further assistance, please contact contact@csro.gov.sg."
 sections:
   - hero:
       title: Cybersecurity Service Provider's Licence
