@@ -28,6 +28,16 @@ sections:
           description: For Consumers and Applicants
           url: /resources/forms-and-guides/guides
   - infopic:
+      title: Online Briefing on Proposed Changes to Licensing Framework
+      subtitle: "Invitation:"
+      id: infopic
+      description: Licensees and stakeholders are invited to attend an online briefing
+        on proposed changes to the Licensing Framework on 18 September 2025
+        (Thursday), 3pm.
+      button: Click here to register
+      url: https://go.gov.sg/briefingoncybersecuritylicensingframework
+      alt: Image alt text
+  - infopic:
       title: Renewal of Licences
       id: infopic
       description: Licensees are reminded to submit renewal applications
