@@ -37,6 +37,7 @@ sections:
       button: Click here to register
       url: https://go.gov.sg/briefingoncybersecuritylicensingframework
       alt: Image alt text
+      image: /images/EDM_Online_Briefing_18_Sept.png
   - infopic:
       title: Renewal of Licences
       id: infopic
