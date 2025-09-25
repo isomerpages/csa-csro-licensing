@@ -34,7 +34,7 @@ sections:
         proposed changes to the Cybersecurity Service Providers Licensing
         Framework.
       button: Click here to register
-      url: https://go.gov.sg/briefingoncybersecuritylicensingframework
+      url: https://go.gov.sg/consultationpaperonthelicensingframeworkforcybersecurityserviceproviders
       image: /images/EDM_Consult_Briefing_22_29Sept_QR_updated_jpg.png
       alt: QR Code image
   - infopic:
