@@ -33,7 +33,7 @@ sections:
       description: Licensees and stakeholders are invited to provide feedback on the
         proposed changes to the Cybersecurity Service Providers Licensing
         Framework.
-      button: Click here to register
+      button: Click here for information
       url: https://go.gov.sg/consultationpaperonthelicensingframeworkforcybersecurityserviceproviders
       image: /images/EDM_Consult_Briefing_22_29Sept_QR_updated_jpg.png
       alt: QR Code image
