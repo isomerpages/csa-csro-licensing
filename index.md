@@ -67,7 +67,7 @@ sections:
       description: Everyone is encouraged to report any suspected vulnerability in a
         product or service directly to the System Owner(s).
       button: find out more about VDP
-      url: https://www.csa.gov.sg/Tips-Resource/Resources/singcert/singcert-vulnerability-disclosure-policy
+      url: https://www.csa.gov.sg/faqs/singcert/
       image: /images/singcert_edm_v10-01.jpg
-      alt: Image alt text
+      alt: EDM
 ---
