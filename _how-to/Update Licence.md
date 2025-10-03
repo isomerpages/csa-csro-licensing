@@ -102,5 +102,5 @@ contact details)
 </tbody>
 </table>
 <h3>Guide to Update Licence Details</h3>
-<p>Licensee may refer to this <a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/dashboard-faqs/apply-new-licences/" target="_blank">step-by-step guide</a> for
+<p>Licensee may refer to this <a rel="noopener noreferrer nofollow" href="https://licensing.gobusiness.gov.sg/faq/manage-licences/amend" target="_blank">step-by-step guide</a> for
 licence details amendment process via GoBusiness Licensing.</p>
