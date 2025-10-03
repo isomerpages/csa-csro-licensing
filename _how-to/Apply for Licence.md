@@ -106,4 +106,4 @@ Please note that with the exception of the “Declaration form for Business Enti
 
 ### Guide to New Licence Application
 
-Applicant may refer to the <a href="https://www.gobusiness.gov.sg/dashboard-faqs/apply-new-licences/">step-by-step guide </a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
+Applicant may refer to the <a href="https://licensing.gobusiness.gov.sg/faq/applying-for-licences#licence-applications">step-by-step guide </a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
