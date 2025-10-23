@@ -21,7 +21,7 @@ sections:
           url: /resources/licensed-service-providers
         - title: List of Guides
           description: For Consumers and Applicants
-          url: /resources/forms-and-guides/guides
+          url: /resources/documents-and-guides/guides
   - infopic:
       title: "Consultation: Proposed changes to the Licensing Framework"
       id: infopic
