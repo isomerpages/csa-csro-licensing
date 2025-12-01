@@ -4,7 +4,7 @@ permalink: /resources/faqs/
 description: ""
 variant: markdown
 ---
-<font size="3.5"><i>Updated as of 18 June 2025</i></font>
+<font size="3.5"><i>Updated as of 1 December 2025</i></font>
 <details>
 <summary><h5>1. Who needs to apply for cybersecurity service provider's licence?</h5></summary>
 	
