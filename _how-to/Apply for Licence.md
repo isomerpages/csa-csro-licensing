@@ -87,7 +87,7 @@ Applicant is required to submit the following supporting documents for each lice
 A copy of each document is required for <u>every</u> <i>officer of the business entity</i>:
 
 <ol><ol><font size="4.5"><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
-<li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entity name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
+<li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entity name, business activities, registration date, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
 <li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country. The Certificate of Clearance or documentation shall not be obtained earlier than three months before it is submitted to CSRO.</li>
 	</font></ol></ol></td></tr></tbody></table>
 	
