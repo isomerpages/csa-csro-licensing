@@ -34,10 +34,9 @@ shall submit their notifications to CSRO.</p>
 <td>
 1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport
 showing the personal particulars and official descriptions (for overseas <em>officers</em>).
-<br><br>2. A duly filled up and endorsed <a href="/files/forms/declaration%20form%20for%20individual.pdf" rel="noopener noreferrer nofollow" target="_blank">Declaration Form for Individual</a> from the newly appointed <em>officer.</em>
-<br><br>3. (For overseas <em>officers</em> only) Certificate of Clearance or equivalent
+<br><br>2. (For overseas <em>officers</em> only) Certificate of Clearance or equivalent
 documentation from the relevant authorities in the home country obtained no earlier than three months before submission, certifying that the <em>officer</em> does not have any record of criminal conviction in the home country.
-<br><br>4. A copy of the Register of Directors (ROD) records from ACRA or equivalent
+<br><br>3. A copy of the Register of Directors (ROD) records from ACRA or equivalent
 obtained no earlier than one week before submission, reflecting the appointment
 details of the <em>officer.</em>
 </td>
