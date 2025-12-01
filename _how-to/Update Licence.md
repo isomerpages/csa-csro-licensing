@@ -4,7 +4,7 @@ permalink: /how-to/update-licence/
 description: ""
 variant: markdown
 ---
-<p>Licensee is required to notify CSRO of any change or inaccuracy in the information and particulars that the licensee and/or its <em>officers of the business entity</em> submitted to the Licensing Officer in relation to the licence, <u>within 14 calendar days after</u>of such change or upon knowledge of such inaccuracy. Such information and particulars include, but are not limited to: </p>
+<p>Licensee is required to notify CSRO of any change or inaccuracy in the information and particulars that the licensee and/or its <em>officers of the business entity</em> submitted to the Licensing Officer in relation to the licence, <u>within 14 calendar days</u> of such change or upon knowledge of such inaccuracy. Such information and particulars include, but are not limited to: </p>
 <ul>(a) The <em>appointment</em> of any officers of the business entity; </ul>
 <ul> (b) When an officer of the business entity <em>ceases</em> to hold such office;</ul>
 <ul> (c) Changes to or inaccuracies in the licensee’s and/or its officers of the business entity’s names, designations, addresses and contact particulars;</ul>
