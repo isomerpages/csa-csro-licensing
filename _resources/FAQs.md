@@ -4,7 +4,7 @@ permalink: /resources/faqs/
 description: ""
 variant: markdown
 ---
-<font size="3.5"><i>Updated as of 18 June 2025</i></font>
+<font size="3.5"><i>Updated as of 1 December 2025</i></font>
 <details>
 <summary><h5>1. Who needs to apply for cybersecurity service provider's licence?</h5></summary>
 	
@@ -97,24 +97,20 @@ A Certificate of Clearance (or equivalent documentation) is required for each of
 We do not intend to be prescriptive on the format of Certificate of Clearance (or equivalent documentation) from the relevant authorities in the home country. The applicant should ensure that the Certificate of Clearance (or equivalent documentation) minimally certifies that the officer of the business entity licence applicant does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, nationwide includes all states of the home country.
 <br><br>Certificate of Clearance (or equivalent documentation) not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.
 </details>
+
 <details>
-<summary><h5>16. What do I need to note when completing the Declaration Form for Business Entity/Individual?</h5></summary>
-	
-Business Entity applicants’ Key Executive Officer and Key Officer(s) are each required to complete the Declaration Form for Individual, in addition to the Declaration Form for Business Entity. Please note that any false declaration will subject the licence application to be rejected and punitive action may be taken against the incumbent.
-</details>
-<details>
-<summary><h5>17. Will quality requirements be imposed on the licensees?</h5></summary>
+<summary><h5>16. Will quality requirements be imposed on the licensees?</h5></summary>
 	
 The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset. 
 <br><br>CSRO will work with the industry and professional association partners to introduce appropriate standards and certifications in the near future to improve the standing of cybersecurity professionals.
 </details>
 <details>
-<summary><h5>18. Will CSRO consider licensing other cybersecurity services in the future? </h5></summary>
+<summary><h5>17. Will CSRO consider licensing other cybersecurity services in the future? </h5></summary>
 	
 CSRO will continue to monitor international and industry trends and engage the industry where necessary, to assess if any new types of cybersecurity services should be included in the licensing framework, such as those that are of higher risks to consumers.
 </details>
 <details>
-<summary><h5>19. What are the conditions of the licence?</h5></summary>
+<summary><h5>18. What are the conditions of the licence?</h5></summary>
 
 CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, include:
 <ol><font size="3.5">a)	Ensure that officers of business entity licensees are fit and proper persons as defined in section 26(8) of the Cybersecurity Act.  For example, the individual has not been convicted of any offence involving fraud, dishonesty, or moral turpitude;
@@ -123,66 +119,66 @@ CSRO intends to keep the licensing requirements simple to minimise operational c
 <br>d)	Ensure that their employees do not give any false representation to their clients regarding the employees’ level of training, skill, or qualification.</font></ol>
 </details>
 <details>
-<summary><h5>20. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
+<summary><h5>19. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
 	
 Licensees should ensure that records collectively capture all the required information with sufficient details and are kept in a form that allows accountability and traceability in the event of foul play. You may also wish to refer to <a href="https://www.csa.gov.sg/legislation/consultations/industry-consultation">Annex B of the closing note</a> published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
 </details>
 <details>
-<summary><h5>21. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
+<summary><h5>20. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
 	
 A licence is valid for a period of 2 years and the licence fees for individuals and business entities are $500 and $1000 respectively.
 </details>
 <details>
-<summary><h5>22. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
+<summary><h5>21. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
 	
 Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of application and new licence application will have to be submitted.
 </details> 
 <details>
-<summary><h5>23. When should licence renewal application be submitted?</h5></summary>
+<summary><h5>22. When should licence renewal application be submitted?</h5></summary>
 	
 An application for renewal of a licence must be made no later than 2 months before expiry. Licensee who fails to submit their licence renewal application 2 months prior to the expiry may be required to apply for a new licence. This may result in a possible lapse in the licensure period where the business entity will be required to suspend its operations, until the outcome of its licence application is determined.
 </details>
 <details>
-<summary><h5>24. How is the licence renewal application process like?</h5></summary>
+<summary><h5>23. How is the licence renewal application process like?</h5></summary>
 	
 When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, Licensee will be required to make ePayment via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
 </details> 
 <details>
-<summary><h5>25. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
+<summary><h5>24. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
 	
 If you are facing any technical difficulties or require any assistance on how to submit the application, you may contact GoBusiness Licensing Helpdesk at Tel: 63363373.
 </details>
 <details>
-<summary><h5>26. How do I request to terminate a licence?</h5></summary>
+<summary><h5>25. How do I request to terminate a licence?</h5></summary>
 	
 Licensees who wish to terminate their licence before expiry should submit an application via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> within 14 calendar days before ceasing the business of providing the licensable cybersecurity service.
 </details>
 <details>
-<summary><h5>27. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
+<summary><h5>26. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
 	
 Licensee is required to update changes to their details for the following changes:
-<ol><font size="3.5">a) Changes to Key Executive Officers;<br>b)	Additional of Key Officers;<br>c)	Removal of Key Officers; and<br>d) Changes to the other information of the Licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and officers of business entity.</font></ol>
+<ol><font size="3.5">a) Changes to Key Executive Officers;<br>b)	Additional of Key Officers;<br>c)	Removal of Key Officers; and<br>d) Changes to the other information of the licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and officers of business entity.</font></ol>
 
 Licensees may refer to <a href="https://www.csro.gov.sg/how-to/update-licence/">here</a> for more information on the notification method and/or supporting documentation required for the update.
 </details>
 <details>
-<summary><h5>28. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
+<summary><h5>27. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
 	
 The licensee shall notify the Licensing Officer within 14 days after the appointment of any new key officer(s) and/or the cessation of existing key officer(s). Licensees are also required to notify the licensing officer of any change or inaccuracy in the information and particulars that the licensee and/or its key officers have submitted to the licensing officer in relation to its licence within 14 days. Licensees are reminded to ensure that any new key officer who is appointed must be fit and proper as defined in section 26(8) of the Act, failing which may result in punitive measures being imposed on the licensee, including revocation or suspension of licence.
 </details>
 <details>
-<summary><h5>29. Will it be an offence to use unlicensed cybersecurity service providers?</h5></summary>
+<summary><h5>28. Will it be an offence to use unlicensed cybersecurity service providers?</h5></summary>
 	
 It will not be an offence under the Cybersecurity Act to use unlicensed cybersecurity service providers. However, consumers should be wary of the safety and security risks that unlicensed service providers may pose, given the service providers’ extensive access into their clients’ computer systems when providing their services. Any misuse of such confidential information by the unlicensed service providers may result in severe damages to the consumers.
 <br><br>Consumers are therefore encouraged to only procure licensable cybersecurity services from licensed cybersecurity service providers, and to inform CSRO of any service providers providing licensable cybersecurity services without a licence. Person who engages in the business of providing any licensable cybersecurity services to other person without a licence shall be guilty of an offence under Section 24 of the Cybersecurity Act and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both. Under Section 31 of the Cybersecurity Act, unlicensed cybersecurity service providers are also not entitled to bring any proceeding in any court to recover any commission, fee, gain, or reward for the service provided.
 </details>
 <details>
-<summary><h5>30. What is the difference between CSA and CSRO?</h5></summary>
+<summary><h5>29. What is the difference between CSA and CSRO?</h5></summary>
 	
 The Cyber Security Agency of Singapore (CSA) is the agency set up to keep Singapore’s cyberspace safe and secure through the administering of the Cybersecurity Act. To administer the licensing framework, CSA has set up Cybersecurity Services Regulation Office (CSRO) which will act as the point of interface for all licensing related matters. These include enforcing the licensing framework; responding to the industry’s queries and feedback; as well as sharing of resources on licensable cybersecurity services with consumers such as the list of licensees and buyer’s guides.
 </details>
 <details>
-<summary><h5>31. Who can I contact for further details?</h5></summary>
+<summary><h5>30. Who can I contact for further details?</h5></summary>
 	
 For further assistance, please contact us at:
 <br><br>

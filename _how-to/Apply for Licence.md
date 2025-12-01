@@ -5,8 +5,8 @@ description: ""
 variant: markdown
 ---
 Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cybersecurity (Cybersecurity Service Providers) Regulations](https://sso.agc.gov.sg/SL/CA2018-S304-2022?DocDate=20220408&amp;msclkid=b2b84d25b93b11eca9499bb51ff4b0c9), the following groups of persons are required to obtain a cybersecurity service provider’s (“CSP”) licence:
-<ol>•	those who engages in the business of providing any of the following licensable cybersecurity service (“LCS”) to other person is required to obtain a cybersecurity service provider’s (“CSP”) licence.</ol>
-<ol>•	those who is in the business of providing a LCS, is required to obtain a licence before advertising their LCS.</ol>
+* those who engages in the business of providing any of the following licensable cybersecurity service (“LCS”) to other person is required to obtain a cybersecurity service provider’s (“CSP”) licence.
+* those who is in the business of providing a LCS, is required to obtain a licence before advertising their LCS.
 
 #### At A Glance
 <table class="table-v">
@@ -34,12 +34,12 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cyb
 	</tr>
 </tbody></table>
 
-Note:
-<ol><font size="4.5">
+
+<font size="4.5">Note:
 <li>All providers of LCS, regardless of whether they are companies or individuals who are engaged for such services, are required to obtain a licence, except for companies that provide LCS solely to their related companies or in-house consumers of LCS.</li>
 	
 <li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li>
-</font></ol>
+</font>
 	
 ### Submit Application
 
@@ -84,13 +84,10 @@ Applicant is required to submit the following supporting documents for each lice
 	<td><b><u>For Business Entity:</u></b>
 <br>
 <br>
-Please note that with the exception of the “Declaration form for Business Entity”, a copy of each document is required for <u>every</u> <i>officer of the business entity</i>:
+A copy of each document is required for <u>every</u> <i>officer of the business entity</i>:
 
 <ol><ol><font size="4.5"><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
-<li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entitiy name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
-<li>Declaration forms which have been duly filled up and endorsed. These include:</li>
-<ul>a)	One copy of the <a href="/files/forms/declaration%20form%20for%20business%20entity.pdf" download="">Declaration Form for Business Entity</a>, which is to be completed by an officer duly authorised by the business entity; and</ul>
-<ul>(b)	The <a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which is to be completed as a personal declaration by every <i>officer of the business entity</i>.</ul>
+<li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entity name, business activities, registration date, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
 <li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction in the home country. The Certificate of Clearance or documentation shall not be obtained earlier than three months before it is submitted to CSRO.</li>
 	</font></ol></ol></td></tr></tbody></table>
 	
@@ -98,7 +95,6 @@ Please note that with the exception of the “Declaration form for Business Enti
 	<tbody><tr>
 	<td><b><u>For Individual:</u></b>		
 <ol><ol><font size="4.5"><li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants).</li>
-<li><a href="/files/forms/declaration%20form%20for%20individual.pdf" download="">Declaration Form for Individual</a>, which has been duly filled up and endorsed as a personal declaration by the individual.</li>
 <li>(For overseas applicants only) Certificate of Clearance or documentation from the relevant authorities in the home country certifying that the individual does not have any record of criminal conviction in the home country. The Certificate of Clearance or documentation shall not be obtained earlier than three months before it is submitted to CSRO.</li></font></ol></ol></td></tr></tbody></table>
 
 <ul><font size="4.5">Note:</font></ul>

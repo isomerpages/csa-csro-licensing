@@ -4,7 +4,7 @@ permalink: /how-to/update-licence/
 description: ""
 variant: markdown
 ---
-<p>Licensee is required to notify CSRO of any change or inaccuracy in the information and particulars that the licensee and/or its <em>officers of the business entity</em> submitted to the Licensing Officer in relation to the licence, <u>within 14 calendar days after</u>of such change or upon knowledge of such inaccuracy. Such information and particulars include, but are not limited to: </p>
+<p>Licensee is required to notify CSRO of any change or inaccuracy in the information and particulars that the licensee and/or its <em>officers of the business entity</em> submitted to the Licensing Officer in relation to the licence, <u>within 14 calendar days</u> of such change or upon knowledge of such inaccuracy. Such information and particulars include, but are not limited to: </p>
 <ul>(a) The <em>appointment</em> of any officers of the business entity; </ul>
 <ul> (b) When an officer of the business entity <em>ceases</em> to hold such office;</ul>
 <ul> (c) Changes to or inaccuracies in the licensee’s and/or its officers of the business entity’s names, designations, addresses and contact particulars;</ul>
@@ -34,10 +34,9 @@ shall submit their notifications to CSRO.</p>
 <td>
 1. Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport
 showing the personal particulars and official descriptions (for overseas <em>officers</em>).
-<br><br>2. A duly filled up and endorsed <a href="/files/forms/declaration%20form%20for%20individual.pdf" rel="noopener noreferrer nofollow" target="_blank">Declaration Form for Individual</a> from the newly appointed <em>officer.</em>
-<br><br>3. (For overseas <em>officers</em> only) Certificate of Clearance or equivalent
+<br><br>2. (For overseas <em>officers</em> only) Certificate of Clearance or equivalent
 documentation from the relevant authorities in the home country obtained no earlier than three months before submission, certifying that the <em>officer</em> does not have any record of criminal conviction in the home country.
-<br><br>4. A copy of the Register of Directors (ROD) records from ACRA or equivalent
+<br><br>3. A copy of the Register of Directors (ROD) records from ACRA or equivalent
 obtained no earlier than one week before submission, reflecting the appointment
 details of the <em>officer.</em>
 </td>
