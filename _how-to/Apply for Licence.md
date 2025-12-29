@@ -11,7 +11,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 #### At A Glance
 <table class="table-v">
     <tbody><tr>
-    <td width="45%">List of LCS as specified in the <a href="https://sso.agc.gov.sg/Act/CA2018">Second Schedule of the Cybersecurity Act</a></td>
+    <td width="45%">List of LCS as specified in the <a href="https://sso.agc.gov.sg/Act/CA2018?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
     <td width="55%">1. Managed security operations centre (SOC) monitoring service; and<br>
 2. Penetration testing service
   </td>
