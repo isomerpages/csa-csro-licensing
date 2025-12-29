@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Cybersecurity Services Regulation Office
 100 Victoria Street
-<br>#10-01, National Library Board
+<br>#10-01, National Library Building
 <br>Singapore 188064
 
 To contact CSRO, please fill in the form below. If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/67e36abcc63d767fe06ec3e6">here</a>.
