@@ -26,7 +26,7 @@ Licensee is required to submit a licence renewal application <b>no less than two
 
 ### Submit Renewal Application
 
-Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via GoBusiness Licensing <b>120 days prior  to the expiry date of the current licence.</b> 
+Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via GoBusiness Licensing <b>120 days prior to the expiry date of the current licence.</b> 
 
 <font size="4.5">Note:</font>
 <ul><li><font size="4.5">Licensee who fails to submit their renewal application by the <b>due date</b> (i.e., no less than two (2) months prior to the expiry of the current licence) will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to <b>suspend its operations until a new licence is granted.</b></font></li></ul>
@@ -53,7 +53,7 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
 	<tbody><tr>
 	<td><b><u>For Business Entity:</u></b>
 <ol><font size="4.5">
-<li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entitiy name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
+<li>Latest ACRA Business Profile or equivalent. The Business Profile is an electronic report that provides information such as registration number, entity name, business activities, registration dates, owners and officers of a business entity, that can be obtained via the Accounting &amp; Corporate Regulatory Authority ("ACRA") BizFile+ Portal. The Business Profile report shall not be obtained earlier than one week before the application is submitted to CSRO.</li>
 
 <li>[If there is any change to the Fit and Proper status of the licensee or the officers of the business entity] Supporting documents related to the changes in the Fit and Proper status</li>
 	</font></ol>
