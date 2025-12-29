@@ -4,14 +4,14 @@ permalink: /how-to/apply-for-licence/
 description: ""
 variant: markdown
 ---
-Under the [Cybersecurity Act](https://sso.agc.gov.sg/Acts-Supp/9-2018/) and [Cybersecurity (Cybersecurity Service Providers) Regulations](https://sso.agc.gov.sg/SL/CA2018-S304-2022?DocDate=20220408&amp;msclkid=b2b84d25b93b11eca9499bb51ff4b0c9), the following groups of persons are required to obtain a cybersecurity service provider’s (“CSP”) licence:
+Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecurity (Cybersecurity Service Providers) Regulations](https://sso.agc.gov.sg/SL/CA2018-S304-2022?DocDate=20220408&amp;msclkid=b2b84d25b93b11eca9499bb51ff4b0c9), the following groups of persons are required to obtain a cybersecurity service provider’s (“CSP”) licence:
 * those who engages in the business of providing any of the following licensable cybersecurity service (“LCS”) to other person is required to obtain a cybersecurity service provider’s (“CSP”) licence.
 * those who is in the business of providing a LCS, is required to obtain a licence before advertising their LCS.
 
 #### At A Glance
 <table class="table-v">
     <tbody><tr>
-    <td width="45%">List of LCS as specified in the <a href="https://sso.agc.gov.sg/Acts-Supp/9-2018/?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
+    <td width="45%">List of LCS as specified in the <a href="https://sso.agc.gov.sg/Act/CA2018">Second Schedule of the Cybersecurity Act</a></td>
     <td width="55%">1. Managed security operations centre (SOC) monitoring service; and<br>
 2. Penetration testing service
   </td>
