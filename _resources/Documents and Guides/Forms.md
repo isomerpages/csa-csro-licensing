@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Documents and Guides
 variant: markdown
 ---
-This page contains the list of forms prescribed for licence application. 
+This page contains the list of forms prescribed for licence application submitted before 10 October 2025. 
 
 <table>
 <tbody><tr>
