@@ -4,12 +4,7 @@ title: Cybersecurity Services Regulation Office
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please note that CSRO will be conducting scheduled maintenance on
-  6 January 2026 (Singapore Time). During the maintenance, the GoBusiness
-  Licensing platform will be unavailable for application submissions. Applicants
-  and licensees are advised to plan accordingly and submit any necessary
-  applications before the maintenance begins. For more information or further
-  assistance, please contact contact@csro.gov.sg.
+notification: ""
 sections:
   - hero:
       title: Cybersecurity Service Provider's Licence
