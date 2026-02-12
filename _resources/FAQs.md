@@ -112,11 +112,7 @@ CSRO will continue to monitor international and industry trends and engage the i
 <details>
 <summary><h5>18. What are the conditions of the licence?</h5></summary>
 
-CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, include:
-<ol><font size="3.5">a)	Ensure that officers of business entity licensees are fit and proper persons as defined in section 26(8) of the Cybersecurity Act.  For example, the individual has not been convicted of any offence involving fraud, dishonesty, or moral turpitude;
-<br>b)	Keep for at least 3 years, records on the cybersecurity services that they have provided. This includes but not limited to details of the person engaging the licensee for the service, name of the person providing the service on behalf of the licensee, date on which the service is provided and details of the type of service provided, etc.;
-<br>c)	Ensure that any information obtained in the course of providing their cybersecurity services is not disclosed or used by any other person other than for the purpose of providing the cybersecurity services; and
-<br>d)	Ensure that their employees do not give any false representation to their clients regarding the employees’ level of training, skill, or qualification.</font></ol>
+CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found <a href="">here.</a>
 </details>
 <details>
 <summary><h5>19. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
