@@ -10,7 +10,11 @@ Licensee is required to submit a licence renewal application <b>no less than two
 <table class="table-v">
   <tbody><tr>
     <td width="45%">Licence Renewal Fees for each Licence</td>
-			<td width="55%">Business entity - S$1000<br>Individual - S$500<br></td>
+			<td>
+				<b>(A) For applications approved before 16 March 2026</b>
+				<br>Business entity - S$1000<br>Individual - S$500<br><br>
+  <b>(B) For applications approved on and after 16 March 2026</b>
+  <br>Business entity - S$2500<br>Individual - S$1250<br></td>
   </tr>
   <tr>
     <td>Refund</td>
@@ -18,7 +22,9 @@ Licensee is required to submit a licence renewal application <b>no less than two
   </tr>
   <tr>
     <td>Licence Validity Period</td>
-    <td>Two years starting from the end of current licence validity period.</td>
+    <td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the date of licence issuance.<br><br>
+			<b>(B) For applications approved on and after 16 March 2026</b><br>
+			Five years from the date of licence issuance.</td>
   </tr>
     <tr><td>Application Processing Time</td>
     <td>The processing of licence renewal application may take up to two weeks, starting from the receipt of the complete application (with all supporting documents submitted). Applicant will be notified of the outcome of application via GoBusiness Licensing.</td>
