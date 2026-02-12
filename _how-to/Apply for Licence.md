@@ -19,7 +19,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 	<td>Licence Fees for each Licence</td>
 			<td><b>(A) For applications approved before 16 March 2026</b>
 		 <br>Business entity - S$1000<br>Individual - S$500<br><br>
-			<b>(B) For applications approved on and after  16 March 2026</b>
+			<b>(B) For applications approved on and after 16 March 2026</b>
 		 <br>Business entity - S$2500<br>Individual - S$1250
 		</td>
   </tr>
@@ -29,7 +29,10 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
   </tr>
   <tr>
 	<td>Licence Validity Period</td>
-	<td>Two years from the date of licence issuance.</td>
+		<td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the date of licence issuance.<br><br>
+			<b>(B) For applications approved on and after 16 March 2026</b><br>
+			Five years from the date of licence issuance.
+		</td>
   </tr>
 	<tr>
 	<td>Application Processing Time</td>
@@ -49,10 +52,9 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 
 #### Criteria for Grant of a Licence
 To be eligible for a licence, applicant is required to
-<br>  1. Be fit and proper; and<br>
-2. With effect from 16 March 2026  , hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
-Note:<br>
-A grace period   until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. 
+<br> 1. Be fit and proper; and<br> 2. With effect from 16 March 2026, hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
+<font size="4.5">Note:<br>
+<li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. </li></font>
 
 
 #### Fit and Proper Criteria
@@ -84,10 +86,10 @@ With effect from 16 March 2026 , applicants are required to hold an active certi
 <br>CTM Promoter (Tier 3) or equivalent certification are required to fulfil the following:
 <ul><li>Certification bodies must be accredited by SAC or equivalent national accreditation bodies; and</li>
 <li>Certification must cover the environment (people, processes, and technology) supporting the delivery of licensed cybersecurity service(s). Example of acceptable scope of certification includes:
-	<ul><li>a.	[For providers of one LCS] Provision of licensed cybersecurity services - Penetration testing or Provision of licensed cybersecurity services - Managed security operations centre (SOC) monitoring;
-b.	[For providers of both LCS] Provision of licensed cybersecurity services – Penetration testing and Managed security operations centre monitoring  
-</li></ul></li>
-</ul>
+	<ul>a.	[For providers of one LCS] Provision of licensed cybersecurity services - Penetration testing or Provision of licensed cybersecurity services - Managed security operations centre (SOC) monitoring;<br>
+b.	[For providers of both LCS] Provision of licensed cybersecurity services – Penetration testing and Managed security operations centre monitoring.</ul></li></ul><br>
+<font size="4.5">Note:<br>
+<li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification.</li></font>
 
 #### Online application
 Application for licence is to be submitted online via <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit <a href="https://www.corppass.gov.sg">www.corppass.gov.sg</a> or <a href="https://www.singpass.gov.sg">www.singpass.gov.sg</a>.
