@@ -49,8 +49,8 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 
 #### Criteria for Grant of a Licence
 To be eligible for a licence, applicant is required to
-<font size="3"><br>  1. Be fit and proper; and<br>
-2. With effect from 16 March 2026  , hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.</font><br>
+<br>  1. Be fit and proper; and<br>
+2. With effect from 16 March 2026  , hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
 Note:<br>
 A grace period   until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. 
 
@@ -79,6 +79,15 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 	<ul><font size="4.5">2.	Any other person who is responsible for the management of the business entity.</font></ul></ul>
 <ul><ul><li><font size="4.5">Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</font></li></ul></ul>
 
+#### Requirement for Cyber Trust Mark Promoter (Tier 3) certification
+With effect from 16 March 2026 , applicants are required to hold an active certificate for CTM Promoter (Tier 3) or equivalent for the required scope of certification at the point of application. Upon issuance of the licence, licensees are also required to maintain an active certificate for the duration of the Licence. 
+<br>CTM Promoter (Tier 3) or equivalent certification are required to fulfil the following:
+<ul><li>Certification bodies must be accredited by SAC or equivalent national accreditation bodies; and</li>
+<li>Certification must cover the environment (people, processes, and technology) supporting the delivery of licensed cybersecurity service(s). Example of acceptable scope of certification includes:
+	<ul><li>a.	[For providers of one LCS] Provision of licensed cybersecurity services - Penetration testing or Provision of licensed cybersecurity services - Managed security operations centre (SOC) monitoring;
+b.	[For providers of both LCS] Provision of licensed cybersecurity services – Penetration testing and Managed security operations centre monitoring  
+</li></ul></li>
+</ul>
 
 #### Online application
 Application for licence is to be submitted online via <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit <a href="https://www.corppass.gov.sg">www.corppass.gov.sg</a> or <a href="https://www.singpass.gov.sg">www.singpass.gov.sg</a>.
