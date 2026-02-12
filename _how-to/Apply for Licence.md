@@ -11,7 +11,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 #### At A Glance
 <table class="table-v">
     <tbody><tr>
-    <td width="45%">List of LCS as specified in the <a href="https://sso.agc.gov.sg/Act/CA2018?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
+    <td width="45%">List of LCS as specified in the <a target="_blank" href="https://sso.agc.gov.sg/Act/CA2018?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
     <td width="55%">1. Managed security operations centre (SOC) monitoring service; and<br>
 2. Penetration testing service
   </td>
@@ -90,10 +90,10 @@ With effect from 16 March 2026 , applicants are required to hold an active certi
 b.	[For providers of both LCS] Provision of licensed cybersecurity services – Penetration testing and Managed security operations centre monitoring.</ul></li></ul><br>
 <font size="4.5"><b>Note:</b>
 <li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. Licensees are encouraged to begin certification processes early to avoid bottlenecks.</li></font>
-Applicant may refer to <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/cyber-trust/certification-for-the-cyber-trust-mark/">Certification for the Cyber Trust mark</a> for more information on CTM certification.
+Applicant may refer to <a target="_blank" href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/cyber-trust/certification-for-the-cyber-trust-mark/">Certification for the Cyber Trust mark</a> for more information on CTM certification.
 
 #### Online application
-Application for licence is to be submitted online via <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit <a href="https://www.corppass.gov.sg">www.corppass.gov.sg</a> or <a href="https://www.singpass.gov.sg">www.singpass.gov.sg</a>.
+Application for licence is to be submitted online via <a target="_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit <a target="_blank" href="https://www.corppass.gov.sg">www.corppass.gov.sg</a> or <a target="_blank" href="https://www.singpass.gov.sg">www.singpass.gov.sg</a>.
 
 
 
@@ -123,4 +123,4 @@ A copy of each document is required for <u>every</u> <i>officer of the business 
 
 ### Guide to New Licence Application
 
-Applicant may refer to the <a href="https://licensing.gobusiness.gov.sg/faq/applying-for-licences#licence-applications">step-by-step guide </a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
+Applicant may refer to the <a target="_blank" href="https://licensing.gobusiness.gov.sg/faq/applying-for-licences#licence-applications">step-by-step guide </a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
