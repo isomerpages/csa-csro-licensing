@@ -79,7 +79,7 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
  <ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul>
 
 ##### Unnotified changes<br>
-Licensees with unnotified change(s) such as the appointment and cessation of any officers of the business entity, and changes to or inaccuracies in the licensee’s and/or its officers of the business entity’s names, designation, address and contact particulars are required to duly declare such change(s) under Renewal Declaration (5) in the renewal application form and provide the relevant information on the unnotified change(s). <br>
+Licensees with unnotified change(s) such as the appointment and cessation of any officers of the business entity, and changes to or inaccuracies in the licensee’s and/or its officers of the business entity’s names, identity number are required to duly declare such change(s) under Renewal Declaration (5) in the renewal application form and provide the relevant information on the unnotified change(s). <br>
 
 Licensees are required to submit an amendment application in GoBusiness Licensing with the required details of the unnotified changes immediately or as soon as practicable after the issuance of the renewed licence. Failure to do so will result in a revocation or suspension of licence.
  
