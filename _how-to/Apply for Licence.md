@@ -17,8 +17,11 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
   </td>
   </tr><tr>
 	<td>Licence Fees for each Licence</td>
-   <td>***(A) For applications approved before 1 February 2026***
-		 <br>Business entity - S$1000<br>Individual - S$500</td>
+			<td><b>(A) For applications approved before 16 March 2026</b>
+		 <br>Business entity - S$1000<br>Individual - S$500<br><br>
+			<b>(B) For applications approved on and after  16 March 2026</b>
+		 <br>Business entity - S$2500<br>Individual - S$1250
+		</td>
   </tr>
   <tr>
 	<td>Refund</td>
@@ -45,7 +48,12 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 ### Submit Application
 
 #### Criteria for Grant of a Licence
-To be eligible for a licence, applicant is required to be fit and proper.
+To be eligible for a licence, applicant is required to
+<font size="3"><br>  1. Be fit and proper; and<br>
+2. With effect from 16 March 2026  , hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.</font><br>
+Note:<br>
+A grace period   until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. 
+
 
 #### Fit and Proper Criteria
 As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an individual or a business entity is a fit and proper person to hold or continue to hold a licence, the licensing officer may take into account any matter the licensing officer considers relevant, including any of the following:<br>
