@@ -84,4 +84,4 @@ Licensees with unnotified change(s) such as the appointment and cessation of any
 Licensees are required to submit an amendment application in GoBusiness Licensing with the required details of the unnotified changes immediately or as soon as practicable after the issuance of the renewed licence. Failure to do so will result in a revocation or suspension of licence.
  
 ### Guide to Renew Licence
-Licensee may refer to this <a href="https://licensing.gobusiness.gov.sg/faq/manage-licences/renew">step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.
+Licensee may refer to this <a target="_blank" href="https://licensing.gobusiness.gov.sg/faq/manage-licences/renew">step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.
