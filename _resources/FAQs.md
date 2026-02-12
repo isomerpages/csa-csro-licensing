@@ -121,7 +121,7 @@ CSRO intends to keep the licensing requirements simple to minimise operational c
 <details>
 <summary><h5>19. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
 	
-Licensees should ensure that records collectively capture all the required information with sufficient details and are kept in a form that allows accountability and traceability in the event of foul play. You may also wish to refer to <a href="https://www.csa.gov.sg/legislation/consultations/industry-consultation">Annex B of the closing note</a> published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
+Licensees should ensure that records collectively capture all the required information with sufficient details and are kept in a form that allows accountability and traceability in the event of foul play. You may also wish to refer to <a target="_blank" href="https://www.csa.gov.sg/legislation/consultations/industry-consultation">Annex B of the closing note</a> published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
 </details>
 <details>
 <summary><h5>20. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
