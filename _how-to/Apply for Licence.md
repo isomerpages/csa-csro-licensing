@@ -17,7 +17,8 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
   </td>
   </tr><tr>
 	<td>Licence Fees for each Licence</td>
-   <td>Business entity - S$1000<br>Individual - S$500</td>
+   <td>***(A) For applications approved before 1 February 2026***
+		 <br>Business entity - S$1000<br>Individual - S$500</td>
   </tr>
   <tr>
 	<td>Refund</td>
