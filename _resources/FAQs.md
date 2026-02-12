@@ -45,8 +45,8 @@ Individual employees of cybersecurity service providers providing licensable cyb
 <details>
 <summary><h5>7. What do I need to ensure prior to applying for a licence?</h5></summary>
 	
-Business entities are required to ensure that officer of the business entity is fit and proper when applying for a licence. Officer of a business entity refers to any director or partner, or other person listed in the business entity’s business profile e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary, or any other person who is responsible for the management of the business entity. Individuals who are applying for the licence should also be a fit and proper person to hold the licence. <br>
-With effect from 1 February 2026  , business entities and individuals applying for the licence are required to hold an active certificate for Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent covering the required scope for the applied licensable cybersecurity service(s) at the point of licence application and/or renewal.* <br>
+Business entities are required to ensure that officer of the business entity is fit and proper when applying for a licence. Officer of a business entity refers to any director or partner, or other person listed in the business entity’s business profile e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary, or any other person who is responsible for the management of the business entity. Individuals who are applying for the licence should also be a fit and proper person to hold the licence. <br><br>
+With effect from 1 February 2026, business entities and individuals applying for the licence are required to hold an active certificate for Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent covering the required scope for the applied licensable cybersecurity service(s) at the point of licence application and/or renewal.* <br>
 Failing which, the licence application may be rejected.<br><br>
 <em>*Applicants and licensees will be given a grace period of until 31 December 2026 to obtain and maintain an active certificate for CTM Promoter (Tier 3) or equivalent covering the required scope for the applied licensable cybersecurity service(s) for the duration of the Licence.</em>
 </details>
@@ -115,7 +115,7 @@ CSRO will continue to monitor international and industry trends and engage the i
 <details>
 <summary><h5>18. What are the conditions of the licence?</h5></summary>
 
-CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found <a href="">here.</a>
+CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found <a target="_blank" href="">here.</a>
 </details>
 <details>
 <summary><h5>19. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
@@ -130,7 +130,7 @@ A licence is valid for a period of 2 years and the licence fees for individuals 
 <details>
 <summary><h5>21. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
 	
-Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of application and new licence application will have to be submitted.
+Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a target="_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of application and new licence application will have to be submitted.
 </details> 
 <details>
 <summary><h5>22. When should licence renewal application be submitted?</h5></summary>
@@ -140,7 +140,7 @@ An application for renewal of a licence must be made no later than 2 months befo
 <details>
 <summary><h5>23. How is the licence renewal application process like?</h5></summary>
 	
-When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, Licensee will be required to make ePayment via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
+When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, Licensee will be required to make ePayment via the <a target="_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
 </details> 
 <details>
 <summary><h5>24. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
@@ -150,7 +150,7 @@ If you are facing any technical difficulties or require any assistance on how to
 <details>
 <summary><h5>25. How do I request to terminate a licence?</h5></summary>
 	
-Licensees who wish to terminate their licence before expiry should submit an application via the <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> within 14 calendar days before ceasing the business of providing the licensable cybersecurity service.
+Licensees who wish to terminate their licence before expiry should submit an application via the <a target="_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> within 14 calendar days before ceasing the business of providing the licensable cybersecurity service.
 </details>
 <details>
 <summary><h5>26. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
@@ -158,7 +158,7 @@ Licensees who wish to terminate their licence before expiry should submit an app
 Licensee is required to update changes to their details for the following changes:
 <ol><font size="3.5">a) Changes to Key Executive Officers;<br>b)	Additional of Key Officers;<br>c)	Removal of Key Officers; and<br>d) Changes to the other information of the licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and officers of business entity.</font></ol>
 
-Licensees may refer to <a href="https://www.csro.gov.sg/how-to/update-licence/">here</a> for more information on the notification method and/or supporting documentation required for the update.
+Licensees may refer to <a target="_blank" href="https://www.csro.gov.sg/how-to/update-licence/">here</a> for more information on the notification method and/or supporting documentation required for the update.
 </details>
 <details>
 <summary><h5>27. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
