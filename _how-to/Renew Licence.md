@@ -9,11 +9,11 @@ Licensee is required to submit a licence renewal application <b>no less than two
 #### At A Glance
 <table class="table-v">
   <tbody><tr>
-    <td width="45%">Licence Renewal Fees for each Licence</td>
+    <td>Licence Renewal Fees for each Licence</td>
 			<td>
 				<b>(A) For applications approved before 16 March 2026</b>
-				<br>Business entity - S$1000<br>Individual - S$500<br><br>
-  <b>(B) For applications approved on and after 16 March 2026</b>
+				<br>Business entity - S$1000<br>Individual - S$500<br>
+				<br><b>(B) For applications approved on and after 16 March 2026</b>
   <br>Business entity - S$2500<br>Individual - S$1250<br></td>
   </tr>
   <tr>
