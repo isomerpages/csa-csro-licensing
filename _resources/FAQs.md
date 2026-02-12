@@ -125,7 +125,7 @@ Licensees should ensure that records collectively capture all the required infor
 <details>
 <summary><h5>20. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
 	
-A licence is valid for a period of 2 years and the licence fees for individuals and business entities are $500 and $1000 respectively.
+For licence applications approved from 16 March 2026, a licence is valid for a period of 5 years and the licence fees for individuals and business entities are $1250 and $2500 respectively.
 </details>
 <details>
 <summary><h5>21. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
@@ -150,20 +150,20 @@ If you are facing any technical difficulties or require any assistance on how to
 <details>
 <summary><h5>25. How do I request to terminate a licence?</h5></summary>
 	
-Licensees who wish to terminate their licence before expiry should submit an application via the <a target="_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> within 14 calendar days before ceasing the business of providing the licensable cybersecurity service.
+Licensees who wish to terminate their licence before expiry should submit an application via the <a target="_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
 </details>
 <details>
 <summary><h5>26. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
 	
 Licensee is required to update changes to their details for the following changes:
-<ol><font size="3.5">a) Changes to Key Executive Officers;<br>b)	Additional of Key Officers;<br>c)	Removal of Key Officers; and<br>d) Changes to the other information of the licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, address, telephone number, email address, gender, designation, certifications of existing applicant and officers of business entity.</font></ol>
+<ol><font size="3.5">a) Changes to Key Executive Officers;<br>b)	Additional of Key Officers;<br>c)	Removal of Key Officers; and<br>d) Changes to the other information of the licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, certifications of existing applicant and officers of business entity.</font></ol>
 
 Licensees may refer to <a target="_blank" href="https://www.csro.gov.sg/how-to/update-licence/">here</a> for more information on the notification method and/or supporting documentation required for the update.
 </details>
 <details>
 <summary><h5>27. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
 	
-The licensee shall notify the Licensing Officer within 14 days after the appointment of any new key officer(s) and/or the cessation of existing key officer(s). Licensees are also required to notify the licensing officer of any change or inaccuracy in the information and particulars that the licensee and/or its key officers have submitted to the licensing officer in relation to its licence within 14 days. Licensees are reminded to ensure that any new key officer who is appointed must be fit and proper as defined in section 26(8) of the Act, failing which may result in punitive measures being imposed on the licensee, including revocation or suspension of licence.
+The licensee shall notify the Licensing Officer within 30 days after the appointment of any new key officer(s) and/or the cessation of existing key officer(s). Licensees are also required to notify the licensing officer of any change or inaccuracy in the information and particulars that the licensee and/or its key officers have submitted to the licensing officer in relation to its licence within 30 days. Licensees are reminded to ensure that any new key officer who is appointed must be fit and proper as defined in section 26(8) of the Act, failing which may result in punitive measures being imposed on the licensee, including revocation or suspension of licence.
 </details>
 <details>
 <summary><h5>28. Will it be an offence to use unlicensed cybersecurity service providers?</h5></summary>
@@ -183,5 +183,5 @@ For further assistance, please contact us at:
 <br><br>
 Cybersecurity Services Regulation Office<br>
 92 Punggol Way<br>Level 8 North <br>Singapore 829854
-<br><br>Email: <a href="mailto:contact@csro.gov.sg">contact@csro.gov.sg</a>
+<br><br>Email: <a href="mailto:contact@csro.gov.sg" target="_blank">contact@csro.gov.sg</a>
 </details>
