@@ -39,11 +39,13 @@ Licensee is encouraged to submit its licence renewal application once the licens
 <ul><li><font size="4.5">Renewed licence validity period will start from the end of the current licence validity period.</font></li></ul>
 
 #### Criteria for Renewal of a Licence 
-To be eligible for renewal, applicant is required to be fit and proper.
+To be eligible for renewal, applicant is required to;
+<br> 1. Be fit and proper; and<br> 2. With effect from 16 March 2026, hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
 
 <font size="4.5">Note:</font>
 	
-<ul><li><font size="4.5">Business entity licensee should ensure the following officers are included as officers of the business entity in the licence application:</font></li></ul>
+<ul><font size="4.5"><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification.</li></font>
+	<li><font size="4.5">Business entity licensee should ensure the following officers are included as officers of the business entity in the licence application:</font></li></ul>
 <ol><ol><ol><li><font size="4.5">Any director, partner, or other person who is listed in the business entity’s business profile, e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary; and</font></li>
 <li><font size="4.5">Any other person who is responsible for the management of the business entity.</font></li></ol></ol></ol>
 <ul><li><font size="4.5">Each business entity licensee should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</font></li></ul>
