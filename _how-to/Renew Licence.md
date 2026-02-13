@@ -9,8 +9,12 @@ Licensee is required to submit a licence renewal application <b>no less than two
 #### At A Glance
 <table class="table-v">
   <tbody><tr>
-    <td width="45%">Licence Renewal Fees for each Licence</td>
-			<td width="55%">Business entity - S$1000<br>Individual - S$500<br></td>
+    <td>Licence Renewal Fees for each Licence</td>
+			<td>
+				<b>(A) For applications approved before 16 March 2026</b>
+				<br>Business entity - S$1000<br>Individual - S$500<br>
+				<br><b>(B) For applications approved on and after 16 March 2026</b>
+  <br>Business entity - S$2500<br>Individual - S$1250<br></td>
   </tr>
   <tr>
     <td>Refund</td>
@@ -18,7 +22,9 @@ Licensee is required to submit a licence renewal application <b>no less than two
   </tr>
   <tr>
     <td>Licence Validity Period</td>
-    <td>Two years starting from the end of current licence validity period.</td>
+    <td><b>(A) For applications approved before 16 March 2026</b><br>Two years starting from the end of the current licence validity period.<br><br>
+			<b>(B) For applications approved on and after 16 March 2026</b><br>
+			Five years starting from the end of the current licence validity period.</td>
   </tr>
     <tr><td>Application Processing Time</td>
     <td>The processing of licence renewal application may take up to two weeks, starting from the receipt of the complete application (with all supporting documents submitted). Applicant will be notified of the outcome of application via GoBusiness Licensing.</td>
@@ -33,11 +39,13 @@ Licensee is encouraged to submit its licence renewal application once the licens
 <ul><li><font size="4.5">Renewed licence validity period will start from the end of the current licence validity period.</font></li></ul>
 
 #### Criteria for Renewal of a Licence 
-To be eligible for renewal, applicant is required to be fit and proper.
+To be eligible for renewal, applicant is required to:
+<br> 1. Be fit and proper; and<br> 2. With effect from 16 March 2026, hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
 
 <font size="4.5">Note:</font>
 	
-<ul><li><font size="4.5">Business entity licensee should ensure the following officers are included as officers of the business entity in the licence application:</font></li></ul>
+<ul><font size="4.5"><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. Licensees are encouraged to begin certification processes early to avoid bottlenecks.</li></font>
+	<li><font size="4.5">Business entity licensee should ensure the following officers are included as officers of the business entity in the licence application:</font></li></ul>
 <ol><ol><ol><li><font size="4.5">Any director, partner, or other person who is listed in the business entity’s business profile, e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary; and</font></li>
 <li><font size="4.5">Any other person who is responsible for the management of the business entity.</font></li></ol></ol></ol>
 <ul><li><font size="4.5">Each business entity licensee should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</font></li></ul>
@@ -71,9 +79,9 @@ Please note that a copy of each document is required for <u>every</u> <i>officer
  <ul><li><font size="4.5">Supporting documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.</font></li></ul>
 
 ##### Unnotified changes<br>
-Licensees with unnotified change(s) such as the appointment and cessation of any officers of the business entity, and changes to or inaccuracies in the licensee’s and/or its officers of the business entity’s names, designation, address and contact particulars are required to duly declare such change(s) under Renewal Declaration (5) in the renewal application form and provide the relevant information on the unnotified change(s). <br>
+Licensees with unnotified change(s) such as the appointment and cessation of any officers of the business entity, and changes to or inaccuracies in the licensee’s and/or its officers of the business entity’s names, identity number are required to duly declare such change(s) under Renewal Declaration (5) in the renewal application form and provide the relevant information on the unnotified change(s). <br>
 
 Licensees are required to submit an amendment application in GoBusiness Licensing with the required details of the unnotified changes immediately or as soon as practicable after the issuance of the renewed licence. Failure to do so will result in a revocation or suspension of licence.
  
 ### Guide to Renew Licence
-Licensee may refer to this <a href="https://licensing.gobusiness.gov.sg/faq/manage-licences/renew">step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.
+Licensee may refer to this <a target="_blank" href="https://licensing.gobusiness.gov.sg/faq/manage-licences/renew">step-by-step guide</a> for the licence renewal application submission process via GoBusiness Licensing.

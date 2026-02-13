@@ -11,13 +11,17 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 #### At A Glance
 <table class="table-v">
     <tbody><tr>
-    <td width="45%">List of LCS as specified in the <a href="https://sso.agc.gov.sg/Act/CA2018?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
+    <td width="45%">List of LCS as specified in the <a target="_blank" href="https://sso.agc.gov.sg/Act/CA2018?ProvIds=Sc2-#Sc2-">Second Schedule of the Cybersecurity Act</a></td>
     <td width="55%">1. Managed security operations centre (SOC) monitoring service; and<br>
 2. Penetration testing service
   </td>
   </tr><tr>
 	<td>Licence Fees for each Licence</td>
-   <td>Business entity - S$1000<br>Individual - S$500</td>
+			<td><b>(A) For applications approved before 16 March 2026</b>
+		 <br>Business entity - S$1000<br>Individual - S$500<br><br>
+			<b>(B) For applications approved on and after 16 March 2026</b>
+		 <br>Business entity - S$2500<br>Individual - S$1250
+		</td>
   </tr>
   <tr>
 	<td>Refund</td>
@@ -25,7 +29,10 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
   </tr>
   <tr>
 	<td>Licence Validity Period</td>
-	<td>Two years from the date of licence issuance.</td>
+		<td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the date of licence issuance.<br><br>
+			<b>(B) For applications approved on and after 16 March 2026</b><br>
+			Five years from the date of licence issuance.
+		</td>
   </tr>
 	<tr>
 	<td>Application Processing Time</td>
@@ -35,16 +42,20 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 </tbody></table>
 
 
-<font size="4.5">Note:
-<li>All providers of LCS, regardless of whether they are companies or individuals who are engaged for such services, are required to obtain a licence, except for companies that provide LCS solely to their related companies or in-house consumers of LCS.</li>
+<font size="4.5"><b>Note:</b>
+<ul><ul><li>All providers of LCS, regardless of whether they are companies or individuals who are engaged for such services, are required to obtain a licence, except for companies that provide LCS solely to their related companies or in-house consumers of LCS.</li>
 	
-<li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li>
+<li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li></ul></ul>
 </font>
 	
 ### Submit Application
 
 #### Criteria for Grant of a Licence
-To be eligible for a licence, applicant is required to be fit and proper.
+To be eligible for a licence, applicant is required to:
+<br> 1. Be fit and proper; and<br> 2. With effect from 16 March 2026, hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
+<font size="4.5"><b>Note:</b></font>
+<font size="3"><ul><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification.</li></ul></font>
+
 
 #### Fit and Proper Criteria
 As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an individual or a business entity is a fit and proper person to hold or continue to hold a licence, the licensing officer may take into account any matter the licensing officer considers relevant, including any of the following:<br>
@@ -70,9 +81,19 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 	<ul><font size="4.5">2.	Any other person who is responsible for the management of the business entity.</font></ul></ul>
 <ul><ul><li><font size="4.5">Business entity applicant should specify one Key Executive Officer, which refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees. The remaining <i>officers of the business entity</i> would be termed as Key Officers in the licence application.</font></li></ul></ul>
 
+#### Requirement for Cyber Trust Mark Promoter (Tier 3) certification
+With effect from 16 March 2026 , applicants are required to hold an active certificate for CTM Promoter (Tier 3) or equivalent for the required scope of certification at the point of application. Upon issuance of the licence, licensees are also required to maintain an active certificate for the duration of the Licence. 
+<br><br>CTM Promoter (Tier 3) or equivalent certification are required to fulfil the following:
+<ul><li>Certification bodies must be accredited by SAC or equivalent national accreditation bodies; and</li>
+<li>Certification must cover the environment (people, processes, and technology) supporting the delivery of licensed cybersecurity service(s). Example of acceptable scope of certification includes:
+	<ul>a.	[For providers of one LCS] Provision of licensed cybersecurity services - Penetration testing or Provision of licensed cybersecurity services - Managed security operations centre (SOC) monitoring;<br>
+b.	[For providers of both LCS] Provision of licensed cybersecurity services – Penetration testing and Managed security operations centre monitoring.</ul></li></ul>
+<font size="4.5"><b>Note:</b>
+<ul><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. Licensees are encouraged to begin certification processes early to avoid bottlenecks.</li></ul></font>
+Applicant may refer to <a target="_blank" href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/cyber-trust/certification-for-the-cyber-trust-mark/">Certification for the Cyber Trust mark</a> for more information on CTM certification.
 
 #### Online application
-Application for licence is to be submitted online via <a href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit <a href="https://www.corppass.gov.sg">www.corppass.gov.sg</a> or <a href="https://www.singpass.gov.sg">www.singpass.gov.sg</a>.
+Application for licence is to be submitted online via <a target="_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit <a target="_blank" href="https://www.corppass.gov.sg">www.corppass.gov.sg</a> or <a target="_blank" href="https://www.singpass.gov.sg">www.singpass.gov.sg</a>.
 
 
 
@@ -102,4 +123,4 @@ A copy of each document is required for <u>every</u> <i>officer of the business 
 
 ### Guide to New Licence Application
 
-Applicant may refer to the <a href="https://licensing.gobusiness.gov.sg/faq/applying-for-licences#licence-applications">step-by-step guide </a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
+Applicant may refer to the <a target="_blank" href="https://licensing.gobusiness.gov.sg/faq/applying-for-licences#licence-applications">step-by-step guide </a> which serves to guide cybersecurity service providers on the application submission process in GoBusiness Licensing.
