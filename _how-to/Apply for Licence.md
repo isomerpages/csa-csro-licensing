@@ -29,9 +29,9 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
   </tr>
   <tr>
 	<td>Licence Validity Period</td>
-		<td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the end of the current licence validity period.<br><br>
+		<td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the date of licence issuance.<br><br>
 			<b>(B) For applications approved on and after 16 March 2026</b><br>
-			Five years from the end of the current licence validity period.
+			Five years from the date of licence issuance.
 		</td>
   </tr>
 	<tr>
@@ -54,7 +54,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 To be eligible for a licence, applicant is required to
 <br> 1. Be fit and proper; and<br> 2. With effect from 16 March 2026, hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
 <font size="4.5"><b>Note:</b>
-<li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. Licensees are encouraged to begin certification processes early to avoid bottlenecks.</li></font>
+<li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification.</li></font>
 
 
 #### Fit and Proper Criteria
