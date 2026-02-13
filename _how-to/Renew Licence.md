@@ -22,9 +22,9 @@ Licensee is required to submit a licence renewal application <b>no less than two
   </tr>
   <tr>
     <td>Licence Validity Period</td>
-    <td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the date of licence issuance.<br><br>
+    <td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the end of the current licence validity period.<br><br>
 			<b>(B) For applications approved on and after 16 March 2026</b><br>
-			Five years from the date of licence issuance.</td>
+			Five years from the end of the current licence validity period.</td>
   </tr>
     <tr><td>Application Processing Time</td>
     <td>The processing of licence renewal application may take up to two weeks, starting from the receipt of the complete application (with all supporting documents submitted). Applicant will be notified of the outcome of application via GoBusiness Licensing.</td>
@@ -44,7 +44,7 @@ To be eligible for renewal, applicant is required to;
 
 <font size="4.5">Note:</font>
 	
-<ul><font size="4.5"><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification.</li></font>
+<ul><font size="4.5"><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. Licensees are encouraged to begin certification processes early to avoid bottlenecks.</li></font>
 	<li><font size="4.5">Business entity licensee should ensure the following officers are included as officers of the business entity in the licence application:</font></li></ul>
 <ol><ol><ol><li><font size="4.5">Any director, partner, or other person who is listed in the business entity’s business profile, e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary; and</font></li>
 <li><font size="4.5">Any other person who is responsible for the management of the business entity.</font></li></ol></ol></ol>
