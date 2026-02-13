@@ -83,7 +83,7 @@ As stipulated in section 26(8) of the Cybersecurity Act, in deciding whether an 
 
 #### Requirement for Cyber Trust Mark Promoter (Tier 3) certification
 With effect from 16 March 2026 , applicants are required to hold an active certificate for CTM Promoter (Tier 3) or equivalent for the required scope of certification at the point of application. Upon issuance of the licence, licensees are also required to maintain an active certificate for the duration of the Licence. 
-<br>CTM Promoter (Tier 3) or equivalent certification are required to fulfil the following:
+<br><br>CTM Promoter (Tier 3) or equivalent certification are required to fulfil the following:
 <ul><li>Certification bodies must be accredited by SAC or equivalent national accreditation bodies; and</li>
 <li>Certification must cover the environment (people, processes, and technology) supporting the delivery of licensed cybersecurity service(s). Example of acceptable scope of certification includes:
 	<ul>a.	[For providers of one LCS] Provision of licensed cybersecurity services - Penetration testing or Provision of licensed cybersecurity services - Managed security operations centre (SOC) monitoring;<br>
@@ -91,7 +91,6 @@ b.	[For providers of both LCS] Provision of licensed cybersecurity services – 
 <font size="4.5"><b>Note:</b>
 <li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. Licensees are encouraged to begin certification processes early to avoid bottlenecks.</li></font>
 Applicant may refer to <a target="_blank" href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/cyber-trust/certification-for-the-cyber-trust-mark/">Certification for the Cyber Trust mark</a> for more information on CTM certification.
-
 #### Online application
 Application for licence is to be submitted online via <a target="_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit <a target="_blank" href="https://www.corppass.gov.sg">www.corppass.gov.sg</a> or <a target="_blank" href="https://www.singpass.gov.sg">www.singpass.gov.sg</a>.
 
