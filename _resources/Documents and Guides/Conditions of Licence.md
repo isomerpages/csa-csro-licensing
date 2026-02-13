@@ -34,7 +34,7 @@ Service Providers) Regulations.</p>
 <p>Conditions of Licence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/conditions_of_licence_wef_16_March_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to Download</a>
+<p><a href="/files/Annex/conditions_of_licence_wef_16_March_2026.pdf" rel="noopener nofollow" target="_blank">Click to Download </a>
 </p>
 </td>
 </tr>
