@@ -115,7 +115,7 @@ CSRO will continue to monitor international and industry trends and engage the i
 <details>
 <summary><h5>18. What are the conditions of the licence?</h5></summary>
 
-CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found <a href="/resources/documents-and-guides/conditions-of-licence/">here.</a>
+CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found <a href="/resources/documents-and-guides/annex">here.</a>
 </details>
 <details>
 <summary><h5>19. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
