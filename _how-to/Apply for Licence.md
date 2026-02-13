@@ -29,9 +29,9 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
   </tr>
   <tr>
 	<td>Licence Validity Period</td>
-		<td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the date of licence issuance.<br><br>
+		<td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the end of the current licence validity period.<br><br>
 			<b>(B) For applications approved on and after 16 March 2026</b><br>
-			Five years from the date of licence issuance.
+			Five years from the end of the current licence validity period.
 		</td>
   </tr>
 	<tr>
