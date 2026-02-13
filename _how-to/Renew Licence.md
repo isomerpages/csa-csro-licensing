@@ -39,7 +39,7 @@ Licensee is encouraged to submit its licence renewal application once the licens
 <ul><li><font size="4.5">Renewed licence validity period will start from the end of the current licence validity period.</font></li></ul>
 
 #### Criteria for Renewal of a Licence 
-To be eligible for renewal, applicant is required to;
+To be eligible for renewal, applicant is required to:
 <br> 1. Be fit and proper; and<br> 2. With effect from 16 March 2026, hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
 
 <font size="4.5">Note:</font>
