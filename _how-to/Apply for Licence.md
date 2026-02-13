@@ -43,9 +43,9 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 
 
 <font size="4.5"><b>Note:</b>
-<li>All providers of LCS, regardless of whether they are companies or individuals who are engaged for such services, are required to obtain a licence, except for companies that provide LCS solely to their related companies or in-house consumers of LCS.</li>
+<ul><li>All providers of LCS, regardless of whether they are companies or individuals who are engaged for such services, are required to obtain a licence, except for companies that provide LCS solely to their related companies or in-house consumers of LCS.</li>
 	
-<li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li>
+<li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li></ul>
 </font>
 	
 ### Submit Application
