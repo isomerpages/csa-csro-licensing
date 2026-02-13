@@ -46,7 +46,7 @@ Individual employees of cybersecurity service providers providing licensable cyb
 <summary><h5>7. What do I need to ensure prior to applying for a licence?</h5></summary>
 	
 Business entities are required to ensure that officer of the business entity is fit and proper when applying for a licence. Officer of a business entity refers to any director or partner, or other person listed in the business entity’s business profile e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary, or any other person who is responsible for the management of the business entity. Individuals who are applying for the licence should also be a fit and proper person to hold the licence. <br><br>
-With effect from 1 February 2026, business entities and individuals applying for the licence are required to hold an active certificate for Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent covering the required scope for the applied licensable cybersecurity service(s) at the point of licence application and/or renewal.* <br>
+With effect from 16 March 2026, business entities and individuals applying for the licence are required to hold an active certificate for Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent covering the required scope for the applied licensable cybersecurity service(s) at the point of licence application and/or renewal.* <br>
 Failing which, the licence application may be rejected.<br><br>
 <em>*Applicants and licensees will be given a grace period of until 31 December 2026 to obtain and maintain an active certificate for CTM Promoter (Tier 3) or equivalent covering the required scope for the applied licensable cybersecurity service(s) for the duration of the Licence.</em>
 </details>
