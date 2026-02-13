@@ -22,9 +22,9 @@ Licensee is required to submit a licence renewal application <b>no less than two
   </tr>
   <tr>
     <td>Licence Validity Period</td>
-    <td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the end of the current licence validity period.<br><br>
+    <td><b>(A) For applications approved before 16 March 2026</b><br>Two years starting from the end of the current licence validity period.<br><br>
 			<b>(B) For applications approved on and after 16 March 2026</b><br>
-			Five years from the end of the current licence validity period.</td>
+			Five years starting from the end of the current licence validity period.</td>
   </tr>
     <tr><td>Application Processing Time</td>
     <td>The processing of licence renewal application may take up to two weeks, starting from the receipt of the complete application (with all supporting documents submitted). Applicant will be notified of the outcome of application via GoBusiness Licensing.</td>
