@@ -89,7 +89,7 @@ With effect from 16 March 2026 , applicants are required to hold an active certi
 	<ul>a.	[For providers of one LCS] Provision of licensed cybersecurity services - Penetration testing or Provision of licensed cybersecurity services - Managed security operations centre (SOC) monitoring;<br>
 b.	[For providers of both LCS] Provision of licensed cybersecurity services – Penetration testing and Managed security operations centre monitoring.</ul></li></ul>
 <font size="4.5"><b>Note:</b>
-<li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. Licensees are encouraged to begin certification processes early to avoid bottlenecks.</li></font>
+<ul><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. Licensees are encouraged to begin certification processes early to avoid bottlenecks.</li></ul></font>
 Applicant may refer to <a target="_blank" href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/cyber-trust/certification-for-the-cyber-trust-mark/">Certification for the Cyber Trust mark</a> for more information on CTM certification.
 
 #### Online application
