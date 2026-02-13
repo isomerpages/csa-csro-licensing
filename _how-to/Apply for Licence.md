@@ -51,7 +51,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 ### Submit Application
 
 #### Criteria for Grant of a Licence
-To be eligible for a licence, applicant is required to:
+To be eligible for a licence, applicant is required to;
 <br> 1. Be fit and proper; and<br> 2. With effect from 16 March 2026, hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
 <font size="4.5"><b>Note:</b></font>
 <font size="3"><ul><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification.</li></ul></font>
