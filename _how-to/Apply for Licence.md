@@ -51,7 +51,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 ### Submit Application
 
 #### Criteria for Grant of a Licence
-To be eligible for a licence, applicant is required to
+To be eligible for a licence, applicant is required to:
 <br> 1. Be fit and proper; and<br> 2. With effect from 16 March 2026, hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
 <font size="4.5"><b>Note:</b>
 <li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification.</li></font>
@@ -87,10 +87,11 @@ With effect from 16 March 2026 , applicants are required to hold an active certi
 <ul><li>Certification bodies must be accredited by SAC or equivalent national accreditation bodies; and</li>
 <li>Certification must cover the environment (people, processes, and technology) supporting the delivery of licensed cybersecurity service(s). Example of acceptable scope of certification includes:
 	<ul>a.	[For providers of one LCS] Provision of licensed cybersecurity services - Penetration testing or Provision of licensed cybersecurity services - Managed security operations centre (SOC) monitoring;<br>
-b.	[For providers of both LCS] Provision of licensed cybersecurity services – Penetration testing and Managed security operations centre monitoring.</ul></li></ul><br>
+b.	[For providers of both LCS] Provision of licensed cybersecurity services – Penetration testing and Managed security operations centre monitoring.</ul></li></ul>
 <font size="4.5"><b>Note:</b>
 <li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification. Licensees are encouraged to begin certification processes early to avoid bottlenecks.</li></font>
 Applicant may refer to <a target="_blank" href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/cyber-trust/certification-for-the-cyber-trust-mark/">Certification for the Cyber Trust mark</a> for more information on CTM certification.
+
 #### Online application
 Application for licence is to be submitted online via <a target="_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>. Do note that CorpPass or SingPass credential is required to access the system. For more information on CorpPass or SingPass, please visit <a target="_blank" href="https://www.corppass.gov.sg">www.corppass.gov.sg</a> or <a target="_blank" href="https://www.singpass.gov.sg">www.singpass.gov.sg</a>.
 
