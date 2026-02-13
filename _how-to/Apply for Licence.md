@@ -43,9 +43,9 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 
 
 <font size="4.5"><b>Note:</b>
-<ul><li>All providers of LCS, regardless of whether they are companies or individuals who are engaged for such services, are required to obtain a licence, except for companies that provide LCS solely to their related companies or in-house consumers of LCS.</li>
+<ul><ul><li>All providers of LCS, regardless of whether they are companies or individuals who are engaged for such services, are required to obtain a licence, except for companies that provide LCS solely to their related companies or in-house consumers of LCS.</li>
 	
-<li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li></ul>
+<li>Providers who offer or intend to offer both LCS are required to submit separate licence applications and obtain a licence for each LCS.</li></ul></ul>
 </font>
 	
 ### Submit Application
@@ -54,7 +54,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
 To be eligible for a licence, applicant is required to:
 <br> 1. Be fit and proper; and<br> 2. With effect from 16 March 2026, hold an active Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification.<br>
 <font size="4.5"><b>Note:</b></font>
-<font size="3.5"><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification.</li></font>
+<font size="3"><ul><li>A grace period until 31 December 2026 will be given for licensees to obtain the required CTM Promoter (Tier 3) certification.</li></ul></font>
 
 
 #### Fit and Proper Criteria
