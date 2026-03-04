@@ -4,12 +4,14 @@ permalink: /how-to/update-licence/
 description: ""
 variant: markdown
 ---
-<p>Licensee is required to notify CSRO of any change or inaccuracy in the information and particulars that the licensee and/or its <em>officers of the business entity</em> submitted to the Licensing Officer in relation to the licence, <u>within 30 calendar days</u> of such change or upon knowledge of such inaccuracy. Such information and particulars include, but are not limited to: </p>
+<p>With effect from 16 March 2026, licensee is required to notify CSRO of any change or inaccuracy in the information and particulars that the licensee and/or its <em>officers of the business entity</em> submitted to the Licensing Officer in relation to the licence, <u>within 30 calendar days</u>* of such change or upon knowledge of such inaccuracy. Such information and particulars include, but are not limited to: </p>
 <ul>(a) The <em>appointment</em> of any officers of the business entity; </ul>
 <ul> (b) When an officer of the business entity <em>ceases</em> to hold such office;</ul>
 <ul> (c) Changes to or inaccuracies in the licensee’s and/or its officers of the business entity’s names;</ul>
 <ul> (d) Criminal convictions or civil judgments entered against the licensee and/or its officers of the business entity for offences or proceedings involving fraud, dishonesty, breach of fiduciary duty, or moral turpitude, or any offences under the Cybersecurity Act 2018; or </ul>
 <ul> (e) Where the licensee and/or its officers of the business entity have been declared bankrupt or have gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction. </ul>
+<em>*Note: The 30 calendar days’ requirements will only take effect from 16 March 2026. Please note that the current 14 calendar days' requirement remained in force for all notification of change or inaccuracy in the information and particulars.</em>
+
 <h3>Submit Licence Update Details</h3>
 <p>The following table provides guidance on the method though which licensee
 shall submit their notifications to CSRO.</p>
