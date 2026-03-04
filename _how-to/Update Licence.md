@@ -4,7 +4,7 @@ permalink: /how-to/update-licence/
 description: ""
 variant: markdown
 ---
-*With effect from 16 March 2026*
+*Note: The 30 calendar days’ requirements will only take effect from 16 March 2026. Please note that the current 14 calendar days' requirement remained in force for all notification of change or inaccuracy in the information and particulars.*
 <p>Licensee is required to notify CSRO of any change or inaccuracy in the information and particulars that the licensee and/or its <em>officers of the business entity</em> submitted to the Licensing Officer in relation to the licence, <u>within 30 calendar days</u> of such change or upon knowledge of such inaccuracy. Such information and particulars include, but are not limited to: </p>
 <ul>(a) The <em>appointment</em> of any officers of the business entity; </ul>
 <ul> (b) When an officer of the business entity <em>ceases</em> to hold such office;</ul>
