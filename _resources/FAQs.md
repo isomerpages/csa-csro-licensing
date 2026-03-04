@@ -165,7 +165,7 @@ Licensees may refer to <a target="_blank" href="https://www.csro.gov.sg/how-to/u
 	
 The licensee shall notify the Licensing Officer within 30 days after the appointment of any new key officer(s) and/or the cessation of existing key officer(s). Licensees are also required to notify the licensing officer of any change or inaccuracy in the information and particulars that the licensee and/or its key officers have submitted to the licensing officer in relation to its licence within 30 days. Licensees are reminded to ensure that any new key officer who is appointed must be fit and proper as defined in section 26(8) of the Act, failing which may result in punitive measures being imposed on the licensee, including revocation or suspension of licence.
 	
-*Note: The 30 calendar days’ requirements will only take effect from 16 March 2026. Please note that the current 14 calendar days' requirement remained in force for all notification of change or inaccuracy in the information and particulars.*
+<br>Note: The 30 calendar days’ requirements will only take effect from 16 March 2026. Please note that the current 14 calendar days' requirement remained in force for all notification of change or inaccuracy in the information and particulars.
 </details>
 <details>
 <summary><h5>28. Will it be an offence to use unlicensed cybersecurity service providers?</h5></summary>
