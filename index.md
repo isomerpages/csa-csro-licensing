@@ -23,6 +23,16 @@ sections:
           description: For Consumers and Applicants
           url: /resources/documents-and-guides/guides
   - infopic:
+      title: Update to licensing framework with effect from 16 March 2026
+      id: infopic
+      description: Licensees must comply with updated licence conditions, including
+        maintaining active Cyber Trust Mark (CTM) Promoter (Tier 3)
+        certification.
+      button: Submit CTM certification status
+      url: https://go.gov.sg/licensee-submission-of-certification-information
+      image: /images/EDMFINAL_cned_16032026_v2_el__yl_.jpg
+      alt: Image alt text
+  - infopic:
       title: "Consultation: Proposed changes to the Licensing Framework"
       id: infopic
       description: Licensees and stakeholders are invited to provide feedback on the
