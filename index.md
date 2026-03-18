@@ -30,7 +30,7 @@ sections:
         certification.
       button: Submit CTM certification status
       url: https://go.gov.sg/licensee-submission-of-certification-information
-      image: /images/EDMFINAL_cned_16032026_v2_el__yl_.jpg
+      image: /images/edm_18032026.jpg
       alt: Image alt text
   - infopic:
       title: "Consultation: Proposed changes to the Licensing Framework"
