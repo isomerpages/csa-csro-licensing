@@ -15,7 +15,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Any text here <i>including HTML</i>
+      - other: <iframe id="iframe" src="https://form.gov.sg/67e36abcc63d767fe06ec3e6"
+          style="width:100%;height:900px"></iframe>
     title: To contact CSRO, please fill in the form below.
 feedback: ""
 ---
