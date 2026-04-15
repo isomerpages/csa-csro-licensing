@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Cybersecurity Service Regulations Office
+agency_name: Cybersecurity Services Regulation Office
 locations:
   - address:
       - 92 Punggol Way
