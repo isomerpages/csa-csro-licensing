@@ -22,6 +22,13 @@ sections:
         - title: List of Guides
           description: For Consumers and Applicants
           url: /resources/documents-and-guides/guides
+  - infobar:
+      title: Forum for Licensed Cybersecurity Service Providers (CSPs)
+      id: infobar
+      description: CSRO is conducting a forum for CSPs for us to share information and
+        updates on licensing framework on 25 May 2026, 2pm (SGT) via MS Teams.
+      button: Click here to register
+      url: https://go.gov.sg/csro-forum-registration
   - infopic:
       title: Update to licensing framework with effect from 16 March 2026
       id: infopic
