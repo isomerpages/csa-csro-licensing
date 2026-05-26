@@ -79,7 +79,7 @@ sections:
       description: Everyone is encouraged to report any suspected vulnerability in a
         product or service directly to the System Owner(s).
       button: find out more about VDP
-      url: https://www.csa.gov.sg/faqs/singcert/
+      url: https://www.csa.gov.sg/resources/singcert/csa-as-a-cve-numbering-authority--cna-/
       image: /images/singcert_edm_v10-01.jpg
       alt: EDM
 ---
