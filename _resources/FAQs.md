@@ -177,7 +177,7 @@ We do not intend to be prescriptive on the format of the Certificate of Clearanc
 
 <summary><h5>17. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
 
-Each licence application takes up to approximately 8 weeks to process upon submission of a completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the&nbsp;[GoBusiness Licensing](https://www.gobusiness.gov.sg/)&nbsp;prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of the application and new licence application will have to be submitted.
+Each licence application takes up to approximately 8 weeks to process upon submission of a completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a target="\_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of the application and new licence application will have to be submitted.
 
 </details>
 
@@ -206,7 +206,7 @@ An application for renewal of a licence must be made no later than 2 months befo
 <details>
 <summary><h5>21. How is the licence renewal application process like?</h5></summary>
 	
-When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and the applicant will be notified of the outcome via the system. If the application is approved, the licensee will be required to make an ePayment via [GoBusiness Licensing](https://www.gobusiness.gov.sg/).
+When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and the applicant will be notified of the outcome via the system. If the application is approved, the licensee will be required to make an ePayment via <a target="\_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
 </details>
 <details>
 <summary><h5>22. Are licensees able to renew the licences before obtaining the Cyber Trust Mark (“CTM”) Promoter (Tier 3) certification?</h5></summary>
@@ -220,7 +220,7 @@ As long as a renewal application has been submitted within the renewal window, t
 **E. Licence Conditions and Obligations**
 <details>
 <summary><h5>24. What are the conditions of the licence?</h5></summary>
-CSRO intends to keep the licensing requirements simple to minimise operational costs for licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found&nbsp;here.
+CSRO intends to keep the licensing requirements simple to minimise operational costs for licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found<a target="\_blank" href="https://www.csro.gov.sg/resources/documents-and-guides/conditions-of-licence">here</a>.
 </details>
 <details>
 <summary><h5>25. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
