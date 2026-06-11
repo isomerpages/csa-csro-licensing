@@ -224,7 +224,7 @@ CSRO intends to keep the licensing requirements simple to minimise operational c
 </details>
 <details>
 <summary><h5>25. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
-Licensees should ensure that records capture all required information in sufficient detail, and are kept in a form that allows accountability and traceability in the event of an alleged misconduct or irregularities. You may also wish to refer to <a target="\_blank" href="https://www.csa.gov.sg/legislation/consultations/industry-consultation">Annex B of the closing note</a> published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
+Licensees should ensure that records capture all required information in sufficient detail, and are kept in a form that allows accountability and traceability in the event of an alleged misconduct or irregularities. You may also wish to refer to <a target="\_blank" href="https://www.csa.gov.sg/legislation/consultations/industry-consultation/">Annex B of the closing note</a> published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
 </details>
 
 <details>
@@ -242,7 +242,7 @@ Licensee is required to update the Licensing Officer of changes to their details
 a) Changes to Key Executive Officers; <br>
 b) Addition of Key Officers; <br>
 c) Removal of Key Officers; and <br>
-d) Changes to the other information of the licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, and certifications of the existing applicant and officers of the business entity.<br>
+d) Changes to the other information of the licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, and certifications of the existing applicant and officers of the business entity.<br><br>
 
 
 Licensees may refer to <a target="\_blank" href="https://www.csro.gov.sg/how-to/update-licence/">here</a> for more information on the notification method and/or supporting documentation required for the update.
