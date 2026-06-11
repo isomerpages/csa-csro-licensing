@@ -468,6 +468,25 @@ consumers such as the list of licensees and buyer’s guides.</p>
 <details class="isomer-details">
 <summary>30. Who can I contact for further details?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>For further assistance, please contact us at:</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>30. Who can I contact for further details?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For further assistance, please contact us at:</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>30. Who can I contact for further details?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For further assistance, please contact us at:</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>41. Who can I contact for further details?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>For further assistance, please contact us at:
 <br>
 <br>Cybersecurity Services Regulation Office
