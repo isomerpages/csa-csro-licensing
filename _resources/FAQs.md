@@ -158,7 +158,7 @@ Pursuant to regulation 2(2) of the Cybersecurity (Cybersecurity Service Provider
 <summary><h5>15. Who would require a Certificate of Clearance?</h5></summary>
 
 A Certificate of Clearance (or equivalent documentation) is required for each of the overseas officer(s) and shall be obtained from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, home country refers to the country of nationality.
-
+<br>
 <br>The Certificate of Clearance (or equivalent documentation) shall not be obtained earlier than three months before the date of licence application is submitted to CSRO.
 
 </details>
