@@ -22,7 +22,7 @@ Resellers, third-party vendors or overseas CSPs including the affiliates of a li
 <br>b) subsidiary of another corporation; or
 <br>c) subsidiary of the holding company of another corporation.</font></ol>
 
-<b>\*</b><i>Business entities providing software solution, platform or tool to support other cybersecurity services providers would not be required to be licensed unless these business entities also provide service offerings that include licensable cybersecurity services.</i>
+<b>*</b><i>Business entities providing software solution, platform or tool to support other cybersecurity services providers would not be required to be licensed unless these business entities also provide service offerings that include licensable cybersecurity services.</i>
 
 </details>
 
