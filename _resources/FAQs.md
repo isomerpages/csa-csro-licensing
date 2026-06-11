@@ -48,7 +48,7 @@ in Singapore. Generally, this may include, without limitation, persons
 with customers located in Singapore, and persons that have corporate or
 business presence in Singapore. Service providers should consider their
 business plans and activities (including any future business or expansion
-plan) to determine if licence is required.</p>
+plan) to determine if a licence is required.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -63,7 +63,7 @@ the distribution chain) of the licensable cybersecurity services.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>4. Are all companies under the same corporate group be required to apply
+<summary>4. Are all companies under the same corporate group required to apply
 for separate licences in order to provide licensable cybersecurity services?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Each business entity within the same corporate group is required to apply
@@ -85,11 +85,20 @@ centre monitoring service and a licence for penetration testing service).</p>
 <summary>6. Are the employees of cybersecurity service providers required to apply
 for an individual licence?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Individual employees of cybersecurity service providers providing licensable
+<p>Individual employees of cybersecurity service providers that provide licensable
 cybersecurity services on behalf of their employer are not required to
 be licenced.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>7. Are the employees of cybersecurity service providers required to apply
+for an individual licence?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>CSRO will</p>
+</div>
+</details>
+<p></p>
+<p>B. Licence Application</p>
 <details class="isomer-details">
 <summary>7. What do I need to ensure prior to applying for a licence?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
