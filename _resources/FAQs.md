@@ -289,10 +289,7 @@ Acceptable CTM Promoter (Tier 3) or equivalent certifications are required to fu
 <details>
 <summary><h5>34. What would be considered as a Cyber Trust Mark (“CTM”) Promoter (Tier 3) equivalent certification?</h5></summary>
 	
-As indicated in the <a target="\_blank" href="https://www.csa.gov.sg/legislation/consultations/closing-note-to-the-consultation-on-the-licensing-framework-for-cybersecurity-service-providers/">Closing Note to the Consultation on the Licensing Framework for Cybersecurity Service Providers</a>, ISO/IEC 27001 certification is currently the only recognised equivalent for CTM Promoter (Tier 3), as it is an international information security standard. Licensees that have obtained an acceptable ISO/IEC 27001 certificate will be deemed to have achieved CTM Advocate (Tier 5) certificate.<br>
-	
-CSRO will progressively review additional certifications and update the list where appropriate.
-</details>
+As indicated in the <a target="\_blank" href="https://www.csa.gov.sg/legislation/consultations/closing-note-to-the-consultation-on-the-licensing-framework-for-cybersecurity-service-providers/">Closing Note to the Consultation on the Licensing Framework for Cybersecurity Service Providers</a>, ISO/IEC 27001 certification is currently the only recognised equivalent for CTM Promoter (Tier 3), as it is an international information security standard. Licensees that have obtained an acceptable ISO/IEC 27001 certificate will be deemed to have achieved CTM Advocate (Tier 5) certificate.<br><br list="">
 <details>
 <summary><h5>35. Is there a grace period for licensees to obtain Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification?</h5></summary>
 All licensees, regardless of their current CTM Promoter (Tier 3) certification status, are given a grace period until 31 December 2026 to obtain the CTM Promoter (Tier 3) certification or equivalent certification. After this date, licensees must maintain an active CTM Promoter (Tier 3) or equivalent certification at all times to comply with the conditions of the licence.
@@ -349,4 +346,4 @@ Cybersecurity Services Regulation Office<br>
 
 <br><br>Email: <a href="mailto:contact@csro.gov.sg" target="\_blank">contact@csro.gov.sg</a>
 
-</details>
+</details></details>
