@@ -11,7 +11,7 @@ variant: markdown
 <details>
 
 <summary><h5>1. Who needs to apply for cybersecurity service provider's licence?</h5></summary>
-
+	
 All providers of managed security operations centre monitoring services and penetration testing services (i.e. licensable cybersecurity services) to the Singapore market will need to apply for a cybersecurity service provider’s licence, regardless of whether they are companies or individuals (i.e. freelancers or sole proprietorships owned and controlled by individuals) or third-party cybersecurity service providers (“CSPs”) that provide these services in support of other CSPs. However, a company that provides licensable cybersecurity services solely for its related company(ies) e.g. in-house service provider, does not require a licence.<b>#</b><br><br>
 
 Resellers, third-party vendors or overseas CSPs including the affiliates of a licensee who provide licensable cybersecurity services to the Singapore market would need to be licensed.<b>\*</b><br><br>
@@ -19,9 +19,7 @@ Resellers, third-party vendors or overseas CSPs including the affiliates of a li
 <b>#</b>According to the Companies Act, related company(ies) is defined as, but not limited to:
 
 <ol><font size="3.5">a) holding company of another corporation;
-
 <br>b) subsidiary of another corporation; or
-
 <br>c) subsidiary of the holding company of another corporation.</font></ol>
 
 <b>\*</b><i>Business entities providing software solution, platform or tool to support other cybersecurity services providers would not be required to be licensed unless these business entities also provide service offerings that include licensable cybersecurity services.</i>
