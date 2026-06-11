@@ -189,57 +189,6 @@ If you are experiencing any technical difficulties or need assistance with submi
 </details>
 
 
-
-**C. Licence Fees and Validity**
-
-<details>
-
-<summary><h5>19. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
-
-Licensees should ensure that records collectively capture all the required information with sufficient details and are kept in a form that allows accountability and traceability in the event of foul play. You may also wish to refer to <a target="\_blank" href="https://www.csa.gov.sg/legislation/consultations/industry-consultation">Annex B of the closing note</a> published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
-
-</details>
-
-<details>
-
-<summary><h5>20. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
-	
-For licence applications approved from 16 March 2026, a licence is valid for a period of 5 years and the licence fees for individuals and business entities are $1250 and $2500 respectively.
-
-</details>
-
-<details>
-	
-<summary><h5>21. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
-
-Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a target="\_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of application and new licence application will have to be submitted.
-
-</details>
-
-<details>
-
-<summary><h5>22. When should licence renewal application be submitted?</h5></summary>
-
-An application for renewal of a licence must be made no later than 2 months before expiry. Licensee who fails to submit their licence renewal application 2 months prior to the expiry may be required to apply for a new licence. This may result in a possible lapse in the licensure period where the business entity will be required to suspend its operations, until the outcome of its licence application is determined.
-
-</details>
-
-<details>
-
-<summary><h5>23. How is the licence renewal application process like?</h5></summary>
-
-When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and applicant will be notified of the outcome via the system. If the application is approved, Licensee will be required to make ePayment via the <a target="\_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
-
-</details>
-
-<details>
-
-<summary><h5>24. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
-
-If you are facing any technical difficulties or require any assistance on how to submit the application, you may contact GoBusiness Licensing Helpdesk at Tel: 63363373.
-
-</details>
-
 **C. Licence Fees and Validity**
 <details>
 <summary><h5>19. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
