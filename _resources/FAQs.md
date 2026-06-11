@@ -159,7 +159,7 @@ Pursuant to regulation 2(2) of the Cybersecurity (Cybersecurity Service Provider
 
 A Certificate of Clearance (or equivalent documentation) is required for each of the overseas officer(s) and shall be obtained from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, home country refers to the country of nationality.
 
-<br><br>The Certificate of Clearance (or equivalent documentation) shall not be obtained earlier than three months before the date of licence application is submitted to CSRO.
+<br>The Certificate of Clearance (or equivalent documentation) shall not be obtained earlier than three months before the date of licence application is submitted to CSRO.
 
 </details>
 
@@ -169,7 +169,7 @@ A Certificate of Clearance (or equivalent documentation) is required for each of
 
 We do not intend to be prescriptive on the format of the Certificate of Clearance (or equivalent documentation) from the relevant authorities in the home country. The applicant should ensure that the Certificate of Clearance (or equivalent documentation) minimally certifies that the officer of the business entity licence applicant does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, nationwide includes all states of the home country.
 
-<br><br>Certificate of Clearance (or equivalent documentation) not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, address and qualifications for making the translation.
+<br>Certificate of Clearance (or equivalent documentation) not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, address and qualifications for making the translation.
 
 </details>
 
@@ -202,14 +202,15 @@ Licensees should ensure that records collectively capture all the required infor
 
 <details>
 
-<summary><h5>20. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
-
+	<summary><h5>20. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
 For licence applications approved from 16 March 2026, a licence is valid for a period of 5 years and the licence fees for individuals and business entities are $1250 and $2500 respectively.
 
 </details>
 
 <details>
+	
 <summary><h5>21. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
+
 Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a target="\_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of application and new licence application will have to be submitted.
 
 </details>
