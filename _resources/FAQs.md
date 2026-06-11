@@ -123,7 +123,7 @@ Business entities are only required to include the Key Executive Officer and Key
 
 <summary><h5>12. How does the Licensing Officer determine whether the officers of a business entity applicant are fit and proper?</h5></summary>
 
-The Licensing Officer shall consider all relevant facts and matters when determining if officers of the business entity applicant are fit and proper, including whether any Key Executive Officer or Key Officers:
+The Licensing Officer shall consider all relevant facts and matters when determining if officers of the business entity applicant are fit and proper, including whether any Key Executive Officer or Key Officers:<br>
 
 <br>a)Has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
 
