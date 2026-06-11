@@ -169,23 +169,21 @@ A Certificate of Clearance (or equivalent documentation) is required for each of
 
 We do not intend to be prescriptive on the format of the Certificate of Clearance (or equivalent documentation) from the relevant authorities in the home country. The applicant should ensure that the Certificate of Clearance (or equivalent documentation) minimally certifies that the officer of the business entity licence applicant does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, nationwide includes all states of the home country.
 
-<br><br>Certificate of Clearance (or equivalent documentation) not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.
+<br><br>Certificate of Clearance (or equivalent documentation) not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, address and qualifications for making the translation.
 
 </details>
 
 <details>
 
-<summary><h5>16. Will quality requirements be imposed on the licensees?</h5></summary>
+<summary><h5>17. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
 
-The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset.
-
-<br><br>CSRO will work with the industry and professional association partners to introduce appropriate standards and certifications in the near future to improve the standing of cybersecurity professionals.
+Each licence application takes up to approximately 8 weeks to process upon submission of a completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the&nbsp;[GoBusiness Licensing](https://www.gobusiness.gov.sg/)&nbsp;prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of the application and new licence application will have to be submitted.
 
 </details>
 
 <details>
 
-<summary><h5>17. Will CSRO consider licensing other cybersecurity services in the future? </h5></summary>
+<summary><h5>18. Will CSRO consider licensing other cybersecurity services in the future? </h5></summary>
 
 CSRO will continue to monitor international and industry trends and engage the industry where necessary, to assess if any new types of cybersecurity services should be included in the licensing framework, such as those that are of higher risks to consumers.
 
@@ -193,11 +191,13 @@ CSRO will continue to monitor international and industry trends and engage the i
 
 <details>
 
-<summary><h5>18. What are the conditions of the licence?</h5></summary>
+<summary><h5>18.I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
 
-CSRO intends to keep the licensing requirements simple to minimise operational costs on licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found <a target="\_blank" href="/resources/documents-and-guides/conditions-of-licence">here.</a>
+If you are experiencing any technical difficulties or need assistance with submitting your application, you may contact GoBusiness Licensing Helpdesk at Tel: 63363373.
 
 </details>
+
+**C. Licence Fees and Validity**
 
 <details>
 
