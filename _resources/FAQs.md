@@ -202,7 +202,8 @@ Licensees should ensure that records collectively capture all the required infor
 
 <details>
 
-	<summary><h5>20. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
+<summary><h5>20. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
+	
 For licence applications approved from 16 March 2026, a licence is valid for a period of 5 years and the licence fees for individuals and business entities are $1250 and $2500 respectively.
 
 </details>
