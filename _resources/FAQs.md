@@ -238,7 +238,7 @@ CSRO will work with the industry and professional association partners to introd
 
 <summary><h5>27. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
 
-Licensee is required to update the Licensing Officer of changes to their details for the following changes:<br><br>
+Licensee is required to update the Licensing Officer of changes to their details for the following changes:<br>
 a) Changes to Key Executive Officers; <br>
 b) Addition of Key Officers; <br>
 c) Removal of Key Officers; and <br>
