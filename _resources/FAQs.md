@@ -167,7 +167,7 @@ A Certificate of Clearance (or equivalent documentation) is required for each of
 
 <summary><h5>16. What is the format for a Certificate of Clearance?</h5></summary>
 
-We do not intend to be prescriptive on the format of the Certificate of Clearance (or equivalent documentation) from the relevant authorities in the home country. The applicant should ensure that the Certificate of Clearance (or equivalent documentation) minimally certifies that the officer of the business entity licence applicant does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, nationwide includes all states of the home country.
+We do not intend to be prescriptive on the format of the Certificate of Clearance (or equivalent documentation) from the relevant authorities in the home country. The applicant should ensure that the Certificate of Clearance (or equivalent documentation) minimally certifies that the officer of the business entity licence applicant does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, nationwide includes all states of the home country.<br>
 
 <br>Certificate of Clearance (or equivalent documentation) not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, address and qualifications for making the translation.
 
