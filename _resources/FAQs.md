@@ -224,7 +224,7 @@ CSRO intends to keep the licensing requirements simple to minimise operational c
 </details>
 <details>
 <summary><h5>25. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
-Licensees should ensure that records capture all required information in sufficient detail, and are kept in a form that allows accountability and traceability in the event of an alleged misconduct or irregularities. You may also wish to refer to&nbsp;Annex B of the closing note&nbsp;published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
+Licensees should ensure that records capture all required information in sufficient detail, and are kept in a form that allows accountability and traceability in the event of an alleged misconduct or irregularities. You may also wish to refer to <a target="\_blank" href="https://www.csa.gov.sg/legislation/consultations/industry-consultation">Annex B of the closing note</a> published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
 </details>
 
 <details>
@@ -266,7 +266,7 @@ If a business entity undergoes a change in ownership, restructuring, or merger t
 <details>
 <summary><h5>31. How do I request to terminate a licence?</h5></summary>
 
-Licensees who wish to terminate their licence before its expiry should submit an application via&nbsp;[GoBusiness Licensing](https://www.gobusiness.gov.sg/).
+Licensees who wish to terminate their licence before its expiry should submit an application via the <a target="\_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
 </details>
 
 **F. Requirement for Cyber Trust Mark (“CTM”) Promoter (Tier 3) Certification**
@@ -274,7 +274,7 @@ Licensees who wish to terminate their licence before its expiry should submit an
 <details>
 <summary><h5>32. Am I required to obtain Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification?</h5></summary>
 
-Under the [updated conditions of licence](https://www.csro.gov.sg/resources/documents-and-guides/conditions-of-licence/), all licensees who are licensed to provide licensable cybersecurity services are required to hold an active CTM Promoter (Tier 3) or equivalent certification. This requirement applies uniformly regardless of the type or modality of licensable cybersecurity services provided. 
+Under the <a target="\_blank" href="https://www.csro.gov.sg/resources/documents-and-guides/conditions-of-licence/">updated conditions of licence</a>, all licensees who are licensed to provide licensable cybersecurity services are required to hold an active CTM Promoter (Tier 3) or equivalent certification. This requirement applies uniformly regardless of the type or modality of licensable cybersecurity services provided. 
 </details>
 <details>
 <summary><h5>33. What are the requirements for Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification?</h5></summary>
@@ -289,7 +289,7 @@ Acceptable CTM Promoter (Tier 3) or equivalent certifications are required to fu
 <details>
 <summary><h5>34. What would be considered as a Cyber Trust Mark (“CTM”) Promoter (Tier 3) equivalent certification?</h5></summary>
 	
-As indicated in the&nbsp;[Closing Note to the Consultation on the Licensing Framework for Cybersecurity Service Providers](https://www.csa.gov.sg/legislation/consultations/closing-note-to-the-consultation-on-the-licensing-framework-for-cybersecurity-service-providers), ISO/IEC 27001 certification is currently the only recognised equivalent for CTM Promoter (Tier 3), as it is an international information security standard. Licensees that have obtained an acceptable ISO/IEC 27001 certificate will be deemed to have achieved CTM Advocate (Tier 5) certificate.
+As indicated in the <a target="\_blank" href="https://www.csa.gov.sg/legislation/consultations/closing-note-to-the-consultation-on-the-licensing-framework-for-cybersecurity-service-providers/">Closing Note to the Consultation on the Licensing Framework for Cybersecurity Service Providers</a>, ISO/IEC 27001 certification is currently the only recognised equivalent for CTM Promoter (Tier 3), as it is an international information security standard. Licensees that have obtained an acceptable ISO/IEC 27001 certificate will be deemed to have achieved CTM Advocate (Tier 5) certificate.<br>
 	
 CSRO will progressively review additional certifications and update the list where appropriate.
 </details>
@@ -307,7 +307,7 @@ Licensees that do not hold an active CTM Promoter (Tier 3) or equivalent certifi
 <details>
 <summary><h5>37. How should licensee submit their Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification for assessment?</h5></summary>
 
-Licensee may submit their current CTM Promoter (Tier 3) certification status and all relevant supporting documents and information via [FormSG](https://go.gov.sg/licensee-submission-of-certification-information). CSRO will contact the licensee for more information if necessary, and provide an assessment outcome to the licensee upon completion of the assessment.
+Licensee may submit their current CTM Promoter (Tier 3) certification status and all relevant supporting documents and information via <a target="\_blank" href="https://go.gov.sg/licensee-submission-of-certification-information/">FormSG</a>. CSRO will contact the licensee for more information if necessary, and provide an assessment outcome to the licensee upon completion of the assessment.
 </details>
 
 **G. Consumer Guidance**
@@ -321,7 +321,7 @@ Consumers are therefore encouraged to only procure licensable cybersecurity serv
 <details>
 	<summary><h5>39. Where can I find the list of licensed cybersecurity service providers?</h5></summary>
 
-Consumers may refer to the [lists of licensed cybersecurity service providers](https://www.csro.gov.sg/resources/licensed-service-providers/). Consumers are also encouraged to verify that a cybersecurity service provider holds a valid licence before engaging their services.
+Consumers may refer to the <a target="\_blank" href="https://www.csro.gov.sg/resources/licensed-service-providers/">lists of licensed cybersecurity service providers</a>. Consumers are also encouraged to verify that a cybersecurity service provider holds a valid licence before engaging their services.
 	
 </details>
 
