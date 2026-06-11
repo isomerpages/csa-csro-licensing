@@ -291,7 +291,8 @@ Acceptable CTM Promoter (Tier 3) or equivalent certifications are required to fu
 	
 As indicated in the <a target="\_blank" href="https://www.csa.gov.sg/legislation/consultations/closing-note-to-the-consultation-on-the-licensing-framework-for-cybersecurity-service-providers/">Closing Note to the Consultation on the Licensing Framework for Cybersecurity Service Providers</a>, ISO/IEC 27001 certification is currently the only recognised equivalent for CTM Promoter (Tier 3), as it is an international information security standard. Licensees that have obtained an acceptable ISO/IEC 27001 certificate will be deemed to have achieved CTM Advocate (Tier 5) certificate.<br><br>
 
-CSRO will progressively review additional certifications and update the list where appropriate.</details>
+CSRO will progressively review additional certifications and update the list where appropriate.
+</details>
 
 <details>
 <summary><h5>35. Is there a grace period for licensees to obtain Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification?</h5></summary>
