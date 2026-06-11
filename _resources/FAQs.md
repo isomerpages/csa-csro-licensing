@@ -220,7 +220,7 @@ As long as a renewal application has been submitted within the renewal window, t
 **E. Licence Conditions and Obligations**
 <details>
 <summary><h5>24. What are the conditions of the licence?</h5></summary>
-CSRO intends to keep the licensing requirements simple to minimise operational costs for licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found<a target="\_blank" href="https://www.csro.gov.sg/resources/documents-and-guides/conditions-of-licence">here</a>.
+CSRO intends to keep the licensing requirements simple to minimise operational costs for licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found <a target="\_blank" href="https://www.csro.gov.sg/resources/documents-and-guides/conditions-of-licence">here</a>.
 </details>
 <details>
 <summary><h5>25. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
