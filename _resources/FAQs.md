@@ -91,10 +91,12 @@ be licenced.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>7. Are the employees of cybersecurity service providers required to apply
-for an individual licence?</summary>
+<summary>7. Will CSRO consider licensing other cybersecurity services in the future?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>CSRO will</p>
+<p>CSRO will continue to monitor international and industry trends and engage
+the industry where necessary, to assess if any new types of cybersecurity
+services should be included in the licensing framework, such as those that
+pose higher risks to consumers.</p>
 </div>
 </details>
 <p></p>
