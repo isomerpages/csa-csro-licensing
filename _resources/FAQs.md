@@ -100,7 +100,8 @@ pose higher risks to consumers.</p>
 </div>
 </details>
 <p></p>
-<p>B. Licence Application</p>
+<p><strong>B. Licence Application</strong>
+</p>
 <details class="isomer-details">
 <summary>8. What do I need to ensure prior to applying for a licence?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -540,6 +541,8 @@ CSRO will contact the licensee for more information if necessary, and provide
 an assessment outcome to the licensee upon completion of the assessment.</p>
 </div>
 </details>
+<p><strong>G. Consumer Guidance</strong>
+</p>
 <details class="isomer-details">
 <summary>38. Will it be an offence to use unlicensed cybersecurity service providers?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
