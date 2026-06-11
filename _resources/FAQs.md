@@ -216,9 +216,7 @@ For licence applications approved from 16 March 2026, a licence is valid for a p
 </details>
 
 <details>
-
 <summary><h5>21. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
-
 Each licence application takes up to approximately 8 weeks to process upon submission of completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via the <a target="\_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a> prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of application and new licence application will have to be submitted.
 
 </details>
@@ -247,46 +245,109 @@ If you are facing any technical difficulties or require any assistance on how to
 
 </details>
 
+**C. Licence Fees and Validity**
 <details>
+<summary><h5>19. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
+	
+For licence applications approved from 16 March 2026, a licence is valid for a period of 5 years and the licence fees for individuals and business entities are $1250 and $2500 respectively.
+</details>
 
-<summary><h5>25. How do I request to terminate a licence?</h5></summary>
+**D. Licence Renewal**
+<details>
+	<summary><h5>20. When should a licence renewal application be submitted?</h5></summary>
 
-Licensees who wish to terminate their licence before expiry should submit an application via the <a target="\_blank" href="https://www.gobusiness.gov.sg/">GoBusiness Licensing</a>.
+An application for renewal of a licence must be made no later than 2 months before the licence’s expiry. Licensee who fails to submit a licence renewal application 2 months prior to the expiry may be required to apply for a new licence. This may result in a possible lapse in the licensure period where the business entity will be required to suspend its operations, until the outcome of its licence application is determined.
+	</details>
 
+<details>
+<summary><h5>21. How is the licence renewal application process like?</h5></summary>
+	
+When a licence is due for renewal, the GoBusiness Licensing will send a reminder via email to the licensee. Upon timely submission of the licence renewal application, CSRO will proceed to review the application and the applicant will be notified of the outcome via the system. If the application is approved, the licensee will be required to make an ePayment via [GoBusiness Licensing](https://www.gobusiness.gov.sg/).
+</details>
+<details>
+<summary><h5>22. Are licensees able to renew the licences before obtaining the Cyber Trust Mark (“CTM”) Promoter (Tier 3) certification?</h5></summary>
+Licensees may proceed to renew for the licences regardless of their CTM Promoter (Tier 3) certification status. However, licensees are reminded to ensure that an active CTM Promoter (Tier 3) or equivalent certificate is obtained by the end of the grace period on 31 December 2026 to remain in compliance with the conditions of the licence.
+</details>
+<details>
+<summary><h5>23. If a licence renewal application has not been approved before the existing licence's expiry date, can licensees continue to provide licensable cybersecurity services?</h5></summary>
+As long as a renewal application has been submitted within the renewal window, the existing licence continues in force until the date on which the licence is renewed or the application for its renewal is refused, as the case may be. Licensees may therefore continue to provide licensable cybersecurity service(s) in the interim while the renewal application is being processed.
+</details>
+
+**E. Licence Conditions and Obligations**
+<details>
+<summary><h5>24. What are the conditions of the licence?</h5></summary>
+CSRO intends to keep the licensing requirements simple to minimise operational costs for licensees. The requirements that licensees must comply with, as stipulated in the Cybersecurity Act, can be found&nbsp;here.
+</details>
+<details>
+<summary><h5>25. Are there guidelines for the type(s) of records a licensee should maintain/keep?</h5></summary>
+Licensees should ensure that records capture all required information in sufficient detail, and are kept in a form that allows accountability and traceability in the event of an alleged misconduct or irregularities. You may also wish to refer to&nbsp;Annex B of the closing note&nbsp;published on CSA's website on 11 Apr 2022 for examples of record keeping requirements.
 </details>
 
 <details>
+	<summary><h5>26. Will quality requirements be imposed on licensees?</h5></summary>
+	
+The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset. <br>
 
-<summary><h5>26. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
+CSRO will work with the industry and professional association partners to introduce appropriate standards and certifications in the near future to improve the standing of cybersecurity professionals.
+</details>
+<details>
 
-Licensee is required to update changes to their details for the following changes:
+<summary><h5>27. What are the changes to business details that a licensee is required to inform the Licensing Officer?</h5></summary>
 
-<ol><font size="3.5">a) Changes to Key Executive Officers;<br>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional of Key Officers;<br>c)&nbsp;&nbsp;&nbsp;&nbsp; Removal of Key Officers; and<br>d) Changes to the other information of the licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, certifications of existing applicant and officers of business entity.</font></ol>
+Licensee is required to update the Licensing Officer of changes to their details for the following changes:<br><br>
+a) Changes to Key Executive Officers; <br>
+b) Addition of Key Officers; <br>
+c) Removal of Key Officers; and <br>
+d) Changes to the other information of the licensee and/or its officers of business entity such as changes to Name, Passport Number, Company Name, Company UEN, and certifications of the existing applicant and officers of the business entity.<br>
+
 
 Licensees may refer to <a target="\_blank" href="https://www.csro.gov.sg/how-to/update-licence/">here</a> for more information on the notification method and/or supporting documentation required for the update.
 
 </details>
 
 <details>
+<summary><h5>28. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
+With effect from 16 March 2026, the licensee shall notify the Licensing Officer within 30 days after the appointment of any new key officer(s) and/or the cessation of existing key officer(s). Licensees are also required to notify the licensing officer of any change or inaccuracy in the information and particulars that the licensee and/or its key officers have submitted to the licensing officer in relation to its licence within 30 days. Licensees are reminded to ensure that any new key officer who is appointed must be fit and proper as defined in section 26(8) of the Act, failing which punitive measures may be imposed on the licensee, including revocation or suspension of the licence.
+	</details>
+<details>
+	<summary><h5>29. Can I use the CSRO or CSA logo in our publicity materials?</h5></summary>
+Licensees are not permitted to use the CSRO or CSA logo for publicity purposes. Instead, licensees may use text to describe their licensure status, or direct clients to the list of Licensed Service Providers on the CSRO website, where the licensee’s licence details are reflected.<br><br>
+Please be reminded that under Section 6A(3)(a) of the Cybersecurity Act, a person who uses, without the Commissioner's prior written permission, a symbol or representation that is identical to the Cyber Security Agency of Singapore's symbol or representation — including the CSRO and CSA logo — shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months, or to both.
+</details>
+<details>
+	<summary><h5>30. My company is undergoing restructuring. Is the existing licence transferable?</h5></summary>
+A cybersecurity service provider's licence is not transferable and is unique to each licensee's registration number (such as UEN) as specified on the e-Licence.<br><br>
+If a business entity undergoes a change in ownership, restructuring, or merger that results in the setting up of a new entity (i.e. one with a different UEN), the new entity will be required to apply for a fresh licence before providing any licensable cybersecurity services.
+</details>
+<details>
+<summary><h5>31. How do I request to terminate a licence?</h5></summary>
 
-<summary><h5>27. When should I inform the Licensing Officer in the event of changes to key officer of my business?</h5></summary>
-
-With effect from 16 March 2026, the licensee shall notify the Licensing Officer within 30 days\* after the appointment of any new key officer(s) and/or the cessation of existing key officer(s). Licensees are also required to notify the licensing officer of any change or inaccuracy in the information and particulars that the licensee and/or its key officers have submitted to the licensing officer in relation to its licence within 30 days\*. Licensees are reminded to ensure that any new key officer who is appointed must be fit and proper as defined in section 26(8) of the Act, failing which may result in punitive measures being imposed on the licensee, including revocation or suspension of licence.
-
-<br>
-
-<br>\*Note: The 30 calendar days’ requirements will only take effect from 16 March 2026. Please note that the current 14 calendar days' requirement remained in force for all notification of change or inaccuracy in the information and particulars.
-
+Licensees who wish to terminate their licence before its expiry should submit an application via&nbsp;[GoBusiness Licensing](https://www.gobusiness.gov.sg/).
 </details>
 
+**F. Requirement for Cyber Trust Mark (“CTM”) Promoter (Tier 3) Certification**
+
 <details>
+<summary><h5>32. Am I required to obtain Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification?</h5></summary>
 
-<summary><h5>28. Will it be an offence to use unlicensed cybersecurity service providers?</h5></summary>
+Under the [updated conditions of licence](https://www.csro.gov.sg/resources/documents-and-guides/conditions-of-licence/), all licensees who are licensed to provide licensable cybersecurity services are required to hold an active CTM Promoter (Tier 3) or equivalent certification. This requirement applies uniformly regardless of the type or modality of licensable cybersecurity services provided. 
+</details>
+<details>
+<summary><h5>33. What are the requirements for Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification?</h5></summary>
 
-It will not be an offence under the Cybersecurity Act to use unlicensed cybersecurity service providers. However, consumers should be wary of the safety and security risks that unlicensed service providers may pose, given the service providers’ extensive access into their clients’ computer systems when providing their services. Any misuse of such confidential information by the unlicensed service providers may result in severe damages to the consumers.
-
-<br><br>Consumers are therefore encouraged to only procure licensable cybersecurity services from licensed cybersecurity service providers, and to inform CSRO of any service providers providing licensable cybersecurity services without a licence. Person who engages in the business of providing any licensable cybersecurity services to other person without a licence shall be guilty of an offence under Section 24 of the Cybersecurity Act and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both. Under Section 31 of the Cybersecurity Act, unlicensed cybersecurity service providers are also not entitled to bring any proceeding in any court to recover any commission, fee, gain, or reward for the service provided.
-
+Acceptable CTM Promoter (Tier 3) or equivalent certifications are required to fulfil the following requirements:
+<br>1.	Certification bodies must be accredited by the Singapore Accreditation Council or equivalent national accreditation bodies; and<br>
+2.	Certification must cover the environment (people, processes, and technology) supporting the delivery of the licensed cybersecurity service(s). Examples of acceptable scope of certification includes:<br>
+⦁	[For providers of one licensable cybersecurity service] Provision of licensed cybersecurity services - Penetration testing or Provision of licensed cybersecurity services - Managed security operations centre (SOC) monitoring<br>
+⦁	[For providers of both licensable cybersecurity services] Provision of licensed cybersecurity services – Penetration testing and Managed security operations centre monitoring
+</details>
+	
+<details>
+<summary><h5>34. What would be considered as a Cyber Trust Mark (“CTM”) Promoter (Tier 3) equivalent certification?</h5></summary>
+	
+As indicated in the&nbsp;[Closing Note to the Consultation on the Licensing Framework for Cybersecurity Service Providers](https://www.csa.gov.sg/legislation/consultations/closing-note-to-the-consultation-on-the-licensing-framework-for-cybersecurity-service-providers), ISO/IEC 27001 certification is currently the only recognised equivalent for CTM Promoter (Tier 3), as it is an international information security standard. Licensees that have obtained an acceptable ISO/IEC 27001 certificate will be deemed to have achieved CTM Advocate (Tier 5) certificate.
+	
+CSRO will progressively review additional certifications and update the list where appropriate.
 </details>
 <details>
 <summary><h5>35. Is there a grace period for licensees to obtain Cyber Trust Mark (“CTM”) Promoter (Tier 3) or equivalent certification?</h5></summary>
