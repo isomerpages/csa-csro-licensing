@@ -230,7 +230,7 @@ Licensees should ensure that records capture all required information in suffici
 <details>
 	<summary><h5>26. Will quality requirements be imposed on licensees?</h5></summary>
 	
-The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset. <br>
+The licensing framework aims to raise quality of the standards of the cybersecurity service providers over time. In view of the need to strike a good balance between industry development and cybersecurity needs, quality requirements will not be imposed on the licensees at the outset. <br><br>
 
 CSRO will work with the industry and professional association partners to introduce appropriate standards and certifications in the near future to improve the standing of cybersecurity professionals.
 </details>
