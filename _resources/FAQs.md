@@ -30,7 +30,7 @@ Resellers, third-party vendors or overseas CSPs including the affiliates of a li
 
 <summary><h5>2. What is considered as providing licensable cybersecurity services to the Singapore market?</h5></summary>
 
-Singapore market refers to persons who engage or intend to engage in or advertise its businesses of providing licensable cybersecurity services in Singapore. Generally, this may include, without limitation, persons with customers located in Singapore, and persons that have corporate or business presence in Singapore. Service providers should consider their business plans and activities (including any future business or expansion plan) to determine if licence is required.
+Singapore market refers to persons who engage or intend to engage in or advertise its businesses of providing licensable cybersecurity services in Singapore. Generally, this may include, without limitation, persons with customers located in Singapore, and persons that have corporate or business presence in Singapore. Service providers should consider their business plans and activities (including any future business or expansion plan) to determine if a licence is required.
 
 </details>
 
@@ -44,7 +44,7 @@ Third-party vendors and resellers who are required to be licensed refer to those
 
 <details>
 
-<summary><h5>4. Are all companies under the same corporate group be required to apply for separate licences in order to provide licensable cybersecurity services?</h5></summary>
+<summary><h5>4. Are all companies under the same corporate group required to apply for separate licences in order to provide licensable cybersecurity services?</h5></summary>
 
 Each business entity within the same corporate group is required to apply for a licence if each of this business entity wishes to provide any of the licensable cybersecurity services.
 
@@ -62,13 +62,22 @@ Companies are required to apply for a licence for each of the licensable cyberse
 
 <summary><h5>6. Are the employees of cybersecurity service providers required to apply for an individual licence?</h5></summary>
 
-Individual employees of cybersecurity service providers providing licensable cybersecurity services on behalf of their employer are not required to be licenced.
+Individual employees of cybersecurity service providers that provide licensable cybersecurity services on behalf of their employer are not required to be licenced.
 
 </details>
 
 <details>
 
-<summary><h5>7. What do I need to ensure prior to applying for a licence?</h5></summary>
+<summary><h5>7. Will CSRO consider licensing other cybersecurity services in the future?</h5></summary>
+
+CSRO will continue to monitor international and industry trends and engage the industry where necessary, to assess if any new types of cybersecurity services should be included in the licensing framework, such as those that pose higher risks to consumers.
+
+</details>
+
+**B. Licence Application**
+<details>
+
+<summary><h5>8. What do I need to ensure prior to applying for a licence?</h5></summary>
 
 Business entities are required to ensure that officer of the business entity is fit and proper when applying for a licence. Officer of a business entity refers to any director or partner, or other person listed in the business entity’s business profile e.g. ACRA BizFile, with the exception of shareholders (who are not directors or partners) and company secretary, or any other person who is responsible for the management of the business entity. Individuals who are applying for the licence should also be a fit and proper person to hold the licence. <br><br>
 
@@ -82,11 +91,11 @@ Failing which, the licence application may be rejected.<br><br>
 
 <details>
 
-<summary><h5>8. How can an overseas company or individual apply for a licence?</h5></summary>
+<summary><h5>9. How can an overseas company or individual apply for a licence?</h5></summary>
 
 Overseas companies which are not registered in Singapore but wish to apply to be licensed to provide licensable cybersecurity services to the Singapore market must first apply for a CorpPass Admin Account for Foreign Entity which is necessary for the submission of the licence application via GoBusiness Licensing. For assistance on setting up a CorpPass Admin Account, please visit the <a target="\_blank" href="http://www.corppass.gov.sg/">CorpPass website</a> or email <a href="mailto:support@corppass.gov.sg">support@corppass.gov.sg</a>. Alternatively, please click <a target="\_blank" href="https://www.corppass.gov.sg/corppass/common/contactus">here</a> for more contact options.
 
-<br><br>Do note that overseas companies that are not registered with the Accounting and Corporate Regulatory Authority of Singapore (ACRA) are required to upload a copy of their business profile (reflecting the details of the business registration record with the relevant authorities in the oversea country) in the licence application. Please note that documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person's full name, of his address and of his qualifications for making the translation.
+<br><br>Do note that overseas companies that are not registered with the Accounting and Corporate Regulatory Authority of Singapore (ACRA) are required to upload a copy of their business profile (reflecting the details of the business registration record with the relevant authorities in the oversea country) in the licence application. Documents not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person's full name, address and qualifications for making the translation.
 
 <br><br> Overseas individuals who are not Permanent Residents, Passholders (e.g. Employment Pass, S-Pass etc) or Work Permit holders and wish to apply to be licensed to provide licensable cybersecurity services to the Singapore market must first apply for a Singpass Foreign Account which is necessary for the submission of the licence application via GoBusiness Licensing. To apply for a Singpass Foreign Account, please email contact@csro.gov.sg for further instructions.
 
@@ -94,17 +103,17 @@ Overseas companies which are not registered in Singapore but wish to apply to be
 
 <details>
 
-<summary><h5>9. Who are the Key Executive Officer and Key Officer of a business entity applicant?</h5></summary>
+<summary><h5>10. Who are the Key Executive Officer and Key Officer of a business entity applicant?</h5></summary>
 
 Key Executive Officer refers to the person who is responsible for the proper administration and overall management of the business entity and supervision of its employees.
 
-<br><br>Key Officer refers to any director, partner, or other person listed in the business entity's business profile e.g. ACRA Bizfile, with the exception of shareholders (who are not directors or partners) and the company secretary.
+<br><br>Key Officer refers to any director, partner, or other person listed in the business entity's business profile e.g. ACRA Bizfile, with the exception of shareholders (who are not directors or partners) and the company secretary. This also includes any other person who is responsible for the management of the business entity, that may not be listed in the business profile.
 
 </details>
 
 <details>
 
-<summary><h5>10. Do I need to list down all the employees providing the licensable cybersecurity services in the licence application form?</h5></summary>
+<summary><h5>11. Do I need to list down all the employees providing the licensable cybersecurity services in the licence application form?</h5></summary>
 
 Business entities are only required to include the Key Executive Officer and Key Officer(s) in their licence applications. Do take note that there can only be one Key Executive Officer for each licence application.
 
@@ -112,11 +121,11 @@ Business entities are only required to include the Key Executive Officer and Key
 
 <details>
 
-<summary><h5>11. How does the Licensing Officer determine whether the officers of a business entity applicant are fit and proper?</h5></summary>
+<summary><h5>12. How does the Licensing Officer determine whether the officers of a business entity applicant are fit and proper?</h5></summary>
 
-The Licensing Officer shall consider all relevant facts and matters when determining if officers of the business entity applicant are fit and proper, including whether any key executive officer or key officers:
+The Licensing Officer shall consider all relevant facts and matters when determining if officers of the business entity applicant are fit and proper, including whether any Key Executive Officer or Key Officers:
 
-<ol><font size="3.5">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
+<br>a)Has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
 
 <br>b) Has had a judgment entered against him/her in civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his/her part;
 
@@ -124,41 +133,41 @@ The Licensing Officer shall consider all relevant facts and matters when determi
 
 <br>d) Is an undischarged bankrupt or has entered into a composition with his/her creditors; or
 
-<br>e) Has had a licence revoked by the Licensing Officer previously.</font></ol>
+<br>e) Has had a licence revoked by the Licensing Officer previously.
 
 </details>
 
 <details>
 
-<summary><h5>12. What happens if any of the officers fails to meet the fit and proper criteria?</h5></summary>
+<summary><h5>13. What happens if any of the officers fails to meet the fit and proper criteria?</h5></summary>
 
-Business entity applicants with officer(s) failing to meet the fit and proper criteria may be refused a licence by the Licensing Officer. CSRO would like to highlight that every licence application is considered carefully on a case-by-case basis. For instance, officers of business entity licence applicant who have past criminal conviction will not automatically be deemed as being not fit and proper. Factors such as the seriousness and nature of the offence, the time that has elapsed since the conviction, and the responsibility of the officer will be taken into consideration by the Licensing Officer when assessing the licence application.
-
-</details>
-
-<details>
-
-<summary><h5>13. Is it a requirement to include relevant qualification or experience relating to the licensable cybersecurity service in the licence application?</h5></summary>
-
-Pursuant to regulation 2(2) of the Cybersecurity (Cybersecurity Service Providers) Regulations 2022, a licence application must include information on relevant qualification or experience relating to the licensable cybersecurity services. In the situation where none of the Key Executive Officer or Key Officer(s) has qualification or experience relevant to the licensable service, the information of the relevant qualification or experience of one of the business entity licence applicant's employee or proposed employee with supervisory responsibility who has qualification or experience relating to the licensable service shall be included in the licence application.
+Business entity applicants with officer(s) failing to meet the fit and proper criteria may be refused a licence by the Licensing Officer. CSRO would like to highlight that every licence application is considered carefully on a case-by-case basis. For instance, officers of a business entity licence applicant who have past criminal conviction will not automatically be deemed as being not fit and proper. Factors such as the seriousness and nature of the offence, the time that has elapsed since the conviction, and the responsibility of the officer will be taken into consideration by the Licensing Officer when assessing the licence application.
 
 </details>
 
 <details>
 
-<summary><h5>14. Who would require a Certificate of Clearance?</h5></summary>
+<summary><h5>14. Is it a requirement to include relevant qualification or experience relating to the licensable cybersecurity service in the licence application?</h5></summary>
+
+Pursuant to regulation 2(2) of the Cybersecurity (Cybersecurity Service Providers) Regulations 2022, a licence application must include information on relevant qualification or experience relating to the licensable cybersecurity services. In the situation where none of the Key Executive Officer or Key Officer(s) has qualifications or experience relevant to the licensable service, the information of the relevant qualification or experience of one of the business entity licence applicant's employee or proposed employee with supervisory responsibility who have qualifications or experience relating to the licensable service shall be included in the licence application.
+
+</details>
+
+<details>
+
+<summary><h5>15. Who would require a Certificate of Clearance?</h5></summary>
 
 A Certificate of Clearance (or equivalent documentation) is required for each of the overseas officer(s) and shall be obtained from the relevant authorities in the home country certifying that the officer does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, home country refers to the country of nationality.
 
-<br><br>The Certificate of Clearance (or equivalent documentation) shall not be obtained earlier than three months before the date of licence application submitted to CSRO.
+<br><br>The Certificate of Clearance (or equivalent documentation) shall not be obtained earlier than three months before the date of licence application is submitted to CSRO.
 
 </details>
 
 <details>
 
-<summary><h5>15. What is the format for a Certificate of Clearance?</h5></summary>
+<summary><h5>16. What is the format for a Certificate of Clearance?</h5></summary>
 
-We do not intend to be prescriptive on the format of Certificate of Clearance (or equivalent documentation) from the relevant authorities in the home country. The applicant should ensure that the Certificate of Clearance (or equivalent documentation) minimally certifies that the officer of the business entity licence applicant does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, nationwide includes all states of the home country.
+We do not intend to be prescriptive on the format of the Certificate of Clearance (or equivalent documentation) from the relevant authorities in the home country. The applicant should ensure that the Certificate of Clearance (or equivalent documentation) minimally certifies that the officer of the business entity licence applicant does not have any record of criminal conviction nationwide in the home country. For avoidance of doubt, nationwide includes all states of the home country.
 
 <br><br>Certificate of Clearance (or equivalent documentation) not in the English language must be submitted together with an accurate translation in the English language. The translation must be certified by the person making it to be a correct translation. The certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.
 
