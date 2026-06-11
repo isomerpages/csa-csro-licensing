@@ -481,6 +481,68 @@ consumers such as the list of licensees and buyer’s guides.</p>
 <summary>30. Who can I contact for further details?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For further assistance, please contact us at:</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>30. Who can I contact for further details?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For further assistance, please contact us at:</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>37. Who can I contact for further details?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Licensee may submit their current CTM Promoter (Tier 3) certification
+status and all relevant supporting documents and information via <a href="https://go.gov.sg/licensee-submission-of-certification-information" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>&nbsp;.
+CSRO will contact the licensee for more information if necessary, and provide
+an assessment outcome to the licensee upon completion of the assessment.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>38. Will it be an offence to use unlicensed cybersecurity service providers?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>It will not be an offence under the Cybersecurity Act to use unlicensed
+cybersecurity service providers. However, consumers should be wary of the
+safety and security risks that unlicensed service providers may pose, given
+the service providers’ extensive access into their clients’ computer systems
+when providing their services. Any misuse of such confidential information
+by the unlicensed service providers may result in severe damages to the
+consumers.
+<br>
+<br>Consumers are therefore encouraged to only procure licensable cybersecurity
+services from licensed cybersecurity service providers, and to inform CSRO
+of any service providers who are providing licensable cybersecurity services
+without a licence. A person who engages in the business of providing any
+licensable cybersecurity services to other person without a licence shall
+be guilty of an offence under Section 24 of the Cybersecurity Act and shall
+be liable on conviction to a fine not exceeding $50,000 or to imprisonment
+for a term not exceeding 2 years or to both. Under Section 31 of the Cybersecurity
+Act, unlicensed cybersecurity service providers are also not entitled to
+bring any proceeding in any court to recover any commission, fee, gain,
+or reward for the service provided.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>39. Where can I find the list of licensed cybersecurity service providers?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Consumers may refer to the <a href="https://www.csro.gov.sg/resources/licensed-service-providers/" rel="noopener noreferrer nofollow" target="_blank">lists of licensed cybersecurity service providers</a>.
+Consumers are also encouraged to verify that a cybersecurity service provider
+holds a valid licence before engaging their services.</p>
+</div>
+</details>
+<p><strong>H. About CSRO</strong>
+</p>
+<details class="isomer-details">
+<summary>40. What is the difference between CSA and CSRO?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Cyber Security Agency of Singapore (CSA) is the agency established
+to keep Singapore’s cyberspace safe and secure through administering of
+the Cybersecurity Act. To administer the licensing framework, CSA has set
+up the Cybersecurity Services Regulation Office (CSRO) which will act as
+the point of contact for all licensing-related matters. These include enforcing
+the licensing framework; responding to the industry’s queries and feedback;
+as well as sharing of resources on licensable cybersecurity services with
+consumers such as the list of licensees and buyer’s guides.</p>
 <p></p>
 </div>
 </details>
