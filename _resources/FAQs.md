@@ -4,7 +4,7 @@ permalink: /resources/faqs/
 description: ""
 variant: markdown
 ---
-<font size="3.5"><i>Updated as of 11 June 2026</i></font>
+<font size="3.5"><i>Updated as of 12 June 2026</i></font>
 
 **A. Licensing Requirements**
 
