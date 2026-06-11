@@ -332,7 +332,7 @@ Consumers may refer to the <a target="\_blank" href="https://www.csro.gov.sg/res
 
 <summary><h5>40. What is the difference between CSA and CSRO?</h5></summary>
 
-The Cyber Security Agency of Singapore (CSA) is the agency set up to keep Singapore’s cyberspace safe and secure through the administering of the Cybersecurity Act. To administer the licensing framework, CSA has set up Cybersecurity Services Regulation Office (CSRO) which will act as the point of interface for all licensing related matters. These include enforcing the licensing framework; responding to the industry’s queries and feedback; as well as sharing of resources on licensable cybersecurity services with consumers such as the list of licensees and buyer’s guides.
+The Cyber Security Agency of Singapore (CSA) is the agency established to keep Singapore’s cyberspace safe and secure through administering of the Cybersecurity Act. To administer the licensing framework, CSA has set up the Cybersecurity Services Regulation Office (CSRO) which will act as the point of contact for all licensing-related matters. These include enforcing the licensing framework; responding to the industry’s queries and feedback; as well as sharing of resources on licensable cybersecurity services with consumers such as the list of licensees and buyer’s guides.
 
 </details>
 
