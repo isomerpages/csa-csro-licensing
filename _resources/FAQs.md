@@ -183,23 +183,12 @@ Each licence application takes up to approximately 8 weeks to process upon submi
 
 
 <details>
-
 <summary><h5>18.I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
 
 If you are experiencing any technical difficulties or need assistance with submitting your application, you may contact GoBusiness Licensing Helpdesk at Tel: 63363373.
-
-<details>
-<summary><h5>17. By when and how will I receive the notification on the outcome of a licence application?</h5></summary>
-	
-Each licence application takes up to approximately 8 weeks to process upon submission of a completed form and all required supporting documents. Applicant will receive an email notification on the outcome. If the application is approved, applicant will be required to make ePayment of licence fee via [GoBusiness Licensing](https://www.gobusiness.gov.sg/)&nbsp;prior to the issuance of each licence. Please note that licence fee not paid timely may result in a lapse of the application and new licence application will have to be submitted.
-	</details>
-
-	<details>
-	<summary><h5>18. I have difficulties in submitting my application to GoBusiness Licensing, who can I contact for help?</h5></summary>
-	
-If you are experiencing any technical difficulties or need assistance with submitting your application, you may contact GoBusiness Licensing Helpdesk at Tel: 63363373.
-
 </details>
+
+
 
 **C. Licence Fees and Validity**
 
@@ -409,4 +398,4 @@ Cybersecurity Services Regulation Office<br>
 
 <br><br>Email: <a href="mailto:contact@csro.gov.sg" target="\_blank">contact@csro.gov.sg</a>
 
-</details></details>
+</details>
