@@ -453,47 +453,89 @@ submit an application via the&nbsp;<a href="https://www.gobusiness.gov.sg/" rel=
 <p><strong>F. Requirement for Cyber Trust Mark (“CTM”) Promoter (Tier 3) Certification</strong>
 </p>
 <details class="isomer-details">
-<summary>32. What is the difference between CSA and CSRO?</summary>
+<summary>32. Am I required to obtain Cyber Trust Mark (“CTM”) Promoter (Tier 3)
+or equivalent certification?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Cyber Security Agency of Singapore (CSA) is the agency set up to keep
-Singapore’s cyberspace safe and secure through the administering of the
-Cybersecurity Act. To administer the licensing framework, CSA has set up
-Cybersecurity Services Regulation Office (CSRO) which will act as the point
-of interface for all licensing related matters. These include enforcing
-the licensing framework; responding to the industry’s queries and feedback;
-as well as sharing of resources on licensable cybersecurity services with
-consumers such as the list of licensees and buyer’s guides.</p>
+<p>Under the <a href="https://www.csro.gov.sg/resources/documents-and-guides/conditions-of-licence/" rel="noopener noreferrer nofollow" target="_blank">updated conditions of licence</a> (<em>hyperlinked</em>),
+all licensees who are licensed to provide licensable cybersecurity services
+are required to hold an active CTM Promoter (Tier 3) or equivalent certification.
+This requirement applies uniformly regardless of the type or modality of
+licensable cybersecurity services provided. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>30. Who can I contact for further details?</summary>
+<summary>33. What are the requirements for Cyber Trust Mark (“CTM”) Promoter (Tier
+3) or equivalent certification?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For further assistance, please contact us at:</p>
+<p>Acceptable CTM Promoter (Tier 3) or equivalent certifications are required
+to fulfil the following requirements:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Certification bodies must be accredited by the Singapore Accreditation
+Council or equivalent national accreditation bodies; and</p>
+</li>
+<li>
+<p>Certification must cover the environment (people, processes, and technology)
+supporting the delivery of the licensed cybersecurity service(s). Examples
+of acceptable scope of certification includes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[<em>For providers of one licensable cybersecurity service</em>] Provision
+of licensed cybersecurity services - Penetration testing <em>or</em> Provision
+of licensed cybersecurity services - Managed security operations centre
+(SOC) monitoring</p>
+</li>
+<li>
+<p>[<em>For providers of both licensable cybersecurity services</em>] Provision
+of licensed cybersecurity services – Penetration testing and Managed security
+operations centre monitoring</p>
+</li>
+</ul>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
-<summary>30. Who can I contact for further details?</summary>
+<summary>34. What would be considered as a Cyber Trust Mark (“CTM”) Promoter (Tier
+3) equivalent certification?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For further assistance, please contact us at:</p>
+<p>As indicated in the&nbsp;<a href="https://www.csa.gov.sg/legislation/consultations/closing-note-to-the-consultation-on-the-licensing-framework-for-cybersecurity-service-providers/" rel="noopener noreferrer nofollow" target="_blank">Closing Note to the Consultation on the Licensing Framework for Cybersecurity Service Providers</a>,
+ISO/IEC 27001 certification is currently the only recognised equivalent
+for CTM Promoter (Tier 3), as it is an international information security
+standard. Licensees that have obtained an acceptable ISO/IEC 27001 certificate
+will be deemed to have achieved CTM Advocate (Tier 5) certificate.</p>
+<p>CSRO will progressively review additional certifications and update the
+list where appropriate.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>30. Who can I contact for further details?</summary>
+<summary>35. Is there a grace period for licensees to obtain Cyber Trust Mark (“CTM”)
+Promoter (Tier 3) or equivalent certification?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For further assistance, please contact us at:</p>
+<p>All licensees, regardless of their current CTM Promoter (Tier 3) certification
+status, are given a grace period until 31 December 2026 to obtain the CTM
+Promoter (Tier 3) certification or equivalent certification. After this
+date, licensees must maintain an active CTM Promoter (Tier 3) or equivalent
+certification at all times to comply with the conditions of the licence.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>30. Who can I contact for further details?</summary>
+<summary>36. What happens if a licensee does not hold an active Cyber Trust Mark
+(“CTM”) Promoter (Tier 3) or equivalent certificate by the end of the grace
+period?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For further assistance, please contact us at:</p>
+<p>Licensees that do not hold an active CTM Promoter (Tier 3) or equivalent
+certificate by the end of the grace period will be in breach of their licence
+conditions, which may result in a revocation or suspension of the licence
+under Section 30 of the Cybersecurity Act.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>37. Who can I contact for further details?</summary>
+<summary>37. How should licensee submit their Cyber Trust Mark (“CTM”) Promoter
+(Tier 3) or equivalent certification for assessment?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Licensee may submit their current CTM Promoter (Tier 3) certification
-status and all relevant supporting documents and information via <a href="https://go.gov.sg/licensee-submission-of-certification-information" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>&nbsp;.
+status and all relevant supporting documents and information via <a href="https://go.gov.sg/licensee-submission-of-certification-information" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.
 CSRO will contact the licensee for more information if necessary, and provide
 an assessment outcome to the licensee upon completion of the assessment.</p>
 </div>
