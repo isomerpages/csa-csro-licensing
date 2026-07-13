@@ -4,7 +4,7 @@ permalink: /how-to/renew-licence/
 description: ""
 variant: markdown
 ---
-Licensee is required to submit a licence renewal application <b>no less than two (2) months prior  to the expiry date of the current licence.</b> 
+Licensee is required to submit a licence renewal application <b>no less than one (1) day prior  to the expiry date of the current licence.</b> 
 
 #### At A Glance
 <table class="table-v">
