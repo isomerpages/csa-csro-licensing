@@ -23,7 +23,7 @@ sections:
           description: For Consumers and Applicants
           url: /resources/documents-and-guides/guides
   - announcements:
-      title: Announcements
+      title: Announcement
       id: announcements
       announcement_items:
         - title: Change in renewal application deadline
