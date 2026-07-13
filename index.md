@@ -22,18 +22,6 @@ sections:
         - title: List of Guides
           description: For Consumers and Applicants
           url: /resources/documents-and-guides/guides
-  - announcements:
-      title: Announcement
-      id: announcements
-      announcement_items:
-        - title: Change in renewal application deadline
-          date: 13 July 2026
-          announcement: With effect from 13 July 2026, the renewal application deadline
-            for CSRO’s licences has been extended to one day before expiry of
-            licence.  Licensees can submit a licence renewal application no less
-            than one day before the expiry of the current licence.
-          link_text: ""
-          link_url: ""
   - infobar:
       title: Forum for Licensed Cybersecurity Service Providers (CSPs)
       id: infobar
