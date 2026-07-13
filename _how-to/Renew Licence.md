@@ -4,17 +4,13 @@ permalink: /how-to/renew-licence/
 description: ""
 variant: markdown
 ---
-Licensee is required to submit a licence renewal application <b>no less than two (2) months prior  to the expiry date of the current licence.</b> 
+Licensee is required to submit a licence renewal application <b>no less than one (1) day prior  to the expiry date of the current licence.</b> 
 
 #### At A Glance
 <table class="table-v">
   <tbody><tr>
     <td>Licence Renewal Fees for each Licence</td>
-			<td>
-				<b>(A) For applications approved before 16 March 2026</b>
-				<br>Business entity - S$1000<br>Individual - S$500<br>
-				<br><b>(B) For applications approved on and after 16 March 2026</b>
-  <br>Business entity - S$2500<br>Individual - S$1250<br></td>
+			<td>Business entity - S$2500<br>Individual - S$1250<br></td>
   </tr>
   <tr>
     <td>Refund</td>
@@ -22,8 +18,7 @@ Licensee is required to submit a licence renewal application <b>no less than two
   </tr>
   <tr>
     <td>Licence Validity Period</td>
-    <td><b>(A) For applications approved before 16 March 2026</b><br>Two years starting from the end of the current licence validity period.<br><br>
-			<b>(B) For applications approved on and after 16 March 2026</b><br>
+    <td>
 			Five years starting from the end of the current licence validity period.</td>
   </tr>
     <tr><td>Application Processing Time</td>
@@ -35,7 +30,7 @@ Licensee is required to submit a licence renewal application <b>no less than two
 Licensee is encouraged to submit its licence renewal application once the licensee receives the system generated email reminder via GoBusiness Licensing <b>120 days prior to the expiry date of the current licence.</b> 
 
 <font size="4.5">Note:</font>
-<ul><li><font size="4.5">Licensee who fails to submit their renewal application by the <b>due date</b> (i.e., no less than two (2) months prior to the expiry of the current licence) will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to <b>suspend its operations until a new licence is granted.</b></font></li></ul>
+<ul><li><font size="4.5">Licensee who fails to submit their renewal application by the <b>due date</b> (i.e., no less than one (1) day prior to the expiry of the current licence) will be required to apply for a new licence. If new licence is not granted by the expiry of current licence, licensee will be required to <b>suspend its operations until a new licence is granted.</b></font></li></ul>
 <ul><li><font size="4.5">Renewed licence validity period will start from the end of the current licence validity period.</font></li></ul>
 
 #### Criteria for Renewal of a Licence 

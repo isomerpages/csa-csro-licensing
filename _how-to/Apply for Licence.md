@@ -17,10 +17,8 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
   </td>
   </tr><tr>
 	<td>Licence Fees for each Licence</td>
-			<td><b>(A) For applications approved before 16 March 2026</b>
-		 <br>Business entity - S$1000<br>Individual - S$500<br><br>
-			<b>(B) For applications approved on and after 16 March 2026</b>
-		 <br>Business entity - S$2500<br>Individual - S$1250
+			<td>
+		 Business entity - S$2500<br>Individual - S$1250
 		</td>
   </tr>
   <tr>
@@ -29,8 +27,7 @@ Under the [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecur
   </tr>
   <tr>
 	<td>Licence Validity Period</td>
-		<td><b>(A) For applications approved before 16 March 2026</b><br>Two years from the date of licence issuance.<br><br>
-			<b>(B) For applications approved on and after 16 March 2026</b><br>
+		<td>
 			Five years from the date of licence issuance.
 		</td>
   </tr>
