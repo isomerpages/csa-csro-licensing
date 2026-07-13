@@ -4,7 +4,7 @@ permalink: /resources/faqs/
 description: ""
 variant: markdown
 ---
-<font size="3.5"><i>Updated as of 12 June 2026</i></font>
+<font size="3.5"><i>Updated as of 13 July 2026</i></font>
 
 **A. Licensing Requirements**
 
@@ -193,14 +193,14 @@ If you are experiencing any technical difficulties or need assistance with submi
 <details>
 <summary><h5>19. How long is the validity period of a licence and what are the fees payable for a licence?</h5></summary>
 	
-For licence applications approved from 16 March 2026, a licence is valid for a period of 5 years and the licence fees for individuals and business entities are $1250 and $2500 respectively.
+A licence is valid for a period of 5 years and the licence fees for individuals and business entities are $1250 and $2500 respectively.
 </details>
 
 **D. Licence Renewal**
 <details>
 	<summary><h5>20. When should a licence renewal application be submitted?</h5></summary>
 
-An application for renewal of a licence must be made no later than 2 months before the licence’s expiry. Licensee who fails to submit a licence renewal application 2 months prior to the expiry may be required to apply for a new licence. This may result in a possible lapse in the licensure period where the business entity will be required to suspend its operations, until the outcome of its licence application is determined.
+An application for renewal of a licence must be made no later than 1 day before the licence’s expiry. Licensee who fails to submit a licence renewal application 1 day prior to the expiry will be required to apply for a new licence. This may result in a possible lapse in the licensure period where the business entity will be required to suspend its operations, until the outcome of its licence application is determined.
 	</details>
 
 <details>
