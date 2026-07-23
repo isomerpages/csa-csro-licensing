@@ -34,6 +34,15 @@ sections:
             than one day before the expiry of the current licence.
           link_text: ""
           link_url: ""
+  - infopic:
+      title: Reminder to submit Cyber Trust Mark certification status
+      id: infopic
+      description: Licensees are reminded to submit the Cyber Trust Mark (“CTM”) or
+        equivalent certification status.
+      button: Submit CTM certification status
+      url: https://form.gov.sg/698d7364b947fa945567f780
+      image: /images/EDM_for_Licensees__June_2026.png
+      alt: Image alt text
   - infobar:
       title: Forum for Licensed Cybersecurity Service Providers (CSPs)
       id: infobar
